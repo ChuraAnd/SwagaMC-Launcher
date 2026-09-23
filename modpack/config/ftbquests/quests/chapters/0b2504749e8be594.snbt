@@ -1,0 +1,14 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "0b2504749e8be594"
+	group: "47E5B158817082FA"
+	icon: {
+		id: "fluxnetworks:flux_point"
+	}
+	id: "0B2504749E8BE594"
+	images: [ ]
+	order_index: 7
+	quest_links: [ ]
+	quests: [ ]
+}

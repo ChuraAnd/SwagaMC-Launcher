@@ -1,0 +1,133 @@
+/** EMI Config - Optimized for 350+ mods */
+
+#general {
+	enabled: true;
+	cheat-mode: false;
+	help-level: normal;
+	
+	// ИЗМЕНЕНО: creative сканирует весь креатив при запуске - медленно
+	// all - быстрее, но показывает больше предметов
+	index-source: all;
+
+	search-sidebar: right;
+	
+	// ИЗМЕНЕНО: отключаем поиск по тултипам - сильно ускоряет поиск
+	search-tooltip-by-default: false;
+	search-mod-name-by-default: false;
+	search-tags-by-default: false;
+}
+
+#ui {
+	recipe-book-action: toggle-craftables;
+	effect-location: top;
+	show-hover-overlay: true;
+	
+	// ИЗМЕНЕНО: отключаем отображение ID мода в тултипах - меньше рендеринга
+	append-mod-id: false;
+	append-item-mod-id: false;
+	
+	miscraft-prevention: true;
+	fluid-unit: millibuckets;
+	use-batched-renderer: true;
+	center-search-bar: true;
+	search-sidebar-focus: index;
+	empty-search-sidebar-focus: none;
+	emi-config-button-visibility: shown;
+	recipe-tree-button-visibility: auto;
+	
+	// ИЗМЕНЕНО: уменьшаем высоту экрана рецептов
+	maximum-recipe-screen-height: 200;
+	minimum-recipe-screen-width: 176;
+	vertical-margin: 10;
+	workstation-location: bottom;
+	
+	// ИЗМЕНЕНО: отключаем расчет стоимости - тяжелая операция
+	show-cost-per-batch: false;
+	
+	recipe-default-button: true;
+	
+	// ИЗМЕНЕНО: отключаем дерево рецептов - очень тяжело для 350+ модов
+	recipe-tree-button: false;
+	
+	recipe-fill-button: true;
+	recipe-screenshot-button: false;
+	recipe-screenshot-scale: 0;
+
+	// ИЗМЕНЕНО: уменьшаем размер сайдбаров - меньше рендеринга
+	left-sidebar-pages: favorites;
+	left-sidebar-subpanels: none;
+	left-sidebar-size: 9, 50;  // было 12, 100
+	left-sidebar-margins: 2, 2, 2, 2;
+	left-sidebar-align: left, top;
+	left-sidebar-header: visible;
+	left-sidebar-theme: transparent;
+
+	// ИЗМЕНЕНО: убираем craftables - постоянно обновляется, жрет ресурсы
+	right-sidebar-pages: index;
+	right-sidebar-subpanels: none;
+	right-sidebar-size: 9, 50;  // было 12, 100
+	right-sidebar-margins: 2, 2, 2, 2;
+	right-sidebar-align: right, top;
+	right-sidebar-header: visible;
+	right-sidebar-theme: transparent;
+
+	top-sidebar-pages: none;
+	top-sidebar-subpanels: none;
+	top-sidebar-size: 9, 9;
+	top-sidebar-margins: 2, 2, 2, 2;
+	top-sidebar-align: center, center;
+	top-sidebar-header: visible;
+	top-sidebar-theme: transparent;
+
+	bottom-sidebar-pages: none;
+	bottom-sidebar-subpanels: none;
+	bottom-sidebar-size: 9, 9;
+	bottom-sidebar-margins: 2, 2, 2, 2;
+	bottom-sidebar-align: center, center;
+	bottom-sidebar-header: visible;
+	bottom-sidebar-theme: transparent;
+}
+
+#binds {
+	toggle-visibility: "ctrl key.keyboard.o";
+	focus-search: "ctrl key.keyboard.f";
+	clear-search: "key.keyboard.unknown";
+	view-recipes: "key.keyboard.r";
+	view-recipes: "key.mouse.left";
+	view-uses: "key.keyboard.u";
+	view-uses: "key.mouse.right";
+	favorite: "key.keyboard.a";
+	default-stack: "ctrl key.mouse.left";
+	view-stack-tree: "key.keyboard.unknown";
+	view-tree: "key.keyboard.unknown";
+	back: "key.keyboard.backspace";
+	forward: "key.keyboard.unknown";
+	craft-one: "key.mouse.left";
+	craft-all: "shift key.mouse.left";
+	craft-one-to-inventory: "key.keyboard.unknown";
+	craft-all-to-inventory: "key.keyboard.unknown";
+	craft-one-to-cursor: "ctrl key.mouse.left";
+	show-craft: "key.keyboard.left.shift";
+	cheat-one-to-inventory: "ctrl key.mouse.right";
+	cheat-stack-to-inventory: "ctrl key.mouse.left";
+	cheat-one-to-cursor: "ctrl key.mouse.middle";
+	cheat-stack-to-cursor: "key.keyboard.unknown";
+	delete-cursor-stack: "key.mouse.left";
+	copy-recipe-id: "key.keyboard.unknown";
+	hide-stack: "ctrl key.mouse.left";
+	hide-stack-by-id: "ctrl shift key.mouse.left";
+}
+
+#dev {
+	dev-mode: false;
+	
+	// ИЗМЕНЕНО: включаем edit-mode для скрытия предметов
+	edit-mode: true;
+	
+	log-untranslated-tags: false;
+	log-non-tag-ingredients: false;
+	show-recipe-ids: false;
+	show-recipe-decorators: false;
+	highlight-defaulted: false;
+	highlight-exclusion-areas: false;
+}

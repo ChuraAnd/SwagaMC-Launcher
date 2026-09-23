@@ -1,0 +1,7 @@
+node_modules/
+dist/
+minecraft/
+.DS_Store
+*.log
+.env
+generate-manifest.js

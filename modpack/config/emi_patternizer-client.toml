@@ -1,0 +1,18 @@
+#Delay per click
+# Default: 60
+# Range: 0 ~ 9223372036854775807
+delayPerOperation = 60
+#Additional delay after 3 clicks
+# Default: 20
+# Range: 0 ~ 9223372036854775807
+delayAdditionalPerPattern = 20
+#Delay before read patterns from terminal (Unit: Millisecond)
+# Default: 1000
+# Range: 0 ~ 9223372036854775807
+delayBeforeRead = 1000
+#Play a sound after recipe fill
+isPlaySound = true
+#Whether to simulate a encode button click
+isSimulateClick = false
+#Whether to show the loaded message
+isShowLoaded = true

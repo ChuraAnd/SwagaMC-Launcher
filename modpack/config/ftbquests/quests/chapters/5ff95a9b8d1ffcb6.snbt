@@ -1,0 +1,14 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "5ff95a9b8d1ffcb6"
+	group: "149412A86E2D03FD"
+	icon: {
+		id: "twilightforest:twilight_oak_sapling"
+	}
+	id: "5FF95A9B8D1FFCB6"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

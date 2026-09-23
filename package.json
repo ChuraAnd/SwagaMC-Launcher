@@ -1,0 +1,60 @@
+{
+  "name": "swagamc-launcher",
+  "version": "1.0.0",
+  "description": "SwagaMC Custom Launcher",
+  "main": "main.js",
+  "author": "ChuraAnd",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder",
+    "build": "electron-builder --win --x64"
+  },
+  "dependencies": {
+    "minecraft-java-core": "^4.2.9"
+  },
+  "devDependencies": {
+    "electron": "^32.0.0",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "com.swagamc.launcher",
+    "productName": "SwagaMC Launcher",
+    "asar": true,
+    "asarUnpack": [
+      "**/node_modules/minecraft-java-core/**/*",
+      "**/node_modules/7zip-bin/**/*"
+    ],
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "build/icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "SwagaMC Launcher",
+      "installerIcon": "build/icon.ico",
+      "uninstallerIcon": "build/icon.ico"
+    },
+    "files": [
+      "main.js",
+      "index.html",
+      "style.css",
+      "renderer.js",
+      "package.json",
+      "node_modules/**/*",
+      "build/**/*",
+      "screenshots/**/*",
+      "data/**/*",
+      "modpack/**/*",
+      "!**/*.md",
+      "!**/.gitignore",
+      "!**/.git/**/*",
+      "!**/node_modules/.cache/**/*"
+    ]
+  }
+}

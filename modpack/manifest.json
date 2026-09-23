@@ -1,0 +1,3032 @@
+{
+  "version": "1.0.0",
+  "minecraft": "1.21.1",
+  "neoforge": "21.1.248",
+  "generated": "2026-09-23T21:03:53.638Z",
+  "files": [
+    {
+      "type": "mod",
+      "name": "AdvancedAE-1.6.12-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/AdvancedAE-1.6.12-1.21.1.jar",
+      "size": 4791255
+    },
+    {
+      "type": "mod",
+      "name": "ae2fix-0.6.0.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/ae2fix-0.6.0.jar",
+      "size": 11998
+    },
+    {
+      "type": "mod",
+      "name": "ae2wtlib-19.5.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/ae2wtlib-19.5.1.jar",
+      "size": 252091
+    },
+    {
+      "type": "mod",
+      "name": "ae2_overclocked-1.2.3-fix2-beta1-1.21.1Neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/ae2_overclocked-1.2.3-fix2-beta1-1.21.1Neoforge.jar",
+      "size": 218418
+    },
+    {
+      "type": "mod",
+      "name": "another_furniture-neoforge-4.0.2.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/another_furniture-neoforge-4.0.2.jar",
+      "size": 2419985
+    },
+    {
+      "type": "mod",
+      "name": "appbot-1.6.0-alpha.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/appbot-1.6.0-alpha.1.jar",
+      "size": 210492
+    },
+    {
+      "type": "mod",
+      "name": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "size": 75804
+    },
+    {
+      "type": "mod",
+      "name": "applied-experienced-1.21.1-1.3.2.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/applied-experienced-1.21.1-1.3.2.jar",
+      "size": 214764
+    },
+    {
+      "type": "mod",
+      "name": "Applied-Mekanistics-1.6.3.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/Applied-Mekanistics-1.6.3.jar",
+      "size": 154022
+    },
+    {
+      "type": "mod",
+      "name": "appliedenergistics2-19.2.17.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/appliedenergistics2-19.2.17.jar",
+      "size": 8230896
+    },
+    {
+      "type": "mod",
+      "name": "AppliedFlux-1.21-2.1.5-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/AppliedFlux-1.21-2.1.5-neoforge.jar",
+      "size": 355172
+    },
+    {
+      "type": "mod",
+      "name": "appliedhistory-1.21.1-neo-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/appliedhistory-1.21.1-neo-1.0.1.jar",
+      "size": 199083
+    },
+    {
+      "type": "mod",
+      "name": "appliedschematics-0.21.0.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/appliedschematics-0.21.0.jar",
+      "size": 229059
+    },
+    {
+      "type": "mod",
+      "name": "architectury-13.0.11-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/architectury-13.0.11-neoforge.jar",
+      "size": 584734
+    },
+    {
+      "type": "mod",
+      "name": "arseng-2.1.1-beta.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/arseng-2.1.1-beta.jar",
+      "size": 127152
+    },
+    {
+      "type": "mod",
+      "name": "ars_elemental-1.21.1-0.7.10.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/ars_elemental-1.21.1-0.7.10.1.jar",
+      "size": 2301783
+    },
+    {
+      "type": "mod",
+      "name": "ars_nouveau-1.21.1-5.13.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/ars_nouveau-1.21.1-5.13.1.jar",
+      "size": 20107711
+    },
+    {
+      "type": "mod",
+      "name": "artifacts-neoforge-13.2.5.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/artifacts-neoforge-13.2.5.jar",
+      "size": 1086922
+    },
+    {
+      "type": "mod",
+      "name": "athena-neoforge-1.21.1-4.0.6.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/athena-neoforge-1.21.1-4.0.6.jar",
+      "size": 99944
+    },
+    {
+      "type": "mod",
+      "name": "ATi Structures V1.4.6.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/ATi Structures V1.4.6.jar",
+      "size": 13115969
+    },
+    {
+      "type": "mod",
+      "name": "balm-neoforge-1.21.1-21.0.65.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/balm-neoforge-1.21.1-21.0.65.jar",
+      "size": 783793
+    },
+    {
+      "type": "mod",
+      "name": "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+      "size": 98641
+    },
+    {
+      "type": "mod",
+      "name": "bettercombat-neoforge-2.4.0+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/bettercombat-neoforge-2.4.0+1.21.1.jar",
+      "size": 1045389
+    },
+    {
+      "type": "mod",
+      "name": "BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "size": 481646
+    },
+    {
+      "type": "mod",
+      "name": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "size": 328813
+    },
+    {
+      "type": "mod",
+      "name": "botania-neoforge-1.21.1-454-20260524.160041-1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/botania-neoforge-1.21.1-454-20260524.160041-1.jar",
+      "size": 20956331
+    },
+    {
+      "type": "mod",
+      "name": "cloth-config-15.0.140-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/cloth-config-15.0.140-neoforge.jar",
+      "size": 1163890
+    },
+    {
+      "type": "mod",
+      "name": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "size": 18382
+    },
+    {
+      "type": "mod",
+      "name": "connector-2.0.0-beta.17+1.21.1-full.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/connector-2.0.0-beta.17+1.21.1-full.jar",
+      "size": 4573244
+    },
+    {
+      "type": "mod",
+      "name": "copycats-3.0.9+mc.1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/copycats-3.0.9+mc.1.21.1-neoforge.jar",
+      "size": 1799381
+    },
+    {
+      "type": "mod",
+      "name": "Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+      "size": 309763
+    },
+    {
+      "type": "mod",
+      "name": "coroutil-neoforge-1.21.0-1.3.8.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "size": 63981
+    },
+    {
+      "type": "mod",
+      "name": "CraftTweaker-neoforge-1.21.1-21.0.38.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/CraftTweaker-neoforge-1.21.1-21.0.38.jar",
+      "size": 3465718
+    },
+    {
+      "type": "mod",
+      "name": "Create Encased-1.21.1-1.9.0-ht3.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/Create Encased-1.21.1-1.9.0-ht3.jar",
+      "size": 3110804
+    },
+    {
+      "type": "mod",
+      "name": "create-1.21.1-6.0.10.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/create-1.21.1-6.0.10.jar",
+      "size": 19123767
+    },
+    {
+      "type": "mod",
+      "name": "Create-Structures-Arise-1.21.1-NeoForge-176.49.49.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/Create-Structures-Arise-1.21.1-NeoForge-176.49.49.jar",
+      "size": 1843340
+    },
+    {
+      "type": "mod",
+      "name": "createaddition-1.7.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/createaddition-1.7.1.jar",
+      "size": 1726257
+    },
+    {
+      "type": "mod",
+      "name": "createbb-1.1.3.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/createbb-1.1.3.jar",
+      "size": 179028
+    },
+    {
+      "type": "mod",
+      "name": "createdieselgenerators-1.21.1-1.3.15.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/createdieselgenerators-1.21.1-1.3.15.jar",
+      "size": 3154746
+    },
+    {
+      "type": "mod",
+      "name": "createliquidfuel-3.0.0-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/createliquidfuel-3.0.0-1.21.1.jar",
+      "size": 21815
+    },
+    {
+      "type": "mod",
+      "name": "create_connected-1.3.3-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/create_connected-1.3.3-mc1.21.1.jar",
+      "size": 6786783
+    },
+    {
+      "type": "mod",
+      "name": "create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
+      "size": 98709
+    },
+    {
+      "type": "mod",
+      "name": "create_ltab-4.1.0.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/create_ltab-4.1.0.jar",
+      "size": 2894822
+    },
+    {
+      "type": "mod",
+      "name": "create_oxidized-0.1.3.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/create_oxidized-0.1.3.jar",
+      "size": 121297
+    },
+    {
+      "type": "mod",
+      "name": "create_power_loader-2.0.5-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/create_power_loader-2.0.5-mc1.21.1.jar",
+      "size": 442369
+    },
+    {
+      "type": "mod",
+      "name": "create_things_and_misc-4.1.1-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/create_things_and_misc-4.1.1-neoforge-1.21.1.jar",
+      "size": 1055815
+    },
+    {
+      "type": "mod",
+      "name": "create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
+      "size": 235239
+    },
+    {
+      "type": "mod",
+      "name": "CreativeCore_NEOFORGE_v2.13.46_mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/CreativeCore_NEOFORGE_v2.13.46_mc1.21.1.jar",
+      "size": 1235813
+    },
+    {
+      "type": "mod",
+      "name": "cristellib-neoforge-1.21.1-3.1.7.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/cristellib-neoforge-1.21.1-3.1.7.jar",
+      "size": 583525
+    },
+    {
+      "type": "mod",
+      "name": "Cucumber-1.21.1-8.0.16.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/Cucumber-1.21.1-8.0.16.jar",
+      "size": 275588
+    },
+    {
+      "type": "mod",
+      "name": "curios-neoforge-9.5.1+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "size": 418122
+    },
+    {
+      "type": "mod",
+      "name": "cwb-neoforge-3.0.0+mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/cwb-neoforge-3.0.0+mc1.21.jar",
+      "size": 81843
+    },
+    {
+      "type": "mod",
+      "name": "cyclopscore-1.21.1-neoforge-1.30.0.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/cyclopscore-1.21.1-neoforge-1.30.0.jar",
+      "size": 1163177
+    },
+    {
+      "type": "mod",
+      "name": "delightlib-26.05.18-1.21-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/delightlib-26.05.18-1.21-neoforge.jar",
+      "size": 59438
+    },
+    {
+      "type": "mod",
+      "name": "DnDesires-1.21.1-2.3a-BETA.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/DnDesires-1.21.1-2.3a-BETA.jar",
+      "size": 1249099
+    },
+    {
+      "type": "mod",
+      "name": "dummmmmmy-1.21-2.1.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/dummmmmmy-1.21-2.1.1-neoforge.jar",
+      "size": 214761
+    },
+    {
+      "type": "mod",
+      "name": "DungeonsArise-1.21.1-2.1.68-release.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/DungeonsArise-1.21.1-2.1.68-release.jar",
+      "size": 11868317
+    },
+    {
+      "type": "mod",
+      "name": "e4mc-neoforge-6.2.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/e4mc-neoforge-6.2.1.jar",
+      "size": 664332
+    },
+    {
+      "type": "mod",
+      "name": "embeddium-1.0.15+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/embeddium-1.0.15+mc1.21.1.jar",
+      "size": 1048745
+    },
+    {
+      "type": "mod",
+      "name": "emi-1.1.24+1.21.1+neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/emi-1.1.24+1.21.1+neoforge.jar",
+      "size": 1111538
+    },
+    {
+      "type": "mod",
+      "name": "emi-structures-0.1.0.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/emi-structures-0.1.0.jar",
+      "size": 44748
+    },
+    {
+      "type": "mod",
+      "name": "emiffect-neoforge-2.1.6+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/emiffect-neoforge-2.1.6+mc1.21.1.jar",
+      "size": 38160
+    },
+    {
+      "type": "mod",
+      "name": "EMIProfessions-neoforge-1.21.1-1.0.3.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/EMIProfessions-neoforge-1.21.1-1.0.3.jar",
+      "size": 23543
+    },
+    {
+      "type": "mod",
+      "name": "emitrades-reborn-2.0.0+mc1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/emitrades-reborn-2.0.0+mc1.21.1-neoforge.jar",
+      "size": 34297
+    },
+    {
+      "type": "mod",
+      "name": "emixx-2.1.0.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/emixx-2.1.0.jar",
+      "size": 136465
+    },
+    {
+      "type": "mod",
+      "name": "emi_enchanting-0.1.2+1.21+neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/emi_enchanting-0.1.2+1.21+neoforge.jar",
+      "size": 15680
+    },
+    {
+      "type": "mod",
+      "name": "emi_ores-1.3+1.21.1+neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/emi_ores-1.3+1.21.1+neoforge.jar",
+      "size": 116663
+    },
+    {
+      "type": "mod",
+      "name": "emi_patternizer-1.1.3.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/emi_patternizer-1.1.3.jar",
+      "size": 30755
+    },
+    {
+      "type": "mod",
+      "name": "enderio-8.2.12-beta.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/enderio-8.2.12-beta.jar",
+      "size": 6598496
+    },
+    {
+      "type": "mod",
+      "name": "entityculling-neoforge-1.10.5-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+      "size": 1585287
+    },
+    {
+      "type": "mod",
+      "name": "entity_model_features-3.3.6-1.21-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/entity_model_features-3.3.6-1.21-neoforge.jar",
+      "size": 633430
+    },
+    {
+      "type": "mod",
+      "name": "entity_texture_features-7.2.2-1.21-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/entity_texture_features-7.2.2-1.21-neoforge.jar",
+      "size": 784568
+    },
+    {
+      "type": "mod",
+      "name": "eternalstarlight-0.8.1+1.21.1+neoforge-fixcustom.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/eternalstarlight-0.8.1+1.21.1+neoforge-fixcustom.jar",
+      "size": 57393450
+    },
+    {
+      "type": "mod",
+      "name": "evilcraft-1.21.1-neoforge-1.2.96.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/evilcraft-1.21.1-neoforge-1.2.96.jar",
+      "size": 2848712
+    },
+    {
+      "type": "mod",
+      "name": "experiencelib-1.21.1-1.2.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/experiencelib-1.21.1-1.2.1.jar",
+      "size": 169856
+    },
+    {
+      "type": "mod",
+      "name": "ExtendedAE-1.21-2.2.35-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/ExtendedAE-1.21-2.2.35-neoforge.jar",
+      "size": 5621474
+    },
+    {
+      "type": "mod",
+      "name": "ExtendedCrafting-1.21.1-7.0.9.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/ExtendedCrafting-1.21.1-7.0.9.jar",
+      "size": 670886
+    },
+    {
+      "type": "mod",
+      "name": "extra-mod-integrations-all-neoforge-1.0.3+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/extra-mod-integrations-all-neoforge-1.0.3+1.21.1.jar",
+      "size": 316330
+    },
+    {
+      "type": "mod",
+      "name": "extrahnn-1.21.1-2.2.5-NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/extrahnn-1.21.1-2.2.5-NeoForge.jar",
+      "size": 1016045
+    },
+    {
+      "type": "mod",
+      "name": "FarmersDelight-1.21.1-1.3.2.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/FarmersDelight-1.21.1-1.3.2.jar",
+      "size": 3211357
+    },
+    {
+      "type": "mod",
+      "name": "FarmersDelight-1.21.1-1.3.4.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/FarmersDelight-1.21.1-1.3.4.jar",
+      "size": 3160490
+    },
+    {
+      "type": "mod",
+      "name": "farmersexpanse-0.0.7c.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/farmersexpanse-0.0.7c.jar",
+      "size": 190597
+    },
+    {
+      "type": "mod",
+      "name": "farmersknives-neoforge-1.21.1-4.2.0.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/farmersknives-neoforge-1.21.1-4.2.0.jar",
+      "size": 91362
+    },
+    {
+      "type": "mod",
+      "name": "FarmersStructures-1.0.2-1.21.1_neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/FarmersStructures-1.0.2-1.21.1_neoforge.jar",
+      "size": 497259
+    },
+    {
+      "type": "mod",
+      "name": "ferritecore-7.0.3-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/ferritecore-7.0.3-neoforge.jar",
+      "size": 117024
+    },
+    {
+      "type": "mod",
+      "name": "FluxNetworks-1.21.1-8.0.0.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/FluxNetworks-1.21.1-8.0.0.jar",
+      "size": 548478
+    },
+    {
+      "type": "mod",
+      "name": "ftb-library-neoforge-2101.1.36.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/ftb-library-neoforge-2101.1.36.jar",
+      "size": 1439427
+    },
+    {
+      "type": "mod",
+      "name": "ftb-quests-neoforge-2101.1.36.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/ftb-quests-neoforge-2101.1.36.jar",
+      "size": 1609984
+    },
+    {
+      "type": "mod",
+      "name": "ftb-teams-neoforge-2101.1.11.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/ftb-teams-neoforge-2101.1.11.jar",
+      "size": 308236
+    },
+    {
+      "type": "mod",
+      "name": "ftb-xmod-compat-neoforge-21.1.10.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/ftb-xmod-compat-neoforge-21.1.10.jar",
+      "size": 154898
+    },
+    {
+      "type": "mod",
+      "name": "fusion-1.3.15a-neoforge-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/fusion-1.3.15a-neoforge-mc1.21.1.jar",
+      "size": 947072
+    },
+    {
+      "type": "mod",
+      "name": "geckolib-neoforge-1.21.1-4.9.3.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/geckolib-neoforge-1.21.1-4.9.3.jar",
+      "size": 634531
+    },
+    {
+      "type": "mod",
+      "name": "GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "size": 90717
+    },
+    {
+      "type": "mod",
+      "name": "Glodium-1.21-2.2-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/Glodium-1.21-2.2-neoforge.jar",
+      "size": 61377
+    },
+    {
+      "type": "mod",
+      "name": "gravestone-neoforge-1.21.1-1.0.40.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/gravestone-neoforge-1.21.1-1.0.40.jar",
+      "size": 322082
+    },
+    {
+      "type": "mod",
+      "name": "guideme-21.1.17.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/guideme-21.1.17.jar",
+      "size": 9309396
+    },
+    {
+      "type": "mod",
+      "name": "HeldItemTooltips-v21.1.0-1.21.1-NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/HeldItemTooltips-v21.1.0-1.21.1-NeoForge.jar",
+      "size": 74451
+    },
+    {
+      "type": "mod",
+      "name": "HostileNeuralNetworks-1.21.1-6.5.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/HostileNeuralNetworks-1.21.1-6.5.1.jar",
+      "size": 502230
+    },
+    {
+      "type": "mod",
+      "name": "igleelib-1.21.1-1.2.7.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/igleelib-1.21.1-1.2.7.jar",
+      "size": 235777
+    },
+    {
+      "type": "mod",
+      "name": "ImmediatelyFast-NeoForge-1.6.14+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/ImmediatelyFast-NeoForge-1.6.14+1.21.1.jar",
+      "size": 365195
+    },
+    {
+      "type": "mod",
+      "name": "industrialforegoing-1.21-3.6.39.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/industrialforegoing-1.21-3.6.39.jar",
+      "size": 4779487
+    },
+    {
+      "type": "mod",
+      "name": "interiors-1.21.1-neoforge-0.6.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/interiors-1.21.1-neoforge-0.6.1.jar",
+      "size": 486912
+    },
+    {
+      "type": "mod",
+      "name": "inventorysorter-1.21.1-24.0.24.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/inventorysorter-1.21.1-24.0.24.jar",
+      "size": 54155
+    },
+    {
+      "type": "mod",
+      "name": "InvMove-0.9.3+1.21.1-NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/InvMove-0.9.3+1.21.1-NeoForge.jar",
+      "size": 87005
+    },
+    {
+      "type": "mod",
+      "name": "ironchest-1.21-neoforge-16.0.7.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/ironchest-1.21-neoforge-16.0.7.jar",
+      "size": 312780
+    },
+    {
+      "type": "mod",
+      "name": "Jade-1.21.1-NeoForge-15.10.6.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/Jade-1.21.1-NeoForge-15.10.6.jar",
+      "size": 726853
+    },
+    {
+      "type": "mod",
+      "name": "JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "size": 75672
+    },
+    {
+      "type": "mod",
+      "name": "kotlinforforge-5.12.0-all.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/kotlinforforge-5.12.0-all.jar",
+      "size": 7279264
+    },
+    {
+      "type": "mod",
+      "name": "kubejs-neoforge-2101.7.2-build.368.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/kubejs-neoforge-2101.7.2-build.368.jar",
+      "size": 2326967
+    },
+    {
+      "type": "mod",
+      "name": "ldlib2-neoforge-1.21.1-2.2.40-all.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/ldlib2-neoforge-1.21.1-2.2.40-all.jar",
+      "size": 7465299
+    },
+    {
+      "type": "mod",
+      "name": "LeaveMyBarsAlone-v21.1.2-1.21.1-NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/LeaveMyBarsAlone-v21.1.2-1.21.1-NeoForge.jar",
+      "size": 51042
+    },
+    {
+      "type": "mod",
+      "name": "letsdo-vinery-neoforge-1.5.3.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/letsdo-vinery-neoforge-1.5.3.jar",
+      "size": 2001616
+    },
+    {
+      "type": "mod",
+      "name": "lionfishapi-3.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/lionfishapi-3.1.jar",
+      "size": 91596
+    },
+    {
+      "type": "mod",
+      "name": "lithium-neoforge-0.15.4+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
+      "size": 792540
+    },
+    {
+      "type": "mod",
+      "name": "lodestone-1.21.1-1.8.2.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/lodestone-1.21.1-1.8.2.jar",
+      "size": 818829
+    },
+    {
+      "type": "mod",
+      "name": "L_Ender's Cataclysm 1.21.1-3.33.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/L_Ender's Cataclysm 1.21.1-3.33.jar",
+      "size": 73375661
+    },
+    {
+      "type": "mod",
+      "name": "malum-1.21.1-1.8.2.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/malum-1.21.1-1.8.2.jar",
+      "size": 33585331
+    },
+    {
+      "type": "mod",
+      "name": "mcjtylib-1.21-9.0.21.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/mcjtylib-1.21-9.0.21.jar",
+      "size": 699982
+    },
+    {
+      "type": "mod",
+      "name": "megacells-4.11.0.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/megacells-4.11.0.jar",
+      "size": 1156940
+    },
+    {
+      "type": "mod",
+      "name": "Mekanism-1.21.1-10.7.19.85.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/Mekanism-1.21.1-10.7.19.85.jar",
+      "size": 11976009
+    },
+    {
+      "type": "mod",
+      "name": "Mekanism-Water-Generator-Rebuild-1211-1.1.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/Mekanism-Water-Generator-Rebuild-1211-1.1.1.jar",
+      "size": 184279
+    },
+    {
+      "type": "mod",
+      "name": "MekanismAdditions-1.21.1-10.7.19.85.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/MekanismAdditions-1.21.1-10.7.19.85.jar",
+      "size": 1162551
+    },
+    {
+      "type": "mod",
+      "name": "mekanismadvancedgenerators-2.2.2-1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/mekanismadvancedgenerators-2.2.2-1.21.1-neoforge.jar",
+      "size": 337508
+    },
+    {
+      "type": "mod",
+      "name": "MekanismChemicalStabilizedConsumptionUpgrade-1.21.1-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/MekanismChemicalStabilizedConsumptionUpgrade-1.21.1-1.0.0.jar",
+      "size": 21484
+    },
+    {
+      "type": "mod",
+      "name": "mekanismcurios-1.21.1-1.2.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/mekanismcurios-1.21.1-1.2.1.jar",
+      "size": 99159
+    },
+    {
+      "type": "mod",
+      "name": "mekanismelements-3.0.18-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/mekanismelements-3.0.18-neoforge-1.21.1.jar",
+      "size": 922025
+    },
+    {
+      "type": "mod",
+      "name": "MekanismGenerators-1.21.1-10.7.19.85.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/MekanismGenerators-1.21.1-10.7.19.85.jar",
+      "size": 1114598
+    },
+    {
+      "type": "mod",
+      "name": "MekanismTools-1.21.1-10.7.19.85.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/MekanismTools-1.21.1-10.7.19.85.jar",
+      "size": 526620
+    },
+    {
+      "type": "mod",
+      "name": "mekanism_extras-1.21.1-1.4.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/mekanism_extras-1.21.1-1.4.1.jar",
+      "size": 2517133
+    },
+    {
+      "type": "mod",
+      "name": "mekanism_ponders-1.0.3-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/mekanism_ponders-1.0.3-1.21.1.jar",
+      "size": 1693587
+    },
+    {
+      "type": "mod",
+      "name": "mekanism_unleashed-0.3.2.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/mekanism_unleashed-0.3.2.jar",
+      "size": 18754
+    },
+    {
+      "type": "mod",
+      "name": "mekmm-1.21.1-1.4.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/mekmm-1.21.1-1.4.1.jar",
+      "size": 3659440
+    },
+    {
+      "type": "mod",
+      "name": "merequester-neoforge-1.21.1-1.5.0.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/merequester-neoforge-1.21.1-1.5.0.jar",
+      "size": 186826
+    },
+    {
+      "type": "mod",
+      "name": "midnightlib-neoforge-1.9.3+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/midnightlib-neoforge-1.9.3+1.21.1.jar",
+      "size": 61217
+    },
+    {
+      "type": "mod",
+      "name": "modelfix-1.21-1.10.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/modelfix-1.21-1.10.jar",
+      "size": 47035
+    },
+    {
+      "type": "mod",
+      "name": "modernfix-neoforge-5.27.24+mc1.21.1 (1).jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/modernfix-neoforge-5.27.24+mc1.21.1 (1).jar",
+      "size": 604333
+    },
+    {
+      "type": "mod",
+      "name": "modernfix-neoforge-5.27.24+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/modernfix-neoforge-5.27.24+mc1.21.1.jar",
+      "size": 604333
+    },
+    {
+      "type": "mod",
+      "name": "modonomicon-1.21.1-neoforge-1.120.4.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/modonomicon-1.21.1-neoforge-1.120.4.jar",
+      "size": 2399838
+    },
+    {
+      "type": "mod",
+      "name": "MoogsEndStructures-universal-1.21-2.1.0.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/MoogsEndStructures-universal-1.21-2.1.0.jar",
+      "size": 2285867
+    },
+    {
+      "type": "mod",
+      "name": "MoogsStructureLib-neoforge-1.21.1-3.3.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/MoogsStructureLib-neoforge-1.21.1-3.3.1.jar",
+      "size": 436563
+    },
+    {
+      "type": "mod",
+      "name": "MoogsVoyagerStructures-universal-1.21-5.1.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/MoogsVoyagerStructures-universal-1.21-5.1.1.jar",
+      "size": 2244261
+    },
+    {
+      "type": "mod",
+      "name": "moonlight-1.21.1-3.6.4-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/moonlight-1.21.1-3.6.4-neoforge.jar",
+      "size": 2228649
+    },
+    {
+      "type": "mod",
+      "name": "moredelight-26.05.20a-1.21-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/moredelight-26.05.20a-1.21-neoforge.jar",
+      "size": 141933
+    },
+    {
+      "type": "mod",
+      "name": "mru-1.0.40+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/mru-1.0.40+1.21.1-neoforge.jar",
+      "size": 151039
+    },
+    {
+      "type": "mod",
+      "name": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "size": 224657
+    },
+    {
+      "type": "mod",
+      "name": "Neat-1.21-47-NEOFORGE.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/Neat-1.21-47-NEOFORGE.jar",
+      "size": 110834
+    },
+    {
+      "type": "mod",
+      "name": "neoculus-mc1.21.1-2.2.8.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/neoculus-mc1.21.1-2.2.8.jar",
+      "size": 3621606
+    },
+    {
+      "type": "mod",
+      "name": "noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
+      "size": 60512
+    },
+    {
+      "type": "mod",
+      "name": "ObsidianUI-neoforge-0.2.9+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/ObsidianUI-neoforge-0.2.9+mc1.21.1.jar",
+      "size": 211727
+    },
+    {
+      "type": "mod",
+      "name": "occultism-1.21.1-neoforge-1.224.4.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/occultism-1.21.1-neoforge-1.224.4.jar",
+      "size": 6951660
+    },
+    {
+      "type": "mod",
+      "name": "Oh-The-Biomes-Weve-Gone-NeoForge-2.6.0.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/Oh-The-Biomes-Weve-Gone-NeoForge-2.6.0.jar",
+      "size": 20484967
+    },
+    {
+      "type": "mod",
+      "name": "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar",
+      "size": 167431
+    },
+    {
+      "type": "mod",
+      "name": "ok_zoomer-neo-10.0.0-beta.13.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/ok_zoomer-neo-10.0.0-beta.13.jar",
+      "size": 276959
+    },
+    {
+      "type": "mod",
+      "name": "PackagedAuto-1.21.1-4.0.8.21.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/PackagedAuto-1.21.1-4.0.8.21.jar",
+      "size": 573307
+    },
+    {
+      "type": "mod",
+      "name": "PackagedAvaritia-Re-1.21.1-3.0.1.5.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/PackagedAvaritia-Re-1.21.1-3.0.1.5.jar",
+      "size": 162479
+    },
+    {
+      "type": "mod",
+      "name": "PackagedExCrafting-1.21.1-4.0.0.11.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/PackagedExCrafting-1.21.1-4.0.0.11.jar",
+      "size": 280022
+    },
+    {
+      "type": "mod",
+      "name": "PackagedMultiBlock-1.21.1-19.0.2.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/PackagedMultiBlock-1.21.1-19.0.2.jar",
+      "size": 92094
+    },
+    {
+      "type": "mod",
+      "name": "particlerain-4.0.0-beta.11+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/particlerain-4.0.0-beta.11+1.21.1-neoforge.jar",
+      "size": 618131
+    },
+    {
+      "type": "mod",
+      "name": "Patchouli-1.21.1-93-NEOFORGE.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/Patchouli-1.21.1-93-NEOFORGE.jar",
+      "size": 646777
+    },
+    {
+      "type": "mod",
+      "name": "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+      "size": 97094
+    },
+    {
+      "type": "mod",
+      "name": "Placebo-1.21.1-9.9.2.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/Placebo-1.21.1-9.9.2.jar",
+      "size": 331395
+    },
+    {
+      "type": "mod",
+      "name": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "size": 205905
+    },
+    {
+      "type": "mod",
+      "name": "polytone-1.21-4.4.0-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/polytone-1.21-4.4.0-neoforge.jar",
+      "size": 1639722
+    },
+    {
+      "type": "mod",
+      "name": "prickle-neoforge-1.21.1-21.1.11.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/prickle-neoforge-1.21.1-21.1.11.jar",
+      "size": 84812
+    },
+    {
+      "type": "mod",
+      "name": "PuzzlesLib-v21.1.60-mc1.21.1-NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/PuzzlesLib-v21.1.60-mc1.21.1-NeoForge.jar",
+      "size": 1442182
+    },
+    {
+      "type": "mod",
+      "name": "RamadanDelight-1.21.1-1.7.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/RamadanDelight-1.21.1-1.7.jar",
+      "size": 510110
+    },
+    {
+      "type": "mod",
+      "name": "Re-Avaritia-neoforge-1.21.1-1.4.1-release.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/Re-Avaritia-neoforge-1.21.1-1.4.1-release.jar",
+      "size": 3587789
+    },
+    {
+      "type": "mod",
+      "name": "rechiseled-1.2.6-neoforge-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/rechiseled-1.2.6-neoforge-mc1.21.jar",
+      "size": 11526036
+    },
+    {
+      "type": "mod",
+      "name": "rechiseledae-1.0.1-neoforge-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/rechiseledae-1.0.1-neoforge-mc1.21.1.jar",
+      "size": 910033
+    },
+    {
+      "type": "mod",
+      "name": "rechiseledcreate-1.1.1-neoforge-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/rechiseledcreate-1.1.1-neoforge-mc1.21.jar",
+      "size": 983177
+    },
+    {
+      "type": "mod",
+      "name": "rftoolsbase-1.21-6.0.11.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/rftoolsbase-1.21-6.0.11.jar",
+      "size": 463973
+    },
+    {
+      "type": "mod",
+      "name": "rhino-2101.2.8-build.91.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/rhino-2101.2.8-build.91.jar",
+      "size": 980936
+    },
+    {
+      "type": "mod",
+      "name": "rubidium-extra-0.5.7e+mc1.21-build.132.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/rubidium-extra-0.5.7e+mc1.21-build.132.jar",
+      "size": 383418
+    },
+    {
+      "type": "mod",
+      "name": "RyoamicLights-neoforge-0.2.11+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/RyoamicLights-neoforge-0.2.11+mc1.21.1.jar",
+      "size": 160739
+    },
+    {
+      "type": "mod",
+      "name": "silent-gear-1.21.1-neoforge-4.2.1.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/silent-gear-1.21.1-neoforge-4.2.1.1.jar",
+      "size": 3164233
+    },
+    {
+      "type": "mod",
+      "name": "silent-lib-1.21.1-neoforge-10.6.0.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/silent-lib-1.21.1-neoforge-10.6.0.jar",
+      "size": 270185
+    },
+    {
+      "type": "mod",
+      "name": "skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
+      "size": 1979027
+    },
+    {
+      "type": "mod",
+      "name": "sliceanddice-4.3.3-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/sliceanddice-4.3.3-neoforge.jar",
+      "size": 1354014
+    },
+    {
+      "type": "mod",
+      "name": "SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "size": 391053
+    },
+    {
+      "type": "mod",
+      "name": "smoothgui-neoforge-2.0.5+mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/smoothgui-neoforge-2.0.5+mc1.21.jar",
+      "size": 726603
+    },
+    {
+      "type": "mod",
+      "name": "smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
+      "size": 62900
+    },
+    {
+      "type": "mod",
+      "name": "sophisticatedbackpacks-1.21.1-3.25.73.2027.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/sophisticatedbackpacks-1.21.1-3.25.73.2027.jar",
+      "size": 1168454
+    },
+    {
+      "type": "mod",
+      "name": "sophisticatedcore-1.21.1-1.4.80.2194.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/sophisticatedcore-1.21.1-1.4.80.2194.jar",
+      "size": 1707183
+    },
+    {
+      "type": "mod",
+      "name": "sounds-2.4.22+lts+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/sounds-2.4.22+lts+1.21.1-neoforge.jar",
+      "size": 8760687
+    },
+    {
+      "type": "mod",
+      "name": "spark-1.10.124-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/spark-1.10.124-neoforge.jar",
+      "size": 3642581
+    },
+    {
+      "type": "mod",
+      "name": "StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+      "size": 1131420
+    },
+    {
+      "type": "mod",
+      "name": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "size": 207514
+    },
+    {
+      "type": "mod",
+      "name": "supermartijn642corelib-1.1.24-neoforge-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/supermartijn642corelib-1.1.24-neoforge-mc1.21.jar",
+      "size": 560783
+    },
+    {
+      "type": "mod",
+      "name": "supplementaries-1.21.1-3.9.9-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/supplementaries-1.21.1-3.9.9-neoforge.jar",
+      "size": 13548968
+    },
+    {
+      "type": "mod",
+      "name": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "size": 122777
+    },
+    {
+      "type": "mod",
+      "name": "tfmg-1.2.0.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/tfmg-1.2.0.jar",
+      "size": 4924243
+    },
+    {
+      "type": "mod",
+      "name": "titanium-1.21-4.0.45.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/titanium-1.21-4.0.45.jar",
+      "size": 622349
+    },
+    {
+      "type": "mod",
+      "name": "trading_floor-3.0.16.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/trading_floor-3.0.16.jar",
+      "size": 214343
+    },
+    {
+      "type": "mod",
+      "name": "travelersbackpack-neoforge-1.21.1-10.1.39.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/travelersbackpack-neoforge-1.21.1-10.1.39.jar",
+      "size": 1425397
+    },
+    {
+      "type": "mod",
+      "name": "TreeChop-1.21.1-neoforge-0.19.3.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/TreeChop-1.21.1-neoforge-0.19.3.jar",
+      "size": 517750
+    },
+    {
+      "type": "mod",
+      "name": "twilightdelight-3.2.2.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/twilightdelight-3.2.2.jar",
+      "size": 1340379
+    },
+    {
+      "type": "mod",
+      "name": "twilightforest-1.21.1-4.8.3345-universal.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/twilightforest-1.21.1-4.8.3345-universal.jar",
+      "size": 27391442
+    },
+    {
+      "type": "mod",
+      "name": "t_and_t-fabric-neoforge-1.13.11.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/t_and_t-fabric-neoforge-1.13.11.jar",
+      "size": 3553006
+    },
+    {
+      "type": "mod",
+      "name": "watut-neoforge-1.21.0-1.2.7.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/watut-neoforge-1.21.0-1.2.7.jar",
+      "size": 432269
+    },
+    {
+      "type": "mod",
+      "name": "waystones-neoforge-1.21.1-21.1.45.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/waystones-neoforge-1.21.1-21.1.45.jar",
+      "size": 1219809
+    },
+    {
+      "type": "mod",
+      "name": "WI-Zoom-1.6-MC1.21.1-NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/WI-Zoom-1.6-MC1.21.1-NeoForge.jar",
+      "size": 154879
+    },
+    {
+      "type": "mod",
+      "name": "xaerominimap-neoforge-1.21.1-26.5.0.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/xaerominimap-neoforge-1.21.1-26.5.0.jar",
+      "size": 2185559
+    },
+    {
+      "type": "mod",
+      "name": "XaeroPlus-2.36.2+neoforge-1.21.1-WM1.46.0-MM26.5.0.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/XaeroPlus-2.36.2+neoforge-1.21.1-WM1.46.0-MM26.5.0.jar",
+      "size": 8127023
+    },
+    {
+      "type": "mod",
+      "name": "xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0.jar",
+      "size": 7308
+    },
+    {
+      "type": "mod",
+      "name": "xaeroworldmap-neoforge-1.21.1-1.46.0.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/xaeroworldmap-neoforge-1.21.1-1.46.0.jar",
+      "size": 1422680
+    },
+    {
+      "type": "mod",
+      "name": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "size": 1118651
+    },
+    {
+      "type": "mod",
+      "name": "YungsApi-1.21.1-NeoForge-5.1.9.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
+      "size": 413763
+    },
+    {
+      "type": "mod",
+      "name": "YungsBetterCaves-1.21.1-NeoForge-3.1.6.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/YungsBetterCaves-1.21.1-NeoForge-3.1.6.jar",
+      "size": 400316
+    },
+    {
+      "type": "mod",
+      "name": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "size": 905839
+    },
+    {
+      "type": "mod",
+      "name": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "size": 782160
+    },
+    {
+      "type": "mod",
+      "name": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "size": 398130
+    },
+    {
+      "type": "mod",
+      "name": "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "size": 795839
+    },
+    {
+      "type": "mod",
+      "name": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "size": 493967
+    },
+    {
+      "type": "mod",
+      "name": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "size": 609639
+    },
+    {
+      "type": "mod",
+      "name": "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "size": 1025571
+    },
+    {
+      "type": "mod",
+      "name": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "size": 461244
+    },
+    {
+      "type": "mod",
+      "name": "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+      "size": 174789
+    },
+    {
+      "type": "mod",
+      "name": "YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "size": 136820
+    },
+    {
+      "type": "mod",
+      "name": "YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "size": 13006621
+    },
+    {
+      "type": "mod",
+      "name": "YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "size": 198183
+    },
+    {
+      "type": "config",
+      "name": "acceleratedrendering-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/acceleratedrendering-client.toml",
+      "size": 26288
+    },
+    {
+      "type": "config",
+      "name": "advanced_ae-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/advanced_ae-client.toml",
+      "size": 45
+    },
+    {
+      "type": "config",
+      "name": "advanced_ae-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/advanced_ae-common.toml",
+      "size": 3237
+    },
+    {
+      "type": "config",
+      "name": "ae2-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ae2-client.toml",
+      "size": 2344
+    },
+    {
+      "type": "config",
+      "name": "ae2-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ae2-common.toml",
+      "size": 6094
+    },
+    {
+      "type": "config",
+      "name": "ae2wtlib-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ae2wtlib-client.toml",
+      "size": 39
+    },
+    {
+      "type": "config",
+      "name": "ae2wtlib.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ae2wtlib.toml",
+      "size": 26
+    },
+    {
+      "type": "config",
+      "name": "ae2_overclocked-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ae2_overclocked-common.toml",
+      "size": 1311
+    },
+    {
+      "type": "config",
+      "name": "animatica.properties",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/animatica.properties",
+      "size": 0
+    },
+    {
+      "type": "config",
+      "name": "appex-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/appex-common.toml",
+      "size": 351
+    },
+    {
+      "type": "config",
+      "name": "appflux-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/appflux-common.toml",
+      "size": 463
+    },
+    {
+      "type": "config",
+      "name": "appleskin-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/appleskin-client.toml",
+      "size": 1376
+    },
+    {
+      "type": "config",
+      "name": "appliedhistory-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/appliedhistory-server.toml",
+      "size": 314
+    },
+    {
+      "type": "config",
+      "name": "arsdelight-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/arsdelight-common.toml",
+      "size": 27
+    },
+    {
+      "type": "config",
+      "name": "arsdelight-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/arsdelight-server.toml",
+      "size": 359
+    },
+    {
+      "type": "config",
+      "name": "arseng-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/arseng-common.toml",
+      "size": 271
+    },
+    {
+      "type": "config",
+      "name": "ars_additions-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ars_additions-common.toml",
+      "size": 394
+    },
+    {
+      "type": "config",
+      "name": "ars_additions-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ars_additions-server.toml",
+      "size": 2175
+    },
+    {
+      "type": "config",
+      "name": "ars_creo-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ars_creo-common.toml",
+      "size": 288
+    },
+    {
+      "type": "config",
+      "name": "ars_elemental-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ars_elemental-client.toml",
+      "size": 211
+    },
+    {
+      "type": "config",
+      "name": "ars_elemental-common-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ars_elemental-common-1.toml.bak",
+      "size": 3975
+    },
+    {
+      "type": "config",
+      "name": "ars_elemental-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ars_elemental-common.toml",
+      "size": 3975
+    },
+    {
+      "type": "config",
+      "name": "ars_elemental-startup.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ars_elemental-startup.toml",
+      "size": 389
+    },
+    {
+      "type": "config",
+      "name": "ars_nouveau-client-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ars_nouveau-client-1.toml.bak",
+      "size": 2606
+    },
+    {
+      "type": "config",
+      "name": "ars_nouveau-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ars_nouveau-client.toml",
+      "size": 2697
+    },
+    {
+      "type": "config",
+      "name": "ars_nouveau-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ars_nouveau-common.toml",
+      "size": 2910
+    },
+    {
+      "type": "config",
+      "name": "ars_nouveau-server-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ars_nouveau-server-1.toml.bak",
+      "size": 1877
+    },
+    {
+      "type": "config",
+      "name": "ars_nouveau-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ars_nouveau-server.toml",
+      "size": 2060
+    },
+    {
+      "type": "config",
+      "name": "ars_nouveau-startup-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ars_nouveau-startup-1.toml.bak",
+      "size": 97
+    },
+    {
+      "type": "config",
+      "name": "ars_nouveau-startup.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ars_nouveau-startup.toml",
+      "size": 256
+    },
+    {
+      "type": "config",
+      "name": "autotranslation.json5",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/autotranslation.json5",
+      "size": 1479
+    },
+    {
+      "type": "config",
+      "name": "avaritia-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/avaritia-common.toml",
+      "size": 4206
+    },
+    {
+      "type": "config",
+      "name": "badoptimizations.txt",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/badoptimizations.txt",
+      "size": 3458
+    },
+    {
+      "type": "config",
+      "name": "better-advanced-tooltips-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/better-advanced-tooltips-client.toml",
+      "size": 142
+    },
+    {
+      "type": "config",
+      "name": "betteradvancements-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/betteradvancements-client.toml",
+      "size": 939
+    },
+    {
+      "type": "config",
+      "name": "betterdeserttemples-neoforge-1_21.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/betterdeserttemples-neoforge-1_21.toml",
+      "size": 578
+    },
+    {
+      "type": "config",
+      "name": "betterdungeons-neoforge-1_21.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/betterdungeons-neoforge-1_21.toml",
+      "size": 3486
+    },
+    {
+      "type": "config",
+      "name": "betterendisland-neoforge-1_21.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/betterendisland-neoforge-1_21.toml",
+      "size": 943
+    },
+    {
+      "type": "config",
+      "name": "betterfortresses-neoforge-1_21.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/betterfortresses-neoforge-1_21.toml",
+      "size": 425
+    },
+    {
+      "type": "config",
+      "name": "betterjungletemples-neoforge-1_21.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/betterjungletemples-neoforge-1_21.toml",
+      "size": 86
+    },
+    {
+      "type": "config",
+      "name": "bettermineshafts-neoforge-1_21.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/bettermineshafts-neoforge-1_21.toml",
+      "size": 4151
+    },
+    {
+      "type": "config",
+      "name": "bettermodsbutton-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/bettermodsbutton-client.toml",
+      "size": 1130
+    },
+    {
+      "type": "config",
+      "name": "betteroceanmonuments-neoforge-1_21.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/betteroceanmonuments-neoforge-1_21.toml",
+      "size": 419
+    },
+    {
+      "type": "config",
+      "name": "betterstrongholds-neoforge-1_21.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/betterstrongholds-neoforge-1_21.toml",
+      "size": 621
+    },
+    {
+      "type": "config",
+      "name": "betterwitchhuts-neoforge-1_21.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/betterwitchhuts-neoforge-1_21.toml",
+      "size": 404
+    },
+    {
+      "type": "config",
+      "name": "botania-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/botania-client.toml",
+      "size": 2437
+    },
+    {
+      "type": "config",
+      "name": "botania-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/botania-common.toml",
+      "size": 2980
+    },
+    {
+      "type": "config",
+      "name": "bwncr-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/bwncr-common.toml",
+      "size": 680
+    },
+    {
+      "type": "config",
+      "name": "capes.json5",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/capes.json5",
+      "size": 240
+    },
+    {
+      "type": "config",
+      "name": "cataclysm-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/cataclysm-client.toml",
+      "size": 539
+    },
+    {
+      "type": "config",
+      "name": "cataclysm-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/cataclysm-common.toml",
+      "size": 30664
+    },
+    {
+      "type": "config",
+      "name": "chat_heads.json5",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/chat_heads.json5",
+      "size": 186
+    },
+    {
+      "type": "config",
+      "name": "citresewn-defaults.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/citresewn-defaults.json",
+      "size": 49
+    },
+    {
+      "type": "config",
+      "name": "citresewn.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/citresewn.json",
+      "size": 121
+    },
+    {
+      "type": "config",
+      "name": "configuration-options.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/configuration-options.json",
+      "size": 27
+    },
+    {
+      "type": "config",
+      "name": "connector.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/connector.json",
+      "size": 176
+    },
+    {
+      "type": "config",
+      "name": "connectorextras_energy_bridge-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/connectorextras_energy_bridge-common.toml",
+      "size": 375
+    },
+    {
+      "type": "config",
+      "name": "continuity.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/continuity.json",
+      "size": 122
+    },
+    {
+      "type": "config",
+      "name": "copycats-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/copycats-client.toml",
+      "size": 340
+    },
+    {
+      "type": "config",
+      "name": "copycats-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/copycats-common.toml",
+      "size": 2165
+    },
+    {
+      "type": "config",
+      "name": "copycats-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/copycats-server.toml",
+      "size": 363
+    },
+    {
+      "type": "config",
+      "name": "create-client-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/create-client-1.toml.bak",
+      "size": 4701
+    },
+    {
+      "type": "config",
+      "name": "create-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/create-client.toml",
+      "size": 4795
+    },
+    {
+      "type": "config",
+      "name": "create-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/create-common.toml",
+      "size": 153
+    },
+    {
+      "type": "config",
+      "name": "create-server-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/create-server-1.toml.bak",
+      "size": 16741
+    },
+    {
+      "type": "config",
+      "name": "create-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/create-server.toml",
+      "size": 16890
+    },
+    {
+      "type": "config",
+      "name": "createaddition-common-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/createaddition-common-1.toml.bak",
+      "size": 6346
+    },
+    {
+      "type": "config",
+      "name": "createaddition-common-2.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/createaddition-common-2.toml.bak",
+      "size": 5285
+    },
+    {
+      "type": "config",
+      "name": "createaddition-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/createaddition-common.toml",
+      "size": 6871
+    },
+    {
+      "type": "config",
+      "name": "createcasing-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/createcasing-common.toml",
+      "size": 28589
+    },
+    {
+      "type": "config",
+      "name": "createdieselgenerators-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/createdieselgenerators-client.toml",
+      "size": 243
+    },
+    {
+      "type": "config",
+      "name": "createdieselgenerators-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/createdieselgenerators-common.toml",
+      "size": 407
+    },
+    {
+      "type": "config",
+      "name": "createdieselgenerators-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/createdieselgenerators-server.toml",
+      "size": 1540
+    },
+    {
+      "type": "config",
+      "name": "createfood-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/createfood-client.toml",
+      "size": 9918
+    },
+    {
+      "type": "config",
+      "name": "createfood-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/createfood-common.toml",
+      "size": 7341
+    },
+    {
+      "type": "config",
+      "name": "createfood-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/createfood-server.toml",
+      "size": 6522
+    },
+    {
+      "type": "config",
+      "name": "createoreexcavation-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/createoreexcavation-common.toml",
+      "size": 690
+    },
+    {
+      "type": "config",
+      "name": "createoreexcavation-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/createoreexcavation-server.toml",
+      "size": 683
+    },
+    {
+      "type": "config",
+      "name": "create_connected-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/create_connected-common.toml",
+      "size": 1753
+    },
+    {
+      "type": "config",
+      "name": "create_connected-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/create_connected-server.toml",
+      "size": 2081
+    },
+    {
+      "type": "config",
+      "name": "create_dragons_plus-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/create_dragons_plus-client.toml",
+      "size": 302
+    },
+    {
+      "type": "config",
+      "name": "create_dragons_plus-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/create_dragons_plus-common.toml",
+      "size": 1851
+    },
+    {
+      "type": "config",
+      "name": "create_dragons_plus-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/create_dragons_plus-server.toml",
+      "size": 1266
+    },
+    {
+      "type": "config",
+      "name": "create_enchantment_industry-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/create_enchantment_industry-client.toml",
+      "size": 155
+    },
+    {
+      "type": "config",
+      "name": "create_enchantment_industry-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/create_enchantment_industry-common.toml",
+      "size": 399
+    },
+    {
+      "type": "config",
+      "name": "create_enchantment_industry-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/create_enchantment_industry-server.toml",
+      "size": 9938
+    },
+    {
+      "type": "config",
+      "name": "create_power_loader-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/create_power_loader-server.toml",
+      "size": 3107
+    },
+    {
+      "type": "config",
+      "name": "create_structures_arise-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/create_structures_arise-server.toml",
+      "size": 52643
+    },
+    {
+      "type": "config",
+      "name": "creativecore-client.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/creativecore-client.json",
+      "size": 23
+    },
+    {
+      "type": "config",
+      "name": "creativecore.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/creativecore.json",
+      "size": 274
+    },
+    {
+      "type": "config",
+      "name": "cubes_without_borders.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/cubes_without_borders.json",
+      "size": 209
+    },
+    {
+      "type": "config",
+      "name": "cucumber-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/cucumber-client.toml",
+      "size": 188
+    },
+    {
+      "type": "config",
+      "name": "cucumber-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/cucumber-common.toml",
+      "size": 394
+    },
+    {
+      "type": "config",
+      "name": "cucumber-tags.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/cucumber-tags.json",
+      "size": 83
+    },
+    {
+      "type": "config",
+      "name": "curios-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/curios-client.toml",
+      "size": 766
+    },
+    {
+      "type": "config",
+      "name": "curios-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/curios-common.toml",
+      "size": 159
+    },
+    {
+      "type": "config",
+      "name": "curios-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/curios-server.toml",
+      "size": 483
+    },
+    {
+      "type": "config",
+      "name": "cyclopscore-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/cyclopscore-common.toml",
+      "size": 273
+    },
+    {
+      "type": "config",
+      "name": "dndesires-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/dndesires-client.toml",
+      "size": 1156
+    },
+    {
+      "type": "config",
+      "name": "dndesires-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/dndesires-server.toml",
+      "size": 1971
+    },
+    {
+      "type": "config",
+      "name": "dummmmmmy-client-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/dummmmmmy-client-1.toml.bak",
+      "size": 1512
+    },
+    {
+      "type": "config",
+      "name": "dummmmmmy-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/dummmmmmy-client.toml",
+      "size": 1580
+    },
+    {
+      "type": "config",
+      "name": "dummmmmmy-common-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/dummmmmmy-common-1.toml.bak",
+      "size": 1298
+    },
+    {
+      "type": "config",
+      "name": "dummmmmmy-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/dummmmmmy-common.toml",
+      "size": 1496
+    },
+    {
+      "type": "config",
+      "name": "dynamiclights.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/dynamiclights.json",
+      "size": 377
+    },
+    {
+      "type": "config",
+      "name": "elevatorid-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/elevatorid-server.toml",
+      "size": 744
+    },
+    {
+      "type": "config",
+      "name": "embeddium-fingerprint.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/embeddium-fingerprint.json",
+      "size": 427
+    },
+    {
+      "type": "config",
+      "name": "embeddium-mixins.properties",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/embeddium-mixins.properties",
+      "size": 268
+    },
+    {
+      "type": "config",
+      "name": "embeddium-options.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/embeddium-options.json",
+      "size": 849
+    },
+    {
+      "type": "config",
+      "name": "emi.css",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/emi.css",
+      "size": 4315
+    },
+    {
+      "type": "config",
+      "name": "emi_loot_config.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/emi_loot_config.toml",
+      "size": 781
+    },
+    {
+      "type": "config",
+      "name": "emi_ores-client.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/emi_ores-client.json",
+      "size": 97
+    },
+    {
+      "type": "config",
+      "name": "emi_patternizer-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/emi_patternizer-client.toml",
+      "size": 524
+    },
+    {
+      "type": "config",
+      "name": "enhanced_bes.properties",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/enhanced_bes.properties",
+      "size": 532
+    },
+    {
+      "type": "config",
+      "name": "entityculling.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/entityculling.json",
+      "size": 2228
+    },
+    {
+      "type": "config",
+      "name": "entity_model_features.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/entity_model_features.json",
+      "size": 1207
+    },
+    {
+      "type": "config",
+      "name": "entity_texture_features.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/entity_texture_features.json",
+      "size": 1452
+    },
+    {
+      "type": "config",
+      "name": "eternal_starlight.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/eternal_starlight.json",
+      "size": 5248
+    },
+    {
+      "type": "config",
+      "name": "etf_warnings.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/etf_warnings.json",
+      "size": 28
+    },
+    {
+      "type": "config",
+      "name": "everycomp-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/everycomp-common.toml",
+      "size": 1006
+    },
+    {
+      "type": "config",
+      "name": "everycomp-entries-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/everycomp-entries-1.toml.bak",
+      "size": 4104
+    },
+    {
+      "type": "config",
+      "name": "everycomp-entries.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/everycomp-entries.toml",
+      "size": 4030
+    },
+    {
+      "type": "config",
+      "name": "everycomp-hazardous.properties",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/everycomp-hazardous.properties",
+      "size": 285
+    },
+    {
+      "type": "config",
+      "name": "evilcraft-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/evilcraft-common.toml",
+      "size": 13349
+    },
+    {
+      "type": "config",
+      "name": "extendedae-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/extendedae-common.toml",
+      "size": 1680
+    },
+    {
+      "type": "config",
+      "name": "extendedcrafting-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/extendedcrafting-client.toml",
+      "size": 130
+    },
+    {
+      "type": "config",
+      "name": "extendedcrafting-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/extendedcrafting-common.toml",
+      "size": 4250
+    },
+    {
+      "type": "config",
+      "name": "extrahnn.cfg",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/extrahnn.cfg",
+      "size": 9466
+    },
+    {
+      "type": "config",
+      "name": "fabrishot.properties",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/fabrishot.properties",
+      "size": 232
+    },
+    {
+      "type": "config",
+      "name": "farmersdelight-client-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/farmersdelight-client-1.toml.bak",
+      "size": 365
+    },
+    {
+      "type": "config",
+      "name": "farmersdelight-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/farmersdelight-client.toml",
+      "size": 476
+    },
+    {
+      "type": "config",
+      "name": "farmersdelight-common-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/farmersdelight-common-1.toml.bak",
+      "size": 4713
+    },
+    {
+      "type": "config",
+      "name": "farmersdelight-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/farmersdelight-common.toml",
+      "size": 3817
+    },
+    {
+      "type": "config",
+      "name": "farmersexpanse-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/farmersexpanse-common.toml",
+      "size": 330
+    },
+    {
+      "type": "config",
+      "name": "ferritecore-mixin.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ferritecore-mixin.toml",
+      "size": 1603
+    },
+    {
+      "type": "config",
+      "name": "fluxnetworks-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/fluxnetworks-client.toml",
+      "size": 225
+    },
+    {
+      "type": "config",
+      "name": "fluxnetworks-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/fluxnetworks-common.toml",
+      "size": 836
+    },
+    {
+      "type": "config",
+      "name": "fluxnetworks-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/fluxnetworks-server.toml",
+      "size": 2349
+    },
+    {
+      "type": "config",
+      "name": "flywheel-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/flywheel-client.toml",
+      "size": 633
+    },
+    {
+      "type": "config",
+      "name": "fml.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/fml.toml",
+      "size": 1560
+    },
+    {
+      "type": "config",
+      "name": "ftblibrary-client.snbt",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ftblibrary-client.snbt",
+      "size": 1651
+    },
+    {
+      "type": "config",
+      "name": "ftbquests-client.snbt",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ftbquests-client.snbt",
+      "size": 1551
+    },
+    {
+      "type": "config",
+      "name": "ftbteams-server.snbt",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ftbteams-server.snbt",
+      "size": 1112
+    },
+    {
+      "type": "config",
+      "name": "ftbxmodcompat.snbt",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ftbxmodcompat.snbt",
+      "size": 880
+    },
+    {
+      "type": "config",
+      "name": "gravestone-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/gravestone-client.toml",
+      "size": 215
+    },
+    {
+      "type": "config",
+      "name": "gravestone-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/gravestone-server.toml",
+      "size": 1160
+    },
+    {
+      "type": "config",
+      "name": "gtceu.yaml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/gtceu.yaml",
+      "size": 19454
+    },
+    {
+      "type": "config",
+      "name": "guideme.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/guideme.toml",
+      "size": 559
+    },
+    {
+      "type": "config",
+      "name": "helditemtooltips-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/helditemtooltips-client.toml",
+      "size": 24748
+    },
+    {
+      "type": "config",
+      "name": "hostilenetworks.cfg",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/hostilenetworks.cfg",
+      "size": 3011
+    },
+    {
+      "type": "config",
+      "name": "immediatelyfast.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/immediatelyfast.json",
+      "size": 1114
+    },
+    {
+      "type": "config",
+      "name": "inventorysorter-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/inventorysorter-client.toml",
+      "size": 199
+    },
+    {
+      "type": "config",
+      "name": "inventorysorter-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/inventorysorter-server.toml",
+      "size": 137
+    },
+    {
+      "type": "config",
+      "name": "invmove.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/invmove.json",
+      "size": 449
+    },
+    {
+      "type": "config",
+      "name": "iris-excluded.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/iris-excluded.json",
+      "size": 31
+    },
+    {
+      "type": "config",
+      "name": "iris.properties",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/iris.properties",
+      "size": 282
+    },
+    {
+      "type": "config",
+      "name": "jei-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/jei-server.toml",
+      "size": 324
+    },
+    {
+      "type": "config",
+      "name": "justhammers.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/justhammers.json",
+      "size": 567
+    },
+    {
+      "type": "config",
+      "name": "krypton_fnp.yaml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/krypton_fnp.yaml",
+      "size": 947
+    },
+    {
+      "type": "config",
+      "name": "languagereload-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/languagereload-client.toml",
+      "size": 128
+    },
+    {
+      "type": "config",
+      "name": "ldlib2-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ldlib2-client.toml",
+      "size": 1759
+    },
+    {
+      "type": "config",
+      "name": "leavemybarsalone-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/leavemybarsalone-client.toml",
+      "size": 178
+    },
+    {
+      "type": "config",
+      "name": "lithium.properties",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/lithium.properties",
+      "size": 267
+    },
+    {
+      "type": "config",
+      "name": "lodestone-client-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/lodestone-client-1.toml.bak",
+      "size": 946
+    },
+    {
+      "type": "config",
+      "name": "lodestone-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/lodestone-client.toml",
+      "size": 925
+    },
+    {
+      "type": "config",
+      "name": "lootr-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/lootr-client.toml",
+      "size": 294
+    },
+    {
+      "type": "config",
+      "name": "lootr-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/lootr-common.toml",
+      "size": 6887
+    },
+    {
+      "type": "config",
+      "name": "malum-client-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/malum-client-1.toml.bak",
+      "size": 977
+    },
+    {
+      "type": "config",
+      "name": "malum-client-2.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/malum-client-2.toml.bak",
+      "size": 977
+    },
+    {
+      "type": "config",
+      "name": "malum-client-3.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/malum-client-3.toml.bak",
+      "size": 977
+    },
+    {
+      "type": "config",
+      "name": "malum-client-4.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/malum-client-4.toml.bak",
+      "size": 977
+    },
+    {
+      "type": "config",
+      "name": "malum-client-5.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/malum-client-5.toml.bak",
+      "size": 977
+    },
+    {
+      "type": "config",
+      "name": "malum-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/malum-client.toml",
+      "size": 977
+    },
+    {
+      "type": "config",
+      "name": "malum-common-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/malum-common-1.toml.bak",
+      "size": 1592
+    },
+    {
+      "type": "config",
+      "name": "malum-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/malum-common.toml",
+      "size": 1881
+    },
+    {
+      "type": "config",
+      "name": "mcjtylib-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/mcjtylib-client.toml",
+      "size": 5759
+    },
+    {
+      "type": "config",
+      "name": "mcjtylib-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/mcjtylib-server.toml",
+      "size": 438
+    },
+    {
+      "type": "config",
+      "name": "megacells-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/megacells-common.toml",
+      "size": 143
+    },
+    {
+      "type": "config",
+      "name": "mekanism_unleashed-startup.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/mekanism_unleashed-startup.toml",
+      "size": 336
+    },
+    {
+      "type": "config",
+      "name": "merequester-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/merequester-common.toml",
+      "size": 380
+    },
+    {
+      "type": "config",
+      "name": "merrymaking-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/merrymaking-common.toml",
+      "size": 496
+    },
+    {
+      "type": "config",
+      "name": "midnightlib.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/midnightlib.json",
+      "size": 37
+    },
+    {
+      "type": "config",
+      "name": "modelfix-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/modelfix-client.toml",
+      "size": 1383
+    },
+    {
+      "type": "config",
+      "name": "modernfix-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/modernfix-common.toml",
+      "size": 105
+    },
+    {
+      "type": "config",
+      "name": "modernfix-mixins.properties",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/modernfix-mixins.properties",
+      "size": 5510
+    },
+    {
+      "type": "config",
+      "name": "modonomicon-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/modonomicon-client.toml",
+      "size": 563
+    },
+    {
+      "type": "config",
+      "name": "moogs_structures.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/moogs_structures.json",
+      "size": 426
+    },
+    {
+      "type": "config",
+      "name": "moonlight-client-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/moonlight-client-1.toml.bak",
+      "size": 2209
+    },
+    {
+      "type": "config",
+      "name": "moonlight-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/moonlight-client.toml",
+      "size": 2136
+    },
+    {
+      "type": "config",
+      "name": "moonlight-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/moonlight-common.toml",
+      "size": 960
+    },
+    {
+      "type": "config",
+      "name": "moreculling.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/moreculling.toml",
+      "size": 540
+    },
+    {
+      "type": "config",
+      "name": "MouseTweaks.cfg",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/MouseTweaks.cfg",
+      "size": 135
+    },
+    {
+      "type": "config",
+      "name": "mwgr-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/mwgr-client.toml",
+      "size": 135
+    },
+    {
+      "type": "config",
+      "name": "mwgr-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/mwgr-server.toml",
+      "size": 233
+    },
+    {
+      "type": "config",
+      "name": "naturescompass-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/naturescompass-client.toml",
+      "size": 444
+    },
+    {
+      "type": "config",
+      "name": "naturescompass-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/naturescompass-common.toml",
+      "size": 2227
+    },
+    {
+      "type": "config",
+      "name": "neat-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/neat-client.toml",
+      "size": 2827
+    },
+    {
+      "type": "config",
+      "name": "neoculus-horizon.properties",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/neoculus-horizon.properties",
+      "size": 456
+    },
+    {
+      "type": "config",
+      "name": "neoforge-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/neoforge-client.toml",
+      "size": 578
+    },
+    {
+      "type": "config",
+      "name": "neoforge-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/neoforge-common.toml",
+      "size": 772
+    },
+    {
+      "type": "config",
+      "name": "neoforge-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/neoforge-server.toml",
+      "size": 1177
+    },
+    {
+      "type": "config",
+      "name": "occultism-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/occultism-client.toml",
+      "size": 6816
+    },
+    {
+      "type": "config",
+      "name": "occultism-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/occultism-server.toml",
+      "size": 14247
+    },
+    {
+      "type": "config",
+      "name": "occultism-startup.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/occultism-startup.toml",
+      "size": 3002
+    },
+    {
+      "type": "config",
+      "name": "oculus.properties",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/oculus.properties",
+      "size": 254
+    },
+    {
+      "type": "config",
+      "name": "packagedauto-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/packagedauto-server.toml",
+      "size": 3314
+    },
+    {
+      "type": "config",
+      "name": "packagedavaritia-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/packagedavaritia-server.toml",
+      "size": 1837
+    },
+    {
+      "type": "config",
+      "name": "packagedexcrafting-server-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/packagedexcrafting-server-1.toml.bak",
+      "size": 3251
+    },
+    {
+      "type": "config",
+      "name": "packagedexcrafting-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/packagedexcrafting-server.toml",
+      "size": 3232
+    },
+    {
+      "type": "config",
+      "name": "packetfixer.properties",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/packetfixer.properties",
+      "size": 487
+    },
+    {
+      "type": "config",
+      "name": "patchouli-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/patchouli-client.toml",
+      "size": 1089
+    },
+    {
+      "type": "config",
+      "name": "placebo.cfg",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/placebo.cfg",
+      "size": 495
+    },
+    {
+      "type": "config",
+      "name": "plonk-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/plonk-server.toml",
+      "size": 318
+    },
+    {
+      "type": "config",
+      "name": "ponder-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ponder-client.toml",
+      "size": 635
+    },
+    {
+      "type": "config",
+      "name": "ramadandelight-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ramadandelight-common.toml",
+      "size": 1124
+    },
+    {
+      "type": "config",
+      "name": "resourcepackoverrides.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/resourcepackoverrides.json",
+      "size": 27
+    },
+    {
+      "type": "config",
+      "name": "rftoolsbase-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/rftoolsbase-server.toml",
+      "size": 472
+    },
+    {
+      "type": "config",
+      "name": "ryoamiclights.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/ryoamiclights.toml",
+      "size": 3205
+    },
+    {
+      "type": "config",
+      "name": "sauce-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/sauce-server.toml",
+      "size": 502
+    },
+    {
+      "type": "config",
+      "name": "sauce-startup.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/sauce-startup.toml",
+      "size": 298
+    },
+    {
+      "type": "config",
+      "name": "silentgear-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/silentgear-client.toml",
+      "size": 670
+    },
+    {
+      "type": "config",
+      "name": "silentgear-common-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/silentgear-common-1.toml.bak",
+      "size": 8411
+    },
+    {
+      "type": "config",
+      "name": "silentgear-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/silentgear-common.toml",
+      "size": 8956
+    },
+    {
+      "type": "config",
+      "name": "simple-custom-early-loading.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/simple-custom-early-loading.json",
+      "size": 3128
+    },
+    {
+      "type": "config",
+      "name": "simplemagnets-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/simplemagnets-common.toml",
+      "size": 2390
+    },
+    {
+      "type": "config",
+      "name": "skinlayers.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/skinlayers.json",
+      "size": 429
+    },
+    {
+      "type": "config",
+      "name": "sliceanddice-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/sliceanddice-client.toml",
+      "size": 29
+    },
+    {
+      "type": "config",
+      "name": "sliceanddice-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/sliceanddice-common.toml",
+      "size": 475
+    },
+    {
+      "type": "config",
+      "name": "smoothgui.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/smoothgui.json",
+      "size": 368
+    },
+    {
+      "type": "config",
+      "name": "smoothswapping.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/smoothswapping.json",
+      "size": 72
+    },
+    {
+      "type": "config",
+      "name": "sodium-extra-options.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/sodium-extra-options.json",
+      "size": 1538
+    },
+    {
+      "type": "config",
+      "name": "sodium-extra.properties",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/sodium-extra.properties",
+      "size": 360
+    },
+    {
+      "type": "config",
+      "name": "sodium-fingerprint.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/sodium-fingerprint.json",
+      "size": 427
+    },
+    {
+      "type": "config",
+      "name": "sodium-mixins.properties",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/sodium-mixins.properties",
+      "size": 258
+    },
+    {
+      "type": "config",
+      "name": "sodium-options.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/sodium-options.json",
+      "size": 756
+    },
+    {
+      "type": "config",
+      "name": "sophisticatedbackpacks-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/sophisticatedbackpacks-common.toml",
+      "size": 118
+    },
+    {
+      "type": "config",
+      "name": "sophisticatedbackpacks-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/sophisticatedbackpacks-server.toml",
+      "size": 23507
+    },
+    {
+      "type": "config",
+      "name": "sophisticatedcore-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/sophisticatedcore-client.toml",
+      "size": 478
+    },
+    {
+      "type": "config",
+      "name": "sophisticatedcore-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/sophisticatedcore-common.toml",
+      "size": 3191
+    },
+    {
+      "type": "config",
+      "name": "storagedrawers-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/storagedrawers-client.toml",
+      "size": 937
+    },
+    {
+      "type": "config",
+      "name": "storagedrawers-common.v2-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/storagedrawers-common.v2-1.toml.bak",
+      "size": 10958
+    },
+    {
+      "type": "config",
+      "name": "storagedrawers-common.v2.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/storagedrawers-common.v2.toml",
+      "size": 14393
+    },
+    {
+      "type": "config",
+      "name": "supplementaries-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/supplementaries-client.toml",
+      "size": 9113
+    },
+    {
+      "type": "config",
+      "name": "supplementaries-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/supplementaries-common.toml",
+      "size": 31783
+    },
+    {
+      "type": "config",
+      "name": "swaying_garden-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/swaying_garden-client.toml",
+      "size": 2518
+    },
+    {
+      "type": "config",
+      "name": "tectonic.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/tectonic.json",
+      "size": 4366
+    },
+    {
+      "type": "config",
+      "name": "terrablender.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/terrablender.toml",
+      "size": 988
+    },
+    {
+      "type": "config",
+      "name": "tfmg-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/tfmg-common.toml",
+      "size": 3451
+    },
+    {
+      "type": "config",
+      "name": "tfmg-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/tfmg-server.toml",
+      "size": 1889
+    },
+    {
+      "type": "config",
+      "name": "trading_floor-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/trading_floor-server.toml",
+      "size": 599
+    },
+    {
+      "type": "config",
+      "name": "transition.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/transition.json",
+      "size": 97
+    },
+    {
+      "type": "config",
+      "name": "trashcans-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/trashcans-common.toml",
+      "size": 84
+    },
+    {
+      "type": "config",
+      "name": "travelersbackpack-client-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/travelersbackpack-client-1.toml.bak",
+      "size": 1150
+    },
+    {
+      "type": "config",
+      "name": "travelersbackpack-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/travelersbackpack-client.toml",
+      "size": 1612
+    },
+    {
+      "type": "config",
+      "name": "travelersbackpack-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/travelersbackpack-common.toml",
+      "size": 197
+    },
+    {
+      "type": "config",
+      "name": "travelersbackpack-server-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/travelersbackpack-server-1.toml.bak",
+      "size": 10935
+    },
+    {
+      "type": "config",
+      "name": "travelersbackpack-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/travelersbackpack-server.toml",
+      "size": 11598
+    },
+    {
+      "type": "config",
+      "name": "treechop-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/treechop-client.toml",
+      "size": 1399
+    },
+    {
+      "type": "config",
+      "name": "treechop-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/treechop-common.toml",
+      "size": 9496
+    },
+    {
+      "type": "config",
+      "name": "trender.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/trender.json",
+      "size": 47
+    },
+    {
+      "type": "config",
+      "name": "twilightdelight-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/twilightdelight-client.toml",
+      "size": 54
+    },
+    {
+      "type": "config",
+      "name": "twilightdelight-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/twilightdelight-server.toml",
+      "size": 100
+    },
+    {
+      "type": "config",
+      "name": "twilightforest-client-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/twilightforest-client-1.toml.bak",
+      "size": 1999
+    },
+    {
+      "type": "config",
+      "name": "twilightforest-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/twilightforest-client.toml",
+      "size": 2997
+    },
+    {
+      "type": "config",
+      "name": "twilightforest-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/twilightforest-common.toml",
+      "size": 9324
+    },
+    {
+      "type": "config",
+      "name": "vinery.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/vinery.toml",
+      "size": 3248
+    },
+    {
+      "type": "config",
+      "name": "waterframes-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/waterframes-client.toml",
+      "size": 1013
+    },
+    {
+      "type": "config",
+      "name": "waterframes-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/waterframes-server.toml",
+      "size": 4356
+    },
+    {
+      "type": "config",
+      "name": "watut-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/watut-client.toml",
+      "size": 3444
+    },
+    {
+      "type": "config",
+      "name": "watut-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/watut-common.toml",
+      "size": 169
+    },
+    {
+      "type": "config",
+      "name": "watut-item-arm-adjustments.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/watut-item-arm-adjustments.json",
+      "size": 3367
+    },
+    {
+      "type": "config",
+      "name": "watut-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/watut-server.toml",
+      "size": 2945
+    },
+    {
+      "type": "config",
+      "name": "waveycapes.json",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/waveycapes.json",
+      "size": 179
+    },
+    {
+      "type": "config",
+      "name": "waystones-common.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/waystones-common.toml",
+      "size": 6604
+    },
+    {
+      "type": "config",
+      "name": "wcwt-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/wcwt-client.toml",
+      "size": 3076
+    },
+    {
+      "type": "config",
+      "name": "wcwt-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/wcwt-server.toml",
+      "size": 618
+    },
+    {
+      "type": "config",
+      "name": "xaerohud.txt",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/xaerohud.txt",
+      "size": 123
+    },
+    {
+      "type": "config",
+      "name": "xaeropatreon.txt",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/xaeropatreon.txt",
+      "size": 0
+    },
+    {
+      "type": "config",
+      "name": "xaeroplus.txt",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/xaeroplus.txt",
+      "size": 4894
+    },
+    {
+      "type": "config",
+      "name": "xnet-client.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/xnet-client.toml",
+      "size": 357
+    },
+    {
+      "type": "config",
+      "name": "xnet-server.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/xnet-server.toml",
+      "size": 2874
+    },
+    {
+      "type": "config",
+      "name": "xnetgases.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/xnetgases.toml",
+      "size": 341
+    },
+    {
+      "type": "config",
+      "name": "yacl.json5",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/yacl.json5",
+      "size": 250
+    },
+    {
+      "type": "config",
+      "name": "yungscavebiomes-neoforge-1_21_1.toml",
+      "url": "https://raw.githubusercontent.com/ChuraAnd/SwagaMC-Launcher/main/modpack/config/yungscavebiomes-neoforge-1_21_1.toml",
+      "size": 3260
+    }
+  ]
+}

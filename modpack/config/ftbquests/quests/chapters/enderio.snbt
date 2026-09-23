@@ -1,0 +1,14 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "enderio"
+	group: "47E5B158817082FA"
+	icon: {
+		id: "enderio:conduit_probe"
+	}
+	id: "6BA6B59D56D7B4C9"
+	images: [ ]
+	order_index: 6
+	quest_links: [ ]
+	quests: [ ]
+}

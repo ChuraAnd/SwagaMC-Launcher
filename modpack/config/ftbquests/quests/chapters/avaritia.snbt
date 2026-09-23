@@ -1,0 +1,1194 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "avaritia"
+	group: "47E5B158817082FA"
+	icon: {
+		id: "avaritia:infinity_catalyst"
+	}
+	id: "2BE0D2BA5F32DDA9"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "74F74690B9E3D2F7"
+			tasks: [{
+				id: "4A28E8B54F2E171B"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			id: "1CD0036818B9F076"
+			tasks: [{
+				id: "2BEE9295EDEA83F9"
+				item: { count: 1, id: "avaritia:neutron_collector" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			id: "2FD812D72E78045F"
+			tasks: [{
+				id: "45B27DC7B1EB3928"
+				item: { count: 1, id: "avaritia:dense_neutron_collector" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			id: "76E727E66747E9DC"
+			tasks: [{
+				id: "4A49DC4B433F5E15"
+				item: { count: 1, id: "avaritia:denser_neutron_collector" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			id: "750C4D289B848698"
+			tasks: [{
+				id: "71A9610B05978012"
+				item: { count: 1, id: "avaritia:densest_neutron_collector" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			id: "72EA70A34927E6B7"
+			tasks: [{
+				id: "139F5BC43C8FA0BB"
+				item: { count: 1, id: "avaritia:neutron_pile" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			id: "05569E4275A95EE8"
+			tasks: [{
+				id: "7C39FF1954E32A8C"
+				item: { count: 1, id: "avaritia:neutron_nugget" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			id: "6C37B89406F222A3"
+			tasks: [{
+				id: "2476BF489C8E9BB1"
+				item: { count: 1, id: "avaritia:neutron_ingot" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -4.0d
+		}
+		{
+			id: "5D12C9D468050DA2"
+			tasks: [{
+				id: "1220CF1C658F8ECD"
+				item: { count: 1, id: "avaritia:neutron" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -5.0d
+		}
+		{
+			id: "5AD230D6D28C2894"
+			tasks: [{
+				id: "6BD7DECAA39B764E"
+				item: { count: 1, id: "avaritia:neutron_gear" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -4.5d
+		}
+		{
+			id: "3A18194D22A1129A"
+			tasks: [{
+				id: "5760390A52D1746D"
+				item: { count: 1, id: "avaritia:crystal_matrix_ingot" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 2.5d
+		}
+		{
+			id: "6F765A8FA9FF805F"
+			tasks: [{
+				id: "607147D86523E72C"
+				item: { count: 1, id: "avaritia:diamond_lattice" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.5d
+		}
+		{
+			id: "46D4FC847E8A6D39"
+			tasks: [{
+				id: "4D9BE55920FEA457"
+				item: { count: 1, id: "packagedavaritia:sculk_crafter" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			id: "199D19A3074A0509"
+			tasks: [{
+				id: "054F72F241F73B35"
+				item: { count: 1, id: "packagedavaritia:nether_crafter" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 5.0d
+		}
+		{
+			id: "08F055A9CAD0B5D5"
+			tasks: [{
+				id: "3F7A83042B39BCA6"
+				item: { count: 1, id: "packagedavaritia:end_crafter" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			id: "77A6F72E64F4631F"
+			tasks: [{
+				id: "1E76F6806A038683"
+				item: { count: 1, id: "packagedavaritia:extreme_crafter" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 7.0d
+		}
+		{
+			id: "4F05C1943D2A20D6"
+			tasks: [{
+				id: "5F9FA4A7BC31805E"
+				item: { count: 1, id: "packagedauto:recipe_holder" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			id: "6A5AA64BF92628AD"
+			tasks: [{
+				id: "5E95BA575A3D6879"
+				item: { count: 1, id: "packagedauto:packager" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			id: "2DC677EB14A7BEBD"
+			tasks: [{
+				id: "29BC705B7E09FA16"
+				item: { count: 1, id: "packagedauto:unpackager" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 7.0d
+		}
+		{
+			id: "0623201D89AB5C62"
+			tasks: [{
+				id: "0E09D3BD9A6F7A13"
+				item: { count: 1, id: "packagedauto:encoder" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 5.0d
+		}
+		{
+			id: "0CE76D2CCBBCE71E"
+			tasks: [{
+				id: "6281F8A3966D8919"
+				item: { count: 1, id: "avaritia:infinity_catalyst" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "3186D0203DF08136"
+			tasks: [{
+				id: "7D6BB84A231D1E1D"
+				item: { count: 1, id: "avaritia:infinity_nugget" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			id: "1A8D506470113F81"
+			tasks: [{
+				id: "506027FC54E30747"
+				item: { count: 1, id: "avaritia:infinity_ingot" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -0.5d
+		}
+		{
+			id: "07F34BFAB3A82267"
+			tasks: [{
+				id: "0B622C8F93B0C342"
+				item: { count: 1, id: "avaritia:infinity" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -0.5d
+		}
+		{
+			id: "0C5E1D2BE46F423A"
+			tasks: [{
+				id: "0CD719BF0602D685"
+				item: { count: 1, id: "avaritia:infinity_chest" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			id: "2BCAA6D9B82AC344"
+			tasks: [{
+				id: "08977374C617E5D0"
+				item: { count: 1, id: "avaritia:endless_cake" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			id: "15EF915443EAC76E"
+			tasks: [{
+				id: "20D695EC3B542863"
+				item: { count: 1, id: "avaritia:infinity_helmet" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -2.5d
+		}
+		{
+			id: "2FCD9FB384E01A91"
+			tasks: [{
+				id: "5748111EEFF4860F"
+				item: { count: 1, id: "avaritia:infinity_chestplate" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.5d
+		}
+		{
+			id: "37359229BAAE258F"
+			tasks: [{
+				id: "05E241EC95D27D6C"
+				item: { count: 1, id: "avaritia:infinity_pants" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			id: "2D11610B99C6F6CA"
+			tasks: [{
+				id: "014556DBD9DA12B6"
+				item: { count: 1, id: "avaritia:infinity_boots" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			id: "0F5D8E69C30F575D"
+			tasks: [{
+				id: "23AF6217DFF208A7"
+				item: { count: 1, id: "avaritia:infinity_elytra" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			id: "0F160BC7E7F0C1C4"
+			tasks: [{
+				id: "223E75201F8E30B7"
+				item: { count: 1, id: "avaritia:infinity_totem" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			id: "688CB6BA3C735AA9"
+			tasks: [{
+				id: "0BD6B4CEFC82FCEA"
+				item: { components: { "minecraft:custom_data": { mode: { } } }, count: 1, id: "avaritia:infinity_umbrella" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			id: "7482BE55C5393CD6"
+			tasks: [{
+				id: "3350AE7215453A65"
+				item: { components: { "minecraft:custom_data": { mode: { } } }, count: 1, id: "avaritia:infinity_clock" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			id: "14FF573688519CA3"
+			tasks: [{
+				id: "520283E3C377EF38"
+				item: { count: 1, id: "avaritia:infinity_bucket" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			id: "11844DDDADC18831"
+			tasks: [{
+				id: "4EEA2A0762A76F4C"
+				item: { count: 1, id: "avaritia:infinity_upgrade" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "429384D0AD920303"
+			tasks: [{
+				id: "14B8964CB9FACC88"
+				item: { count: 1, id: "avaritia:enhancement_core" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -0.5d
+		}
+		{
+			id: "4071DCF59847A6FF"
+			tasks: [{
+				id: "79C95D3FD259DFB6"
+				item: { components: { "minecraft:custom_data": { mode: { } } }, count: 1, id: "avaritia:infinity_sword" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 1.5d
+		}
+		{
+			id: "6662CCE638B73FC3"
+			tasks: [{
+				id: "53B09171E9AD3AFE"
+				item: { count: 1, id: "avaritia:infinity_hoe" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 1.5d
+		}
+		{
+			id: "3ECCA7AFD0929F69"
+			tasks: [{
+				id: "6DF02527A6694826"
+				item: { components: { "minecraft:custom_data": { mode: { } } }, count: 1, id: "avaritia:infinity_pickaxe" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			id: "1A5826878542E1B5"
+			tasks: [{
+				id: "072DC53AC5AC7175"
+				item: { components: { "minecraft:custom_data": { mode: { } } }, count: 1, id: "avaritia:infinity_shovel" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			id: "07F333946E94A056"
+			tasks: [{
+				id: "0FAF7008EE1B2322"
+				item: { count: 1, id: "avaritia:infinity_axe" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.5d
+		}
+		{
+			id: "5B2D80C9870A148B"
+			tasks: [{
+				id: "4E38105A88652D61"
+				item: { components: { "minecraft:custom_data": { mode: { } } }, count: 1, id: "avaritia:infinity_bow" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.5d
+		}
+		{
+			id: "561B6A37E13D6B75"
+			tasks: [{
+				id: "3346A96C0C48FAA5"
+				item: { count: 1, id: "avaritia:infinity_crossbow" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.5d
+		}
+		{
+			id: "71AB1583E14D0A0E"
+			tasks: [{
+				id: "3236C9251EEE425B"
+				item: { count: 1, id: "avaritia:infinity_shield" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -2.5d
+		}
+		{
+			id: "2C1A2CFDB9A4C08C"
+			tasks: [{
+				id: "3E48060D228A07D5"
+				item: { count: 1, id: "avaritia:infinity_trident" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -1.5d
+		}
+		{
+			id: "4F6396044720C896"
+			tasks: [{
+				id: "2C96022009FC9483"
+				item: { count: 1, id: "avaritia:infinity_mace" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -0.5d
+		}
+		{
+			id: "325AF66626A30D25"
+			tasks: [{
+				id: "12089F93AF71FE1D"
+				item: { count: 1, id: "avaritia:crystal_sword" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 2.5d
+		}
+		{
+			id: "4D3B7A901F9DD140"
+			tasks: [{
+				id: "78E3BE4E28855DAD"
+				item: { count: 1, id: "avaritia:crystal_hoe" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 2.5d
+		}
+		{
+			id: "1609284F1C0E0993"
+			tasks: [{
+				id: "78645B464AEEC6D2"
+				item: { count: 1, id: "avaritia:crystal_pickaxe" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.5d
+		}
+		{
+			id: "1EE2409AC75B1F56"
+			tasks: [{
+				id: "1BCDDDA3AB4AB80C"
+				item: { count: 1, id: "avaritia:crystal_shovel" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.5d
+		}
+		{
+			id: "2F02F480DBF010D5"
+			tasks: [{
+				id: "5A46D0B17F4E93FB"
+				item: { count: 1, id: "avaritia:crystal_axe" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.5d
+		}
+		{
+			id: "3F737DE5329B17D2"
+			tasks: [{
+				id: "3E85482566583633"
+				item: { count: 1, id: "avaritia:crystal_bow" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.5d
+		}
+		{
+			id: "2A42448273D6A620"
+			tasks: [{
+				id: "63E1EC3A0DD78770"
+				item: { count: 1, id: "avaritia:blaze_sword" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 3.5d
+		}
+		{
+			id: "4A12330AEB4C5E16"
+			tasks: [{
+				id: "6D39329DD597A445"
+				item: { count: 1, id: "avaritia:blaze_hoe" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.5d
+		}
+		{
+			id: "0C41BB265DB23851"
+			tasks: [{
+				id: "761B634B37392CFB"
+				item: { count: 1, id: "avaritia:blaze_pickaxe" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			id: "15C973E97AF1619F"
+			tasks: [{
+				id: "0874003AEA70E77C"
+				item: { count: 1, id: "avaritia:blaze_shovel" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.5d
+		}
+		{
+			id: "6E6C882AD55ABF83"
+			tasks: [{
+				id: "2B3834DFF88C3C07"
+				item: { count: 1, id: "avaritia:blaze_axe" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 3.5d
+		}
+		{
+			id: "0DB2E8DD8682DACB"
+			tasks: [{
+				id: "4DB6C4F8558672CE"
+				item: { count: 1, id: "avaritia:blaze_bow" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 3.5d
+		}
+		{
+			id: "54126039D93B0223"
+			tasks: [{
+				id: "5E87831B1F5D713E"
+				item: { count: 1, id: "avaritia:blaze_cube" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 3.5d
+		}
+		{
+			id: "66A20A80AA95CACB"
+			tasks: [{
+				id: "398A0543AECE2055"
+				item: { count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 9.0d
+		}
+		{
+			id: "2DF64C1F1CC1866C"
+			tasks: [{
+				id: "7ACC73D980B301FC"
+				item: { count: 1, id: "avaritia:eternal_singularity" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 9.0d
+		}
+		{
+			id: "2CDD70EEC9E6AAB3"
+			tasks: [{
+				id: "13A67F3C3826E066"
+				item: { count: 1, id: "avaritia:neutron_horse_armor" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			id: "142F77D3302875A0"
+			tasks: [{
+				id: "0685C14156718A79"
+				item: { count: 1, id: "avaritia:matter_cluster" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			id: "6A2E17A0B69784D0"
+			tasks: [{
+				id: "0D55CBD6A6093AF0"
+				item: { count: 1, id: "avaritia:endest_pearl" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			id: "72E6378E116C4633"
+			tasks: [{
+				id: "64ACD68AC4601E77"
+				item: { count: 1, id: "avaritia:refined_coal" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.0d
+		}
+		{
+			id: "3E4846D9311BB0CD"
+			tasks: [{
+				id: "06D521FF062EFDA3"
+				item: { count: 1, id: "avaritia:star_fuel" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			id: "3F668901E5E9EBAB"
+			tasks: [{
+				id: "18A03F71269916CF"
+				item: { count: 1, id: "avaritia:record_fragment" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			id: "5E7859AC4B7E536F"
+			tasks: [{
+				id: "3CEC5322317C3DDB"
+				item: { count: 1, id: "avaritia:upgrade_smithing_template" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "7C93647A083BB6D7"
+			tasks: [{
+				id: "4BA9A91584EF6E5F"
+				item: { count: 1, id: "avaritia:full_matter_cluster" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			id: "157C02F6E4108DD8"
+			tasks: [{
+				id: "5E5CB89306662EDC"
+				item: { count: 1, id: "avaritia:cosmic_meatballs" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			id: "0BAD0FB8564A2DB0"
+			tasks: [{
+				id: "1E39084FCAF09DB2"
+				item: { count: 1, id: "avaritia:ultimate_stew" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			id: "65F88721E90BAD26"
+			tasks: [{
+				id: "222972148D0E0FC9"
+				item: { count: 1, id: "avaritia:compressed_crafting_table" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			id: "478C06CBF0A988FA"
+			tasks: [{
+				id: "78E579A1B4E629A6"
+				item: { count: 1, id: "avaritia:double_compressed_crafting_table" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			id: "5D6BF59BA5D66FAD"
+			tasks: [{
+				id: "727336F6285E63D7"
+				item: { count: 1, id: "avaritia:compressed_chest" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			id: "28F9F1D9CDEDD21E"
+			tasks: [{
+				id: "49A1733799F5257E"
+				item: { count: 1, id: "avaritia:crystal_matrix" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			id: "058D3E3D0C1A87B5"
+			tasks: [{
+				id: "7F309941874921F5"
+				item: { count: 1, id: "avaritia:blaze_cube_block" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 3.5d
+		}
+		{
+			id: "4F489AC3A5E50618"
+			tasks: [{
+				id: "424F88067B46B2D0"
+				item: { count: 1, id: "avaritia:sculk_crafting_table" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			id: "038B3EFADE07A47D"
+			tasks: [{
+				id: "5B3E843942BCA160"
+				item: { count: 1, id: "avaritia:nether_crafting_table" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 5.0d
+		}
+		{
+			id: "273E492DC262D9E8"
+			tasks: [{
+				id: "09612705DDB07E18"
+				item: { count: 1, id: "avaritia:end_crafting_table" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 6.0d
+		}
+		{
+			id: "69845EC973C087C6"
+			tasks: [{
+				id: "7CFA7A96AE99585E"
+				item: { count: 1, id: "avaritia:extreme_crafting_table" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 7.0d
+		}
+		{
+			id: "2C59AB2039F85E6E"
+			tasks: [{
+				id: "2551898E1EE6B818"
+				item: { count: 1, id: "avaritia:extreme_smithing_table" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			id: "4214AF5750EB4455"
+			tasks: [{
+				id: "3694F5B13B8D3E19"
+				item: { count: 1, id: "avaritia:extreme_anvil" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			id: "482C78F823B32EBE"
+			tasks: [{
+				id: "6C22C158463E6A15"
+				item: { count: 1, id: "avaritia:diamond_lattice_block" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			id: "0FAE28F47E95666B"
+			tasks: [{
+				id: "2C7AE10715266E7C"
+				item: { count: 1, id: "avaritia:tesseract" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			id: "3F4D1A0D3C30F628"
+			tasks: [{
+				id: "4084073C06C5CE77"
+				item: { count: 1, id: "avaritia:soul_farmland" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 6.5d
+		}
+		{
+			id: "06FFB92CB34C9865"
+			tasks: [{
+				id: "03D6CC3A382B7A55"
+				item: { count: 1, id: "avaritia:star_fuel_block" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			id: "5AFB1B2C9E4C7BF1"
+			tasks: [{
+				id: "6ED10655F854A853"
+				item: { count: 1, id: "avaritia:refined_coal_block" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 5.0d
+		}
+		{
+			id: "4BCE448A532B839C"
+			tasks: [{
+				id: "26B5C5B9C796147A"
+				item: { count: 1, id: "avaritia:neutron_compressor" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			id: "014247A7DA29A3E4"
+			tasks: [{
+				id: "69AF3B20FFA32CA7"
+				item: { count: 1, id: "avaritia:dense_neutron_compressor" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 6.5d
+		}
+		{
+			id: "23D482767C878C34"
+			tasks: [{
+				id: "1EA28F8C432B0F2C"
+				item: { count: 1, id: "avaritia:denser_neutron_compressor" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 5.5d
+		}
+		{
+			id: "0CBF3101D611E312"
+			tasks: [{
+				id: "000F60B8C3CFB55A"
+				item: { count: 1, id: "avaritia:densest_neutron_compressor" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 6.5d
+		}
+		{
+			id: "3FD8710F48F8E8F8"
+			tasks: [{
+				id: "44EC393933C66D8C"
+				item: { components: { "avaritia:singularity_id": "avaritia:electrum" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 3.0d
+		}
+		{
+			id: "7AE9BD6B61F2C9E1"
+			tasks: [{
+				id: "273ACF658E80C8C0"
+				item: { components: { "avaritia:singularity_id": "avaritia:iron" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 3.0d
+		}
+		{
+			id: "2201F7A8043CD3D7"
+			tasks: [{
+				id: "1A453B2BC9169A8D"
+				item: { components: { "avaritia:singularity_id": "avaritia:copper" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 4.0d
+		}
+		{
+			id: "1A2B8D133C59F40E"
+			tasks: [{
+				id: "5488CF7D4DAF7E2B"
+				item: { components: { "avaritia:singularity_id": "avaritia:nickel" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 4.0d
+		}
+		{
+			id: "1A7359483DFD4A62"
+			tasks: [{
+				id: "61103644E2B22E05"
+				item: { components: { "avaritia:singularity_id": "avaritia:coal" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: 3.0d
+		}
+		{
+			id: "4E5CD52637C30ADF"
+			tasks: [{
+				id: "538A7BBC456F54E5"
+				item: { components: { "avaritia:singularity_id": "avaritia:glowstone" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: 4.0d
+		}
+		{
+			id: "6D7288D5885FA1B0"
+			tasks: [{
+				id: "36AE2A31BD0C7718"
+				item: { components: { "avaritia:singularity_id": "avaritia:redstone" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 3.0d
+		}
+		{
+			id: "4E065F5EC7A6CB5D"
+			tasks: [{
+				id: "3FFFE3BBF61C23E9"
+				item: { components: { "avaritia:singularity_id": "avaritia:aluminum" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 4.0d
+		}
+		{
+			id: "4289E33B718115FB"
+			tasks: [{
+				id: "5BA9B916E2443493"
+				item: { components: { "avaritia:singularity_id": "avaritia:refined_obsidian" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: 3.0d
+		}
+		{
+			id: "6135927AFDBF2854"
+			tasks: [{
+				id: "1A4BCC04D974D2AF"
+				item: { components: { "avaritia:singularity_id": "avaritia:lead" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: 4.0d
+		}
+		{
+			id: "07AB3D5F9ACC231F"
+			tasks: [{
+				id: "1917E0F925160671"
+				item: { components: { "avaritia:singularity_id": "avaritia:silver" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: 5.0d
+		}
+		{
+			id: "6820D11579BB4174"
+			tasks: [{
+				id: "2444DF877C266CA8"
+				item: { components: { "avaritia:singularity_id": "avaritia:amethyst_shard" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 5.0d
+		}
+		{
+			id: "362F7FD333477BDD"
+			tasks: [{
+				id: "5C0D9271EDE22F8D"
+				item: { components: { "avaritia:singularity_id": "avaritia:bronze" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: 5.0d
+		}
+		{
+			id: "41AD9A0EE3A38D28"
+			tasks: [{
+				id: "6D6B91227B5624C4"
+				item: { components: { "avaritia:singularity_id": "avaritia:gold" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 5.0d
+		}
+		{
+			id: "1812B1124F442CF7"
+			tasks: [{
+				id: "14C5FAC3AE16E66A"
+				item: { components: { "avaritia:singularity_id": "avaritia:tin" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 5.0d
+		}
+		{
+			id: "190C3D82DA2E3308"
+			tasks: [{
+				id: "746AAD20ED1848EE"
+				item: { components: { "avaritia:singularity_id": "avaritia:osmium" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: 6.0d
+		}
+		{
+			id: "34C1835E25B55885"
+			tasks: [{
+				id: "7681AD6DE8C6486D"
+				item: { components: { "avaritia:singularity_id": "avaritia:emerald" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 6.0d
+		}
+		{
+			id: "23474E974667E0B1"
+			tasks: [{
+				id: "5A889AB86A82258C"
+				item: { components: { "avaritia:singularity_id": "avaritia:blue_ice" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: 6.0d
+		}
+		{
+			id: "1DF7943AAE98A68A"
+			tasks: [{
+				id: "074E2231F85D95A2"
+				item: { components: { "avaritia:singularity_id": "avaritia:lapis_lazuli" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 6.0d
+		}
+		{
+			id: "1B0C2A4DD0F237FF"
+			tasks: [{
+				id: "2B90B274263B26FE"
+				item: { components: { "avaritia:singularity_id": "avaritia:obsidian" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 6.0d
+		}
+		{
+			id: "6584AFA11243831B"
+			tasks: [{
+				id: "3BF069A98A349858"
+				item: { components: { "avaritia:singularity_id": "avaritia:uranium" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: 7.0d
+		}
+		{
+			id: "0EC3E79F72F528BA"
+			tasks: [{
+				id: "358F18D6C980E8D2"
+				item: { components: { "avaritia:singularity_id": "avaritia:netherite" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: 7.0d
+		}
+		{
+			id: "10E65DEA0783AF64"
+			tasks: [{
+				id: "1967F3BEDF9329A2"
+				item: { components: { "avaritia:singularity_id": "avaritia:diamond" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 7.0d
+		}
+		{
+			id: "63E0053E0E3FB99A"
+			tasks: [{
+				id: "792F088AEE33DCEB"
+				item: { components: { "avaritia:singularity_id": "avaritia:quartz" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 7.0d
+		}
+		{
+			id: "16C01195C440047F"
+			tasks: [{
+				id: "7093A6324332C5D6"
+				item: { components: { "avaritia:singularity_id": "avaritia:steel" }, count: 1, id: "avaritia:singularity" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: 8.0d
+		}
+		{
+			id: "5F223B056AED5199"
+			tasks: [{
+				id: "25B52C68096BEC70"
+				item: { count: 1, id: "avaritia:side_config_card" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: 1.0d
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "587b7755f895fdf6"
+	group: "4A7F95BA84910EEA"
+	icon: {
+		id: "malum:spirit_altar"
+	}
+	id: "587B7755F895FDF6"
+	images: [ ]
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+}

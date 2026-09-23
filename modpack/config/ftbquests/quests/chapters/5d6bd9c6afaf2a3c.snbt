@@ -1,0 +1,87 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "5d6bd9c6afaf2a3c"
+	group: "028CEBAC06C3F56E"
+	icon: {
+		id: "minecraft:crafting_table"
+	}
+	id: "5D6BD9C6AFAF2A3C"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "590DE4E25E5571F0"
+			tasks: [{
+				id: "73626E0948BAB072"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			icon: {
+				id: "gravestone:gravestone"
+			}
+			id: "52DC5DEA1698B288"
+			tasks: [{
+				id: "500036A6E52BF1C7"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "create:electron_tube"
+			}
+			id: "4F44C93958F7676C"
+			tasks: [{
+				id: "6009449CFF3DBF46"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: 2.5d
+		}
+		{
+			icon: {
+				id: "minecraft:crafting_table"
+			}
+			id: "5AC99BD84C798557"
+			tasks: [{
+				id: "39B17077232B5C91"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			icon: {
+				id: "waystones:waystone"
+			}
+			id: "4B474D6B410EF376"
+			tasks: [{
+				id: "3ECE1953DC0BC9D5"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ftblibrary:icons/map"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2D462B24367EF5CA"
+			tasks: [{
+				id: "46AC3C0DF633E7B7"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: 1.5d
+		}
+	]
+}

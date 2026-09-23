@@ -1,0 +1,92 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "352d377398a7e4d5"
+	group: "47E5B158817082FA"
+	id: "352D377398A7E4D5"
+	images: [ ]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5C5DAA40589792F1"
+			tasks: [{
+				id: "0B01C6CABB102A5D"
+				item: { count: 1, id: "silentgear:blueprint_package" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "03C57E26846FDAB5"
+			tasks: [{
+				id: "49321DFD20B7F591"
+				item: { count: 1, id: "silentgear:rod_blueprint" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			id: "6FAF2C0D437DF51E"
+			tasks: [{
+				id: "7721F1FF1E722510"
+				item: { count: 1, id: "silentgear:tip_blueprint" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "754C8ECC750F6932"
+			tasks: [{
+				id: "1D552860528FC8A6"
+				item: { count: 1, id: "silentgear:grip_blueprint" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			id: "3297E9B5FDEB2BB9"
+			tasks: [{
+				id: "74996A70A3C9C46B"
+				item: { count: 1, id: "silentgear:binding_blueprint" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			id: "161D48F8AF787AC2"
+			tasks: [{
+				id: "2A07EBDDC96E3140"
+				item: { count: 1, id: "silentgear:lining_blueprint" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "122E1D1AE63C4CA4"
+			tasks: [{
+				id: "67DB3F81247F9798"
+				item: { count: 1, id: "silentgear:cord_blueprint" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			id: "221F3D462D4E3917"
+			tasks: [{
+				id: "5222D8B4B90DE5FF"
+				item: { count: 1, id: "silentgear:fletching_blueprint" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+	]
+}

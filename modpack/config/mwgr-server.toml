@@ -1,0 +1,5 @@
+["General Settings"]
+	#Initial state of auto-eject when the block is placed.
+	defaultAutoEject = false
+	#If true, auto-eject can be toggled in any Configurator mode. If false, only WRENCH mode is allowed.
+	allowAllModes = false

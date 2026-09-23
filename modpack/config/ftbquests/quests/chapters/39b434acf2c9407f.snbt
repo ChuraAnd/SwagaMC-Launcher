@@ -1,0 +1,1488 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "39b434acf2c9407f"
+	group: "3F74684990259088"
+	icon: {
+		id: "avaritia:infinity"
+	}
+	id: "39B434ACF2C9407F"
+	images: [
+		{
+			click_action: "none:"
+			height: 1.5d
+			id: "2048FF5CF2744C40"
+			image: "advanced_ae:block/crafting/quantum_internal_powered_animation"
+			rotation: 0.0d
+			width: 1.5d
+			x: 9.0d
+			y: -3.0d
+		}
+		{
+			click_action: "none:"
+			height: 1.5d
+			id: "023C3DD615AC2F7C"
+			image: "advanced_ae:block/crafting/quantum_internal_powered_animation"
+			rotation: 0.0d
+			width: 1.5d
+			x: 9.0d
+			y: -4.5d
+		}
+		{
+			click_action: "none:"
+			height: 1.5d
+			id: "50F254F8427AD46A"
+			image: "advanced_ae:block/crafting/quantum_internal_powered_animation"
+			rotation: 0.0d
+			width: 1.5d
+			x: 10.5d
+			y: -3.0d
+		}
+		{
+			click_action: "none:"
+			height: 1.5d
+			id: "46DC9624A7A60E95"
+			image: "advanced_ae:block/crafting/quantum_internal_powered_animation"
+			rotation: 0.0d
+			width: 1.5d
+			x: 10.5d
+			y: -4.5d
+		}
+		{
+			click_action: "none:"
+			height: 1.5d
+			id: "71B103DAC55F0233"
+			image: "ae2:block/mysterious_cube_core"
+			rotation: 0.0d
+			width: 1.5d
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			click_action: "none:"
+			height: 6.0d
+			id: "5C23A7DE64CFA146"
+			image: "ae2:block/molecular_assembler_lights"
+			rotation: 0.0d
+			width: 6.0d
+			x: 9.7d
+			y: -3.7d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon_scale: 1.3d
+			id: "33DD4DDDF0BEA575"
+			rewards: [{
+				id: "4693F02D49055ABB"
+				type: "xp"
+				xp: 1
+			}]
+			shape: "rsquare"
+			size: 1.15d
+			tasks: [{
+				id: "66816638B30350EA"
+				type: "checkmark"
+			}]
+			x: -0.575d
+			y: -5.749999999999999d
+		}
+		{
+			id: "4666F65C64F258A3"
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "7A6638E65C87FE26"
+				type: "kill"
+				value: 100L
+			}]
+			x: -8.0d
+			y: -5.5d
+		}
+		{
+			id: "5D3A39B7ACFCC78B"
+			tasks: [{
+				entity: "minecraft:creeper"
+				id: "30854DCC3061E801"
+				type: "kill"
+				value: 100L
+			}]
+			x: -8.5d
+			y: -4.5d
+		}
+		{
+			id: "62FA1F85EC7F7606"
+			tasks: [{
+				entity: "minecraft:skeleton"
+				id: "46AC59B2C6581F10"
+				type: "kill"
+				value: 100L
+			}]
+			x: -7.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["33DD4DDDF0BEA575"]
+			id: "5016F272175E88CF"
+			tasks: [{
+				id: "57D4E8D408C36CD4"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["33DD4DDDF0BEA575"]
+			id: "0E13AD6208068A05"
+			tasks: [{
+				id: "7E461B0C9762361F"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["33DD4DDDF0BEA575"]
+			id: "7D10F0823EAD2747"
+			tasks: [{
+				id: "223997BF07E5D7C2"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["33DD4DDDF0BEA575"]
+			id: "7B8643AA89F1C293"
+			tasks: [{
+				id: "3C522C4D79085FB6"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["33DD4DDDF0BEA575"]
+			id: "5639D9F7A5B05CF4"
+			tasks: [{
+				id: "09332C3CEC10D7DD"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["33DD4DDDF0BEA575"]
+			id: "059BCFC369149EE9"
+			tasks: [{
+				id: "6AEC973F955837AC"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -6.0d
+		}
+		{
+			id: "294014B03023723B"
+			shape: "diamond"
+			tasks: [{
+				id: "7A4F82EEC79599A0"
+				item: { count: 1, id: "advanced_ae:quantum_helmet" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.5d
+		}
+		{
+			id: "5635621D931907C1"
+			shape: "diamond"
+			tasks: [{
+				id: "2923E8056245B1FE"
+				item: { count: 1, id: "advanced_ae:quantum_chestplate" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 0.5d
+		}
+		{
+			id: "1BB351E78A8D9BA1"
+			shape: "diamond"
+			tasks: [{
+				id: "5EA3730A44DDD252"
+				item: { count: 1, id: "advanced_ae:quantum_leggings" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			id: "1D7CE88096492F3C"
+			shape: "diamond"
+			tasks: [{
+				id: "67A826F3E6A447A4"
+				item: { count: 1, id: "advanced_ae:quantum_boots" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 1.0d
+		}
+		{
+			id: "69770122C81A7A31"
+			shape: "hexagon"
+			tasks: [{
+				id: "5B5688B9B0C5B163"
+				item: { count: 1, id: "mekanism:mekasuit_helmet" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -0.5d
+		}
+		{
+			id: "5FDF4BFC82AF59A5"
+			shape: "hexagon"
+			tasks: [{
+				id: "0F6C7363BEF92A44"
+				item: { count: 1, id: "mekanism:mekasuit_bodyarmor" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			id: "65726591013D0F60"
+			shape: "hexagon"
+			tasks: [{
+				id: "6EA6D5128AB7F11B"
+				item: { count: 1, id: "mekanism:mekasuit_pants" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 0.5d
+		}
+		{
+			id: "103E0ADA510831A0"
+			shape: "hexagon"
+			tasks: [{
+				id: "71AAA6142ABB239D"
+				item: { count: 1, id: "mekanism:mekasuit_boots" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 1.0d
+		}
+		{
+			id: "5C73517CF775A753"
+			tasks: [{
+				id: "1C09A4A408650791"
+				item: { count: 1, id: "botania:terrasteel_helmet" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			id: "7C94D644382D8D55"
+			tasks: [{
+				id: "6F813FEDC1B117F6"
+				item: { count: 1, id: "botania:terrasteel_chestplate" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			id: "7B8DB244AC0D85EE"
+			tasks: [{
+				id: "020F0D07F965ABDB"
+				item: { count: 1, id: "botania:terrasteel_leggings" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			id: "0CC0F010EAEBCFED"
+			tasks: [{
+				id: "44F897EF24271B1A"
+				item: { count: 1, id: "botania:terrasteel_boots" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			id: "221E7C7D921232F3"
+			tasks: [{
+				id: "647BCE14CDC17D05"
+				item: { count: 1, id: "mekanismtools:refined_obsidian_helmet" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			id: "345CB7E02C767B7E"
+			tasks: [{
+				id: "5D54D6C158A0E38E"
+				item: { count: 1, id: "mekanismtools:refined_obsidian_chestplate" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			id: "0017216931709247"
+			tasks: [{
+				id: "397FA9FD84DDFCAA"
+				item: { count: 1, id: "mekanismtools:refined_obsidian_leggings" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			id: "7EE4905F5A40A49E"
+			tasks: [{
+				id: "4D6EB954422198C0"
+				item: { count: 1, id: "mekanismtools:refined_obsidian_boots" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			id: "5FF0F5101F1227EE"
+			tasks: [{
+				id: "3DE75BCC8D6120A6"
+				item: { count: 1, id: "minecraft:netherite_helmet" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			id: "22B829694B24118B"
+			tasks: [{
+				id: "08FE2D45E8D760C0"
+				item: { count: 1, id: "minecraft:netherite_chestplate" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			id: "5D755611C1DA0318"
+			tasks: [{
+				id: "6DAEB72E48DAB0A6"
+				item: { count: 1, id: "minecraft:netherite_leggings" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			id: "04305C123C2DB199"
+			tasks: [{
+				id: "667E30BA441AE739"
+				item: { count: 1, id: "minecraft:netherite_boots" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			id: "5BCE69A10821E4D3"
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "4DE2221954746715"
+				item: { count: 1, id: "avaritia:infinity_helmet" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -4.5d
+		}
+		{
+			id: "7B978C6658D5F881"
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "69D0652706C3BA81"
+				item: { count: 1, id: "avaritia:infinity_chestplate" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: -4.5d
+		}
+		{
+			icon: {
+				id: "avaritia:infinity_pants"
+			}
+			id: "794E4BDB94AC09B4"
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "0390D8B10EDE552D"
+				item: { count: 1, id: "avaritia:infinity_pants" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -3.0d
+		}
+		{
+			hide_dependency_lines: true
+			id: "2F7FD1A1A062CE06"
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "381AB0579BA751F0"
+				item: { count: 1, id: "avaritia:infinity_boots" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: -3.0d
+		}
+		{
+			id: "3DE6D71FEC937619"
+			tasks: [
+				{
+					id: "02AF462A413E9F2D"
+					item: { count: 1, id: "minecraft:leather_helmet" }
+					type: "item"
+				}
+				{
+					id: "61745DF18B953548"
+					item: { count: 1, id: "minecraft:leather_chestplate" }
+					type: "item"
+				}
+				{
+					id: "6D41A3B468063CF9"
+					item: { count: 1, id: "minecraft:leather_leggings" }
+					type: "item"
+				}
+				{
+					id: "05CBA1643F4E37CE"
+					item: { count: 1, id: "minecraft:leather_boots" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			id: "103AC6E59FC44AAD"
+			tasks: [
+				{
+					id: "3677A6F2E163B935"
+					item: { count: 1, id: "minecraft:golden_helmet" }
+					type: "item"
+				}
+				{
+					id: "6721663CB3A0682B"
+					item: { count: 1, id: "minecraft:golden_chestplate" }
+					type: "item"
+				}
+				{
+					id: "363FAC5E465F9248"
+					item: { count: 1, id: "minecraft:golden_leggings" }
+					type: "item"
+				}
+				{
+					id: "09B6F2B68C30B28E"
+					item: { count: 1, id: "minecraft:golden_boots" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			id: "508B19DB6B7F2AEF"
+			tasks: [
+				{
+					id: "5EBB53BCAD84A788"
+					item: { count: 1, id: "minecraft:iron_helmet" }
+					type: "item"
+				}
+				{
+					id: "4E86FDD588587AB6"
+					item: { count: 1, id: "minecraft:iron_chestplate" }
+					type: "item"
+				}
+				{
+					id: "51A0DAA970212EEE"
+					item: { count: 1, id: "minecraft:iron_leggings" }
+					type: "item"
+				}
+				{
+					id: "49E6916714C4DFB1"
+					item: { count: 1, id: "minecraft:iron_boots" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			id: "2BEF6E680C91EAEE"
+			tasks: [
+				{
+					id: "68686DCD2843B7EF"
+					item: { count: 1, id: "minecraft:diamond_helmet" }
+					type: "item"
+				}
+				{
+					id: "0218B6E7B15DA8FA"
+					item: { count: 1, id: "minecraft:diamond_chestplate" }
+					type: "item"
+				}
+				{
+					id: "3273E44A30DA732A"
+					item: { count: 1, id: "minecraft:diamond_leggings" }
+					type: "item"
+				}
+				{
+					id: "6B12B1CEB92224E4"
+					item: { count: 1, id: "minecraft:diamond_boots" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			id: "26C23CDF2EAA43C5"
+			tasks: [
+				{
+					id: "3EB38E26EC00A596"
+					item: { count: 1, id: "minecraft:chainmail_helmet" }
+					type: "item"
+				}
+				{
+					id: "13ED4AB3FC5CDB9B"
+					item: { count: 1, id: "minecraft:chainmail_chestplate" }
+					type: "item"
+				}
+				{
+					id: "0EA24031B50C8802"
+					item: { count: 1, id: "minecraft:chainmail_leggings" }
+					type: "item"
+				}
+				{
+					id: "72E0B105EDB742F2"
+					item: { count: 1, id: "minecraft:chainmail_boots" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			id: "4D3C6DC47E593B92"
+			tasks: [{
+				id: "5B63631B6693470C"
+				item: { count: 1, id: "minecraft:turtle_helmet" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			id: "24CF1427BFAB327A"
+			tasks: [{
+				id: "793B918664D1C382"
+				item: { count: 1, id: "minecraft:elytra" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			id: "612E2BFE261E5E54"
+			tasks: [
+				{
+					id: "3231E170A56B1F94"
+					item: { count: 1, id: "mekanismtools:osmium_helmet" }
+					type: "item"
+				}
+				{
+					id: "74B5777431376A27"
+					item: { count: 1, id: "mekanismtools:osmium_chestplate" }
+					type: "item"
+				}
+				{
+					id: "24F931994B16EE63"
+					item: { count: 1, id: "mekanismtools:osmium_leggings" }
+					type: "item"
+				}
+				{
+					id: "4206E2499408CF0A"
+					item: { count: 1, id: "mekanismtools:osmium_boots" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			id: "3B8CBB7D14BC7D56"
+			tasks: [
+				{
+					id: "6BF3E6DA9A32C4A5"
+					item: { count: 1, id: "mekanismtools:bronze_helmet" }
+					type: "item"
+				}
+				{
+					id: "68FFD1B8C92A3EAE"
+					item: { count: 1, id: "mekanismtools:bronze_chestplate" }
+					type: "item"
+				}
+				{
+					id: "0899D50D38E99450"
+					item: { count: 1, id: "mekanismtools:bronze_leggings" }
+					type: "item"
+				}
+				{
+					id: "0EE35DBACDE7334D"
+					item: { count: 1, id: "mekanismtools:bronze_boots" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "5F30E0C0AE592BD0"
+			tasks: [{
+				id: "0C78A9AA38C03B59"
+				item: { count: 1, id: "eternal_starlight:unrealium_helmet" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			id: "23BCF824D9B2B485"
+			tasks: [{
+				id: "7DD0EA9A3123FC21"
+				item: { count: 1, id: "eternal_starlight:unrealium_chestplate" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			id: "725A05DA1CE91266"
+			tasks: [{
+				id: "310ECE31C7A326A4"
+				item: { count: 1, id: "eternal_starlight:unrealium_leggings" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			id: "32B0534F6F79D94F"
+			tasks: [{
+				id: "59DAA0D3E4D2BEBF"
+				item: { count: 1, id: "eternal_starlight:unrealium_boots" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			id: "3C8B352F7045EF2C"
+			tasks: [
+				{
+					id: "1BFCF55EF6C751D1"
+					item: { count: 1, id: "eternal_starlight:glacite_helmet" }
+					type: "item"
+				}
+				{
+					id: "61DF20FEF03B9249"
+					item: { count: 1, id: "eternal_starlight:glacite_chestplate" }
+					type: "item"
+				}
+				{
+					id: "6391CA42CEC05957"
+					item: { count: 1, id: "eternal_starlight:glacite_leggings" }
+					type: "item"
+				}
+				{
+					id: "31A359F068D73AF7"
+					item: { count: 1, id: "eternal_starlight:glacite_boots" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			id: "19C8C743A534DA58"
+			tasks: [
+				{
+					id: "66615FA8F0B06962"
+					item: { count: 1, id: "botania:manasteel_helmet" }
+					type: "item"
+				}
+				{
+					id: "521A51553DFA5061"
+					item: { count: 1, id: "botania:manasteel_chestplate" }
+					type: "item"
+				}
+				{
+					id: "79132A98AD32A193"
+					item: { count: 1, id: "botania:manasteel_leggings" }
+					type: "item"
+				}
+				{
+					id: "436779CC7A85EBF2"
+					item: { count: 1, id: "botania:manasteel_boots" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			id: "348C198D0D161938"
+			tasks: [
+				{
+					id: "18DFD93B00F257FB"
+					item: { count: 1, id: "botania:manaweave_helmet" }
+					type: "item"
+				}
+				{
+					id: "625708CCFAB783DC"
+					item: { count: 1, id: "botania:manaweave_chestplate" }
+					type: "item"
+				}
+				{
+					id: "6E0DDCE1ABEFE25D"
+					item: { count: 1, id: "botania:manaweave_leggings" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			id: "025B4A85D8BC918C"
+			tasks: [{
+				id: "0FB2046F022F7216"
+				item: { count: 1, id: "botania:holy_cloak" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			id: "5D2A8CA734E130EF"
+			tasks: [{
+				id: "0600BA82C1DB1785"
+				item: { count: 1, id: "botania:unholy_cloak" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "403A4147BCDDF8F5"
+			tasks: [{
+				id: "3EAB2AD254783C20"
+				item: { count: 1, id: "botania:balance_cloak" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.0d
+		}
+		{
+			id: "5FA2FE206E4366A9"
+			tasks: [{
+				id: "5D2402D097CEC918"
+				item: { count: 1, id: "botania:invisibility_cloak" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			id: "40913A7D8AF27CA4"
+			tasks: [{
+				id: "0FA33B900D6F1772"
+				item: { count: 1, id: "minecraft:trident" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -5.5d
+		}
+		{
+			id: "2261BF4AC7FA908B"
+			tasks: [{
+				id: "77B51860773DD70F"
+				item: { count: 1, id: "minecraft:mace" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -5.5d
+		}
+		{
+			id: "310BAE0AFC355BE5"
+			shape: "gear"
+			tasks: [{
+				id: "07D7A294C163D91D"
+				item: { components: { "minecraft:custom_data": { mode: { } } }, count: 1, id: "avaritia:infinity_sword" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -4.5d
+		}
+		{
+			id: "6FC3EE584D78BE6C"
+			tasks: [{
+				id: "0D8D9D8D3F4B8DCF"
+				item: { count: 1, id: "create:potato_cannon" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -4.5d
+		}
+		{
+			id: "316AC31EDCD8C7B3"
+			tasks: [{
+				id: "4E21C90EEEF3D6B1"
+				item: { count: 1, id: "tfmg:quad_potato_cannon" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -4.5d
+		}
+		{
+			id: "71843D6D2398BF36"
+			tasks: [{
+				id: "4BE8F73A682DA3F3"
+				item: { components: { "ae2:stored_energy": 200000.0d }, count: 1, id: "ae2:matter_cannon" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -5.5d
+		}
+		{
+			id: "662DB992AFC2D717"
+			tasks: [{
+				id: "75A9B67709B009AF"
+				item: { components: { "industrialforegoing:infinity_can_charge": 1b, "industrialforegoing:infinity_item_power": 0L, "industrialforegoing:infinity_item_selected_tier": "poor", "industrialforegoing:infinity_item_special": 0b, "industrialforegoing:infinity_trident_channeling": 0b, "industrialforegoing:infinity_trident_loyalty": 0, "industrialforegoing:infinity_trident_riptide": 0 }, count: 1, id: "industrialforegoing:infinity_trident" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -6.5d
+		}
+		{
+			id: "411CDEDD2C0F0322"
+			tasks: [{
+				id: "5280994C3AF3CCCA"
+				item: { components: { "industrialforegoing:infinity_can_charge": 1b, "industrialforegoing:infinity_item_power": 0L, "industrialforegoing:infinity_item_selected_tier": "poor", "industrialforegoing:infinity_item_special": 0b }, count: 1, id: "industrialforegoing:infinity_drill" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -6.5d
+		}
+		{
+			id: "3F40B18996F66FC7"
+			tasks: [{
+				id: "0DCE5A3C96C80FD4"
+				item: { components: { "industrialforegoing:infinity_can_charge": 1b, "industrialforegoing:infinity_hammer_beheading": 0, "industrialforegoing:infinity_item_power": 4000000L, "industrialforegoing:infinity_item_selected_tier": "common", "industrialforegoing:infinity_item_special": 0b }, count: 1, id: "industrialforegoing:infinity_hammer" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -6.5d
+		}
+		{
+			id: "04C7B84D800CA0CF"
+			tasks: [{
+				id: "7635632BA2BF1AD7"
+				item: { components: { "industrialforegoing:infinity_can_charge": 1b, "industrialforegoing:infinity_item_power": 0L, "industrialforegoing:infinity_item_selected_tier": "poor", "industrialforegoing:infinity_item_special": 0b }, count: 1, id: "industrialforegoing:infinity_saw" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -7.5d
+		}
+		{
+			id: "0785686417394396"
+			tasks: [{
+				id: "34147B2062386FCC"
+				item: { components: { "industrialforegoing:configuration_action": "RELEASE", "industrialforegoing:infinity_can_charge": 1b, "industrialforegoing:infinity_item_power": 0L, "industrialforegoing:infinity_item_selected_tier": "poor", "industrialforegoing:infinity_item_special": 0b }, count: 1, id: "industrialforegoing:infinity_launcher" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -7.5d
+		}
+		{
+			id: "0B27790E1D23AAD0"
+			tasks: [{
+				id: "1827F3B8B86CCDAF"
+				item: { components: { "industrialforegoing:infinity_can_charge": 1b, "industrialforegoing:infinity_item_power": 0L, "industrialforegoing:infinity_item_selected_tier": "poor", "industrialforegoing:infinity_item_special": 0b }, count: 1, id: "industrialforegoing:infinity_backpack" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -7.5d
+		}
+		{
+			id: "6F2D5D213B6FCF2D"
+			tasks: [
+				{
+					id: "3B0B463D6BF2D697"
+					item: { count: 1, id: "twilightforest:fiery_helmet" }
+					type: "item"
+				}
+				{
+					id: "4C6CD40B40C21E7E"
+					item: { count: 1, id: "twilightforest:fiery_chestplate" }
+					type: "item"
+				}
+				{
+					id: "221D5F7241D4B45F"
+					item: { count: 1, id: "twilightforest:fiery_leggings" }
+					type: "item"
+				}
+				{
+					id: "68551F168AEB9F7A"
+					item: { count: 1, id: "twilightforest:fiery_boots" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "71727E86CEF6EB56"
+			tasks: [
+				{
+					id: "5B6296326F0EEEA4"
+					item: { count: 1, id: "twilightforest:knightmetal_helmet" }
+					type: "item"
+				}
+				{
+					id: "57CAF3092482FA1A"
+					item: { count: 1, id: "twilightforest:knightmetal_chestplate" }
+					type: "item"
+				}
+				{
+					id: "3983B784E9186D71"
+					item: { count: 1, id: "twilightforest:knightmetal_leggings" }
+					type: "item"
+				}
+				{
+					id: "5E95A0048E856793"
+					item: { count: 1, id: "twilightforest:knightmetal_boots" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			id: "41924B19BBF26678"
+			tasks: [
+				{
+					id: "2526BBF9A5D30974"
+					item: { count: 1, id: "twilightforest:naga_trophy" }
+					type: "item"
+				}
+				{
+					id: "08A747E34E2A3A12"
+					item: { count: 1, id: "twilightforest:lich_trophy" }
+					type: "item"
+				}
+				{
+					id: "5D5B99547CB94743"
+					item: { count: 1, id: "twilightforest:minoshroom_trophy" }
+					type: "item"
+				}
+				{
+					id: "73163F143511473E"
+					item: { count: 1, id: "twilightforest:hydra_trophy" }
+					type: "item"
+				}
+				{
+					id: "1880BDEC0F5685B0"
+					item: { count: 1, id: "twilightforest:knight_phantom_trophy" }
+					type: "item"
+				}
+				{
+					id: "51D5A36A9967309F"
+					item: { count: 1, id: "twilightforest:ur_ghast_trophy" }
+					type: "item"
+				}
+				{
+					id: "70F860BDA88DCF6B"
+					item: { count: 1, id: "twilightforest:alpha_yeti_trophy" }
+					type: "item"
+				}
+				{
+					id: "1F9CBB75E7176BDE"
+					item: { count: 1, id: "twilightforest:snow_queen_trophy" }
+					type: "item"
+				}
+				{
+					id: "02D7E5B89449C54A"
+					item: { count: 1, id: "twilightforest:quest_ram_trophy" }
+					type: "item"
+				}
+			]
+			x: 6.5d
+			y: -4.5d
+		}
+		{
+			id: "17758BAD92AFBE58"
+			tasks: [
+				{
+					id: "58619BDDF234DC46"
+					item: { count: 1, id: "eternal_starlight:thermal_springstone_helmet" }
+					type: "item"
+				}
+				{
+					id: "7F0F247AA21C9C40"
+					item: { count: 1, id: "eternal_starlight:thermal_springstone_chestplate" }
+					type: "item"
+				}
+				{
+					id: "51568D682F39026C"
+					item: { count: 1, id: "eternal_starlight:thermal_springstone_leggings" }
+					type: "item"
+				}
+				{
+					id: "5A255D8C7D57B8F7"
+					item: { count: 1, id: "eternal_starlight:thermal_springstone_boots" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			id: "4B76E60FEC71A4E5"
+			tasks: [
+				{
+					id: "271136D78F369E62"
+					item: { count: 1, id: "eternal_starlight:deepsilver_helmet" }
+					type: "item"
+				}
+				{
+					id: "403BF77018A0D6F4"
+					item: { count: 1, id: "eternal_starlight:deepsilver_chestplate" }
+					type: "item"
+				}
+				{
+					id: "357BFF7942FF1DF6"
+					item: { count: 1, id: "eternal_starlight:deepsilver_leggings" }
+					type: "item"
+				}
+				{
+					id: "6BEA207D328A8B69"
+					item: { count: 1, id: "eternal_starlight:deepsilver_boots" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			id: "64461F349AEBFFAE"
+			tasks: [
+				{
+					id: "4E45EA43B7C0770A"
+					item: { components: { "minecraft:enchantments": { levels: { "minecraft:aqua_affinity": 1 } } }, count: 1, id: "twilightforest:ironwood_helmet" }
+					type: "item"
+				}
+				{
+					id: "0143A983365AC3B7"
+					item: { components: { "minecraft:enchantments": { levels: { "minecraft:protection": 1 } } }, count: 1, id: "twilightforest:ironwood_chestplate" }
+					type: "item"
+				}
+				{
+					id: "77A1FE45F173BE8F"
+					item: { components: { "minecraft:enchantments": { levels: { "minecraft:protection": 1 } } }, count: 1, id: "twilightforest:ironwood_leggings" }
+					type: "item"
+				}
+				{
+					id: "651C4C7B18C7A831"
+					item: { components: { "minecraft:enchantments": { levels: { "minecraft:feather_falling": 1 } } }, count: 1, id: "twilightforest:ironwood_boots" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			id: "48194C2D2641D15B"
+			tasks: [
+				{
+					id: "67CFAB284A758518"
+					item: { count: 1, id: "botania:elementium_helmet" }
+					type: "item"
+				}
+				{
+					id: "5562054763D18E79"
+					item: { count: 1, id: "botania:elementium_chestplate" }
+					type: "item"
+				}
+				{
+					id: "7BF5F86D23EC42B5"
+					item: { count: 1, id: "botania:elementium_leggings" }
+					type: "item"
+				}
+				{
+					id: "1917E2F8E531F0FB"
+					item: { count: 1, id: "botania:elementium_boots" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			id: "37116C623682A1F7"
+			tasks: [
+				{
+					id: "439E3639B65CE31D"
+					item: { count: 1, id: "eternal_starlight:starlit_diamond_helmet" }
+					type: "item"
+				}
+				{
+					id: "77D76010095701A7"
+					item: { count: 1, id: "eternal_starlight:starlit_diamond_chestplate" }
+					type: "item"
+				}
+				{
+					id: "42D6B2B7F28F33C8"
+					item: { count: 1, id: "eternal_starlight:starlit_diamond_leggings" }
+					type: "item"
+				}
+				{
+					id: "65C1C22EAEECD9AA"
+					item: { count: 1, id: "eternal_starlight:starlit_diamond_boots" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			icon_scale: 1.3d
+			id: "4995DC13B05F27FF"
+			shape: "square"
+			size: 1.15d
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "6276CBCC830C559A"
+				type: "dimension"
+			}]
+			x: -1.15d
+			y: -8.625d
+		}
+		{
+			icon_scale: 1.3d
+			id: "771A6207275F3569"
+			shape: "square"
+			size: 1.15d
+			tasks: [{
+				dimension: "eternal_starlight:starlight"
+				id: "4E28300E1ED98468"
+				type: "dimension"
+			}]
+			x: -0.575d
+			y: -9.2d
+		}
+		{
+			icon_scale: 1.3d
+			id: "6D7BE87B414D4E51"
+			shape: "square"
+			size: 1.15d
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "42B02388CCA3F463"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: -8.625d
+		}
+		{
+			icon_scale: 1.3d
+			id: "6F4DA208F57CA3B8"
+			shape: "square"
+			size: 1.15d
+			tasks: [{
+				dimension: "twilightforest:twilight_forest"
+				id: "09ED877FF52760AB"
+				type: "dimension"
+			}]
+			x: -0.575d
+			y: -8.049999999999999d
+		}
+		{
+			icon_scale: 1.3d
+			id: "00F9A58636A5ACB9"
+			shape: "square"
+			size: 1.15d
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "260ECCD3B6C3C85D"
+				type: "dimension"
+			}]
+			x: -0.575d
+			y: -8.625d
+		}
+		{
+			id: "7D21851F39F42EBC"
+			tasks: [{
+				id: "411E4CAB4BF5085C"
+				item: { count: 1, id: "minecraft:copper_block" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -1.5d
+		}
+		{
+			id: "1C792C630299DC10"
+			tasks: [{
+				id: "6118A71777F76B40"
+				item: { count: 1, id: "minecraft:iron_block" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -1.5d
+		}
+		{
+			id: "75B757C6C600E830"
+			tasks: [{
+				id: "454B18F2E5CA5469"
+				item: { count: 1, id: "minecraft:gold_block" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -1.5d
+		}
+		{
+			id: "49C7362F0A648BA4"
+			tasks: [{
+				id: "26FA85553A038C18"
+				item: { count: 1, id: "minecraft:diamond_block" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -0.5d
+		}
+		{
+			id: "715F05BE70D50AD2"
+			tasks: [{
+				id: "0EE3FFEAB9509A6A"
+				item: { count: 1, id: "eternal_starlight:starlit_diamond_block" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -0.5d
+		}
+		{
+			id: "0D0B1847BAEA0BB5"
+			tasks: [{
+				id: "1AA496D4AF313DA4"
+				item: { count: 1, id: "minecraft:slime_block" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -0.5d
+		}
+		{
+			id: "2459F45EEB05860B"
+			tasks: [{
+				id: "699DCAAB6F6A64A5"
+				item: { count: 1, id: "botania:terrasteel_block" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 0.5d
+		}
+		{
+			id: "48FC88D0A827F7F8"
+			tasks: [{
+				id: "4FC279BFE83BBE0D"
+				item: { count: 1, id: "botania:elementium_block" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 0.5d
+		}
+		{
+			id: "05D15B16B07A4397"
+			tasks: [{
+				id: "0994B95497259577"
+				item: { count: 1, id: "minecraft:netherite_block" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 0.5d
+		}
+		{
+			id: "755D733119FFB214"
+			tasks: [{
+				id: "4B6C998B6C2568EC"
+				item: { count: 1, id: "minecraft:redstone_block" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			id: "6049A526481B08B4"
+			tasks: [{
+				id: "730E16E5CE9CD9DC"
+				item: { count: 1, id: "minecraft:lapis_block" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			id: "79D6236BD71A53D8"
+			tasks: [{
+				id: "1F9AD7BB4485ADBF"
+				item: { count: 1, id: "minecraft:amethyst_block" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			id: "4DBA1C593365B7A7"
+			tasks: [{
+				id: "75260D752F8B9798"
+				item: { count: 1, id: "minecraft:emerald_block" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: -1.5d
+		}
+		{
+			id: "01D027986BC07CBD"
+			tasks: [{
+				id: "10C829E739519805"
+				item: { count: 1, id: "minecraft:honeycomb_block" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: -0.5d
+		}
+		{
+			id: "3AA103420D21AFC7"
+			tasks: [{
+				id: "4A2054A33EF7D8A1"
+				item: { count: 1, id: "minecraft:honey_block" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: 0.5d
+		}
+		{
+			id: "73FE731DD4851615"
+			tasks: [{
+				id: "1D37072F0171BC8C"
+				item: { count: 1, id: "advanced_ae:quantum_alloy_block" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: 1.5d
+		}
+		{
+			id: "618CA864DB64A11C"
+			tasks: [{
+				id: "32A5646AFD319CD9"
+				item: { count: 1, id: "avaritia:infinity" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 1.5d
+		}
+		{
+			id: "438CB88905D89D69"
+			tasks: [{
+				id: "222DDCB0B397550C"
+				item: { count: 1, id: "twilightforest:fiery_block" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 1.5d
+		}
+		{
+			id: "45FF3F9B14C4D79D"
+			tasks: [{
+				id: "0CA898A1C07FD047"
+				item: { count: 1, id: "evilcraft:dark_block" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 1.5d
+		}
+		{
+			id: "3DE85E9C996335CB"
+			tasks: [{
+				id: "5F8A2D130E56C32C"
+				item: { count: 1, id: "evilcraft:dark_power_gem_block" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			id: "3CA21D749FC11EDA"
+			tasks: [{
+				id: "103E70989A61BE87"
+				item: { count: 1, id: "eternal_starlight:aethersent_block" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: 2.5d
+		}
+		{
+			id: "0D6BB42519F8B2A5"
+			tasks: [{
+				id: "6F76A9BB1AC8F0BB"
+				item: { count: 1, id: "eternal_starlight:glacite_block" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 2.5d
+		}
+		{
+			id: "3C226D28CB8456AE"
+			tasks: [{
+				id: "03CA5AA01130551F"
+				item: { count: 1, id: "eternal_starlight:deepsilver_block" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 2.5d
+		}
+		{
+			id: "75A55E00D77C8D3B"
+			tasks: [{
+				id: "2224D07BCD3E69AA"
+				item: { count: 1, id: "eternal_starlight:unrealium_block" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 2.5d
+		}
+		{
+			id: "33C68B921E5DF6FB"
+			tasks: [{
+				id: "0D9DC160E0FCFCD0"
+				item: { count: 1, id: "eternal_starlight:malarite_block" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 2.5d
+		}
+	]
+}

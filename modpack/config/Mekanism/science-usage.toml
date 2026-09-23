@@ -1,0 +1,22 @@
+#MS Energy Usage Config. This config is synced from server to client.
+[storage]
+	#Energy usage per tick (Joules).
+	# Default: 100
+	# Range: 0 ~ 9223372036854775807
+	airCompressor = 100
+	#Energy usage per tick (Joules).
+	# Default: 1000
+	# Range: 0 ~ 9223372036854775807
+	radiationIrradiator = 1000
+	#Energy usage per tick (Joules).
+	# Default: 500
+	# Range: 0 ~ 9223372036854775807
+	adsorptionSeparator = 500
+	#Energy usage per tick (Joules).
+	# Default: 100
+	# Range: 0 ~ 9223372036854775807
+	organicLiquidExtractor = 100
+	#Energy usage per tick (Joules).
+	# Default: 100
+	# Range: 0 ~ 9223372036854775807
+	seawaterPump = 100

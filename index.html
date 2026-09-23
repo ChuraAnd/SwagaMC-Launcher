@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SwagaMC Launcher</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="palette-orange bg-solid">
+    <div class="background-slider">
+        <div class="bg-slide active" style="background-image: url('screenshots/bg1.jpg');"></div>
+        <div class="bg-slide" style="background-image: url('screenshots/bg2.jpg');"></div>
+        <div class="bg-slide" style="background-image: url('screenshots/bg3.jpg');"></div>
+        <div class="bg-overlay"></div>
+    </div>
+    <canvas id="weather-canvas"></canvas>
+
+    <div class="title-bar">
+        <div class="title-bar-left">
+            <i class="fas fa-rocket logo-icon"></i>
+            <span class="title">SwagaMC Launcher</span>
+        </div>
+        <div class="window-controls">
+            <button class="win-btn minimize" id="minimize-btn"></button>
+            <button class="win-btn maximize" id="maximize-btn"></button>
+            <button class="win-btn close" id="close-btn"></button>
+        </div>
+    </div>
+
+    <div class="app-wrapper">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="logo-text" id="logo-text"></div>
+                <div class="logo-subtitle">Модовый сервер нового поколения (260+ модов)</div>
+                <div class="logo-version">v1.0.0</div>
+            </div>
+            <nav class="nav-menu">
+                <button class="nav-item active" data-tab="home"><i class="fas fa-home nav-icon"></i><span>Главная</span></button>
+                <button class="nav-item" data-tab="news"><i class="fas fa-newspaper nav-icon"></i><span>Новости</span><span class="notification-dot" id="news-dot" style="display:none;"></span></button>
+                <button class="nav-item" data-tab="media"><i class="fas fa-video nav-icon"></i><span>Медиа</span></button>
+                <button class="nav-item" data-tab="socials"><i class="fas fa-share-alt nav-icon"></i><span>Соцсети</span></button>
+                <button class="nav-item" data-tab="settings"><i class="fas fa-cog nav-icon"></i><span>Настройки</span></button>
+                <button class="nav-item" data-tab="console"><i class="fas fa-terminal nav-icon"></i><span>Консоль</span><span class="notification-dot" id="console-dot" style="display:none;"></span></button>
+            </nav>
+            <div class="sidebar-footer">
+                <div class="status-indicator"><span class="status-dot"></span><span id="server-status-text">Онлайн</span></div>
+                <div class="player-count" id="player-count">👥 Загрузка...</div>
+            </div>
+        </aside>
+
+        <main class="main-content">
+            <div id="tab-home" class="tab active">
+                <div class="top-features">
+                    <div class="features-track">
+                        <div class="feature-item"><i class="fas fa-bolt feature-icon"></i><div class="feature-info"><div class="feature-name">Быстрый старт</div><div class="feature-desc">Автозагрузка модов</div></div></div>
+                        <div class="feature-item"><i class="fas fa-cogs feature-icon"></i><div class="feature-info"><div class="feature-name">NeoForge</div><div class="feature-desc">Версия 21.1.248</div></div></div>
+                        <div class="feature-item"><i class="fas fa-globe feature-icon"></i><div class="feature-info"><div class="feature-name">Онлайн</div><div class="feature-desc">Без лицензии</div></div></div>
+                        <div class="feature-item"><i class="fas fa-shield-alt feature-icon"></i><div class="feature-info"><div class="feature-name">Стабильно</div><div class="feature-desc">24/7 работа</div></div></div>
+                        <div class="feature-item"><i class="fas fa-users feature-icon"></i><div class="feature-info"><div class="feature-name">Комьюнити</div><div class="feature-desc">Дружные игроки</div></div></div>
+                        <div class="feature-item"><i class="fas fa-gem feature-icon"></i><div class="feature-info"><div class="feature-name">Донат</div><div class="feature-desc">Честные привилегии</div></div></div>
+                        <div class="feature-item"><i class="fas fa-dragon feature-icon"></i><div class="feature-info"><div class="feature-name">Боссы</div><div class="feature-desc">Эпичные сражения</div></div></div>
+                        <div class="feature-item"><i class="fas fa-map feature-icon"></i><div class="feature-info"><div class="feature-name">Карта</div><div class="feature-desc">Огромный мир</div></div></div>
+                        <!-- ДУБЛИКАТЫ ДЛЯ БЕСШОВНОСТИ -->
+                        <div class="feature-item"><i class="fas fa-bolt feature-icon"></i><div class="feature-info"><div class="feature-name">Быстрый старт</div><div class="feature-desc">Автозагрузка модов</div></div></div>
+                        <div class="feature-item"><i class="fas fa-cogs feature-icon"></i><div class="feature-info"><div class="feature-name">NeoForge</div><div class="feature-desc">Версия 21.1.248</div></div></div>
+                        <div class="feature-item"><i class="fas fa-globe feature-icon"></i><div class="feature-info"><div class="feature-name">Онлайн</div><div class="feature-desc">Без лицензии</div></div></div>
+                        <div class="feature-item"><i class="fas fa-shield-alt feature-icon"></i><div class="feature-info"><div class="feature-name">Стабильно</div><div class="feature-desc">24/7 работа</div></div></div>
+                        <div class="feature-item"><i class="fas fa-users feature-icon"></i><div class="feature-info"><div class="feature-name">Комьюнити</div><div class="feature-desc">Дружные игроки</div></div></div>
+                        <div class="feature-item"><i class="fas fa-gem feature-icon"></i><div class="feature-info"><div class="feature-name">Донат</div><div class="feature-desc">Честные привилегии</div></div></div>
+                        <div class="feature-item"><i class="fas fa-dragon feature-icon"></i><div class="feature-info"><div class="feature-name">Боссы</div><div class="feature-desc">Эпичные сражения</div></div></div>
+                        <div class="feature-item"><i class="fas fa-map feature-icon"></i><div class="feature-info"><div class="feature-name">Карта</div><div class="feature-desc">Огромный мир</div></div></div>
+                    </div>
+                </div>
+
+                <div class="home-news-section">
+                    <div class="section-header">
+                        <h3 class="section-title"><i class="fas fa-newspaper"></i> Последние новости</h3>
+                        <button class="view-all-btn" id="view-all-news">Все новости <i class="fas fa-arrow-right"></i></button>
+                    </div>
+                    <div class="news-tiles-grid" id="home-news-tiles"></div>
+                </div>
+
+                <div class="bottom-launch">
+                    <div class="launch-row">
+                        <div class="nickname-input">
+                            <i class="fas fa-user input-icon"></i>
+                            <input type="text" id="nickname" class="nickname-field" placeholder="Введите никнейм" maxlength="16">
+                        </div>
+                        <div class="launch-info">
+                            <div id="status-text" class="status-text">Готов к запуску</div>
+                            <div class="progress-wrapper">
+                                <div id="progress-bar" class="progress-bar"><div id="progress-fill" class="progress-fill"></div></div>
+                                <div id="progress-text" class="progress-text"></div>
+                            </div>
+                        </div>
+                        <button id="play-btn" class="play-button">
+                            <i class="fas fa-play play-icon"></i>
+                            <span class="play-label">ИГРАТЬ</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <div id="tab-news" class="tab">
+                <div class="tab-content-wrapper">
+                    <div class="tab-header-row">
+                        <h2 class="tab-title"><i class="fas fa-newspaper"></i> Новости сервера</h2>
+                        <button class="back-btn" id="back-from-news"><i class="fas fa-arrow-left"></i> Назад</button>
+                    </div>
+                    <div class="news-grid" id="news-grid"></div>
+                </div>
+            </div>
+
+            <div id="tab-media" class="tab">
+                <div class="tab-content-wrapper">
+                    <h2 class="tab-title"><i class="fas fa-video"></i> Медиа</h2>
+                    <div class="media-sections">
+                        <div class="media-section">
+                            <h3 class="media-section-title"><i class="fab fa-twitch"></i> Стримеры</h3>
+                            <div class="streamers-grid" id="streamers-grid"></div>
+                        </div>
+                        <div class="media-section">
+                            <h3 class="media-section-title"><i class="fab fa-youtube"></i> Видео</h3>
+                            <div class="videos-grid" id="videos-grid"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="tab-socials" class="tab">
+                <div class="tab-content-wrapper">
+                    <h2 class="tab-title"><i class="fas fa-share-alt"></i> Наши соцсети</h2>
+                    <div class="socials-grid" id="socials-grid"></div>
+                </div>
+            </div>
+
+            <div id="tab-settings" class="tab">
+                <div class="tab-content-wrapper">
+                    <h2 class="tab-title"><i class="fas fa-cog"></i> Настройки</h2>
+                    <div class="settings-grid">
+                        <div class="setting-card">
+                            <div class="setting-header"><i class="fas fa-folder"></i><span>Путь к игре</span></div>
+                            <div class="setting-body">
+                                <input type="text" id="game-path-input" class="setting-input" readonly>
+                                <button id="select-path-btn" class="btn-small">Выбрать</button>
+                            </div>
+                        </div>
+                        <div class="setting-card">
+                            <div class="setting-header"><i class="fas fa-memory"></i><span>Память</span></div>
+                            <div class="setting-body">
+                                <div class="memory-slider-wrap">
+                                    <span id="memory-value" class="memory-val">8 GB</span>
+                                    <input type="range" id="memory-slider" class="memory-slider" min="4" max="16" value="8">
+                                    <div class="memory-labels"><span>4GB</span><span>16GB</span></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="setting-card">
+                            <div class="setting-header"><i class="fas fa-palette"></i><span>Цветовая палитра</span></div>
+                            <div class="setting-body">
+                                <div class="palette-grid" id="palette-grid">
+                                    <button class="palette-btn active" data-palette="orange"><span class="palette-circle" style="background: #ff9800;"></span><span>Оранж</span></button>
+                                    <button class="palette-btn" data-palette="blue"><span class="palette-circle" style="background: #2196f3;"></span><span>Синий</span></button>
+                                    <button class="palette-btn" data-palette="green"><span class="palette-circle" style="background: #4caf50;"></span><span>Зелёный</span></button>
+                                    <button class="palette-btn" data-palette="purple"><span class="palette-circle" style="background: #9c27b0;"></span><span>Фиолет</span></button>
+                                    <button class="palette-btn" data-palette="red"><span class="palette-circle" style="background: #f44336;"></span><span>Красный</span></button>
+                                    <button class="palette-btn" data-palette="cyan"><span class="palette-circle" style="background: #00bcd4;"></span><span>Бирюза</span></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="setting-card">
+                            <div class="setting-header"><i class="fas fa-fill-drip"></i><span>Фон панелей</span></div>
+                            <div class="setting-body">
+                                <div class="bg-style-grid" id="bg-style-grid">
+                                    <button class="bg-style-btn active" data-bg="solid"><div class="bg-preview" style="background: rgba(30,30,30,0.8);"></div><span>Серый</span></button>
+                                    <button class="bg-style-btn" data-bg="tinted-orange"><div class="bg-preview" style="background: rgba(255,152,0,0.15);"></div><span>Оранж</span></button>
+                                    <button class="bg-style-btn" data-bg="tinted-blue"><div class="bg-preview" style="background: rgba(33,150,243,0.15);"></div><span>Синий</span></button>
+                                    <button class="bg-style-btn" data-bg="tinted-purple"><div class="bg-preview" style="background: rgba(156,39,176,0.15);"></div><span>Фиолет</span></button>
+                                    <button class="bg-style-btn" data-bg="gradient-dark"><div class="bg-preview" style="background: linear-gradient(135deg, #1a1a1a, #000);"></div><span>Градиент</span></button>
+                                    <button class="bg-style-btn" data-bg="glass-heavy"><div class="bg-preview" style="background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.2);"></div><span>Стекло</span></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="setting-card">
+                            <div class="setting-header"><i class="fas fa-highlighter"></i><span>Стиль кнопок</span></div>
+                            <div class="setting-body">
+                                <div class="btn-style-grid" id="btn-style-grid">
+                                    <button class="btn-style-btn active" data-btnstyle="solid"><div class="btn-preview btn-preview-solid"></div><span>Сплошной</span></button>
+                                    <button class="btn-style-btn" data-btnstyle="gradient"><div class="btn-preview btn-preview-gradient"></div><span>Градиент</span></button>
+                                    <button class="btn-style-btn" data-btnstyle="outline"><div class="btn-preview btn-preview-outline"></div><span>Контур</span></button>
+                                    <button class="btn-style-btn" data-btnstyle="glass"><div class="btn-preview btn-preview-glass"></div><span>Стекло</span></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="setting-card">
+                            <div class="setting-header"><i class="fas fa-cloud-sun-rain"></i><span>Атмосфера</span></div>
+                            <div class="setting-body">
+                                <div class="toggle-group">
+                                    <label class="toggle-label">
+                                        <input type="checkbox" id="blur-toggle">
+                                        <span class="toggle-slider"></span>
+                                        <span class="toggle-text">Размытие панелей</span>
+                                    </label>
+                                    <label class="toggle-label" style="margin-top: 12px;">
+                                        <input type="checkbox" id="weather-toggle">
+                                        <span class="toggle-slider"></span>
+                                        <span class="toggle-text">Эффект дождя/снега</span>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="setting-card">
+                            <div class="setting-header"><i class="fas fa-info-circle"></i><span>Информация</span></div>
+                            <div class="setting-body info-body">
+                                <div class="info-row"><span>Версия:</span><strong>1.21.1</strong></div>
+                                <div class="info-row"><span>Загрузчик:</span><strong>NeoForge 21.1.248</strong></div>
+                                <div class="info-row"><span>Java:</span><strong>Java 21</strong></div>
+                                <div class="info-row"><span>Лаунчер:</span><strong>v1.0.0</strong></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="tab-console" class="tab">
+                <div class="console-wrapper">
+                    <div class="console-header">
+                        <span><i class="fas fa-terminal"></i> Консоль</span>
+                        <div class="console-actions">
+                            <button id="clear-console" class="console-btn"><i class="fas fa-trash"></i></button>
+                        </div>
+                    </div>
+                    <div id="console-output" class="console-output"></div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <div class="modal-overlay" id="news-modal" style="display:none;">
+        <div class="modal-content">
+            <button class="modal-close" id="modal-close"><i class="fas fa-times"></i></button>
+            <div class="modal-image" id="modal-image"></div>
+            <div class="modal-body">
+                <div class="modal-meta">
+                    <span class="modal-category" id="modal-category"></span>
+                    <span class="modal-date" id="modal-date"></span>
+                </div>
+                <h2 class="modal-title" id="modal-title"></h2>
+                <p class="modal-text" id="modal-text"></p>
+                <div class="modal-footer"><i class="fas fa-user"></i><span id="modal-author"></span></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="renderer.js"></script>
+</body>
+</html>

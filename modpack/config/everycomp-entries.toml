@@ -1,0 +1,177 @@
+		[types.wood_type.ars_nouveau]
+			archwood = true
+
+		[types.wood_type.twilightforest]
+			twilight_oak = true
+			canopy = true
+			mangrove = true
+			dark = true
+			time = true
+			transformation = true
+			mining = true
+			sorting = true
+
+		[types.wood_type.silentgear]
+			netherwood = true
+
+		[types.wood_type.biomesoplenty]
+			fir = true
+			pine = true
+			maple = true
+			redwood = true
+			mahogany = true
+			jacaranda = true
+			palm = true
+			willow = true
+			dead = true
+			magic = true
+			umbran = true
+			hellbark = true
+			empyreal = true
+
+		[types.wood_type.malum]
+			runewood = true
+			soulwood = true
+
+		[types.leaves_type.ars_elemental]
+			yellow_archwood = true
+
+		[types.leaves_type.twilightforest]
+			thorn = true
+			beanstalk = true
+			twilight_oak = true
+			canopy = true
+			mangrove = true
+			dark = true
+			rainbow_oak = true
+			time = true
+			transformation = true
+			mining = true
+			sorting = true
+
+		[types.leaves_type.silentgear]
+			netherwood = true
+
+		[types.leaves_type.twilightdelight]
+			ironwood = true
+
+		[types.leaves_type.biomesoplenty]
+			null = true
+			origin = true
+			flowering_oak = true
+			cypress = true
+			snowblossom = true
+			rainbow_birch = true
+			fir = true
+			pine = true
+			red_maple = true
+			orange_maple = true
+			yellow_maple = true
+			redwood = true
+			mahogany = true
+			jacaranda = true
+			palm = true
+			willow = true
+			dead = true
+			magic = true
+			umbran = true
+			hellbark = true
+			empyreal = true
+
+		[types.leaves_type.ars_nouveau]
+			blue_archwood = true
+			red_archwood = true
+			purple_archwood = true
+			green_archwood = true
+
+		[types.leaves_type.malum]
+			runewood = true
+			azure_runewood = true
+			soulwood = true
+
+		[entries.wood_type.mcwfurnitures]
+			wardrobe = true
+			stripped_glass_table = true
+			stripped_desk = true
+			modern_desk = true
+			stripped_lower_bookshelf_drawer = true
+			stripped_end_table = true
+			end_table = true
+			stool_chair = true
+			drawer = true
+			stripped_lower_triple_drawer = true
+			stripped_bookshelf_drawer = true
+			stripped_bookshelf = true
+			modern_chair = true
+			stripped_drawer_counter = true
+			bookshelf_drawer = true
+			chair = true
+			stripped_table = true
+			double_drawer = true
+			stripped_coffee_table = true
+			stripped_counter = true
+			double_drawer_counter = true
+			stripped_striped_chair = true
+			covered_desk = true
+			drawer_counter = true
+			counter = true
+			stripped_modern_chair = true
+			bookshelf_cupboard = true
+			table = true
+			stripped_stool_chair = true
+			stripped_modern_wardrobe = true
+			cupboard_counter = true
+			desk = true
+			stripped_covered_desk = true
+			coffee_table = true
+			glass_table = true
+			stripped_double_wardrobe = true
+			stripped_cupboard_counter = true
+			stripped_triple_drawer = true
+			stripped_chair = true
+			stripped_double_drawer = true
+			stripped_double_drawer_counter = true
+			triple_drawer = true
+			lower_triple_drawer = true
+			bookshelf = true
+			stripped_wardrobe = true
+			large_drawer = true
+			stripped_modern_desk = true
+			stripped_bookshelf_cupboard = true
+			modern_wardrobe = true
+			double_wardrobe = true
+			stripped_drawer = true
+			lower_bookshelf_drawer = true
+			striped_chair = true
+			stripped_large_drawer = true
+
+		[entries.wood_type.another_furniture]
+			shelf = true
+			bench = true
+			flower_box = true
+			shutter = true
+			table = true
+			drawer = true
+			chair = true
+
+		[entries.wood_type.create]
+			window_pane = true
+			window = true
+
+		[entries.wood_type.storagedrawers]
+			half_drawers_1 = true
+			half_drawers_4 = true
+			half_drawers_2 = true
+			trim = true
+			full_drawers_2 = true
+			full_drawers_4 = true
+			full_drawers_1 = true
+
+		[entries.wood_type.twilightforest]
+			banister = true
+			hollow_log_climbable = true
+			hollow_log_horizontal = true
+			hollow_log_vertical = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true

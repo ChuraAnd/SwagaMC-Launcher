@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Shut_Pustashiy",
+      "uniqueId": "6b2c0364-244e-4e32-a29b-8ce97b48b57a"
+    },
+    "time": 1789592622762,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/3JrTCrUaxq"
+    }
+  }
+]

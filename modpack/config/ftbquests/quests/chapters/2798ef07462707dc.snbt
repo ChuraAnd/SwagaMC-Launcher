@@ -1,0 +1,14 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "2798ef07462707dc"
+	group: "028CEBAC06C3F56E"
+	icon: {
+		id: "farmersdelight:cooking_pot"
+	}
+	id: "2798EF07462707DC"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

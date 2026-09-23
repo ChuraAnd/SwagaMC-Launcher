@@ -1,0 +1,31 @@
+["Villager Settings"]
+	#Enable Ramadan Delight villager trades (all)
+	enableVillagerTrades = true
+	#Enable Ramadan Delight farmer villager trades (such as parsley, dates...)
+	enableFarmerVillagerTrades = true
+	#Enable Ramadan Delight Mason villager trades (such as Mosaic Tiles)
+	enableMasonVillagerTrades = true
+	#Enable Ramadan Delight Wandering Trader trades
+	enableWanderingTrades = true
+
+["Village Settings"]
+	#Enable Ramadan Delight to add Palm Trees to Desert Villages
+	enableVillageStructures = true
+
+	["Village Settings"."Worldgen Settings"]
+		#Chance of Date Palm Tree generating in the world. (0 to disable, higher = rarer)
+		# Default: 100
+		# Range: 0 ~ 512
+		chanceDatePalm = 100
+		#Count of Date Palm Trees generating per chunk (0 to disable, higher = rarer)
+		# Default: 1
+		# Range: 0 ~ 16
+		countDatePalm = 1
+		#Chance of Wild Chickpea in the world. (0 to disable, higher = rarer)
+		# Default: 110
+		# Range: 0 ~ 512
+		chanceChickpea = 110
+		#Chance of Parsley generating in the world. (0 to disable, higher = rarer)
+		# Default: 130
+		# Range: 0 ~ 512
+		chanceParsley = 130

@@ -1,0 +1,61 @@
+	[blocks.display]
+		enable_cutting_board = true
+		enable_dipping = true
+		enable_generic_display = true
+		# Default: 4000
+		# Range: 1000 ~ 16000
+		small_bowl_capacity_mb = 4000
+		dipping_exclude = []
+		generic_display_exclude = ["tag:c:tools"]
+
+		[blocks.storage.cloth_sack]
+			cloth_sack_allow_food = false
+			cloth_sack_stack = true
+			cloth_sack_eat_from_item = false
+			cloth_sack_inventory = true
+			cloth_sack_exclude = ["item:createfood:cloth_sack"]
+			cloth_sack_filter = []
+
+		[blocks.storage.ration_box]
+			ration_box_allow_food = true
+			ration_box_stack = false
+			ration_box_eat_from_item = true
+			ration_box_inventory = true
+			ration_box_exclude = []
+			ration_box_filter = []
+
+[interactions]
+	enable_filter_interactions = true
+	enable_pumpkin_pie_placement = false
+	filter_interactions = ["createfood:cloth_filter_egg|minecraft:glass_bottle|createfood:cloth_filter_egg_yolk|createfood:egg_whites_bottle", "createfood:cloth_filter_egg_yolk|none|createfood:cloth_filter|createfood:egg_yolk", "createfood:cloth_filter_cacao_mass|minecraft:bucket|createfood:cloth_filter_pressed_cocoa|createfood:cacao_butter_bucket", "createfood:cloth_filter_pressed_cocoa|none|createfood:cloth_filter|createfood:pressed_cocoa"]
+
+	[interactions.campfire_cooking]
+		enable_campfire_cooking = false
+		require_shift = true
+		sticks_only = false
+		# Default: 3
+		# Range: 1 ~ 16
+		horizontal_range = 3
+		# Default: 1
+		# Range: 0 ~ 8
+		vertical_range = 1
+		campfire_cooking_exclude = []
+		campfire_cooking_filter = []
+
+	[interactions.handcraft]
+		allow_single_item = false
+		enable_handcrafting = true
+		enable_particles = true
+		exclude = ["item:createfood:egg_yolk", "tag:minecraft:enchantable/durability", "tag:minecraft:enchantable/vanishing", "tag:c:tools"]
+		filter = []
+
+[items]
+	nutrition_saturation = []
+
+	[items.effects]
+		category_overrides = []
+		item_overrides = ["caramel_popcorn|minecraft:luck|600|0", "caramel_popcorn|minecraft:strength|600|0", "chocolate_dried_coffee_beans|comfort|1200|0", "chocolate_dried_coffee_beans|minecraft:haste|600|0", "coffee_toffee_fudge|comfort|600|0", "coffee_toffee_fudge|lightning|1200|0", "coffee_toffee_fudge|minecraft:haste|600|0", "coffee_toffee_fudge|sugar_rush|1200|0", "coffee_toffee|comfort|600|0", "coffee_toffee|lightning|600|0", "coffee_toffee|minecraft:haste|600|0", "dark_chocolate_dried_coffee_beans|comfort|1200|0", "dark_chocolate_dried_coffee_beans|minecraft:haste|600|0", "dragon_burger_crimson_fungus|explosion|1200|0", "dragon_burger_crimson_fungus|minecraft:absorption|6000|0", "dragon_burger_crimson_fungus|minecraft:fire_resistance|1200|0", "dragon_burger_crimson_fungus|nourishment|3600|0", "dragon_burger_crimson_fungus|satiated_shield|1200|0", "dragon_burger_warped_fungus|explosion|1200|0", "dragon_burger_warped_fungus|minecraft:absorption|6000|0", "dragon_burger_warped_fungus|minecraft:jump_boost|1200|0", "dragon_burger_warped_fungus|minecraft:slow_falling|1200|0", "dragon_burger_warped_fungus|nourishment|3600|0", "dragon_burger_warped_fungus|satiated_shield|1200|0", "dragon_burger|explosion|1200|0", "dragon_burger|minecraft:absorption|1200|0", "dragon_burger|nourishment|1200|0", "eggplant_burger_lettuce|nourishment|3600|0", "eggplant_burger_tomato|nourishment|3600|0", "eggplant_burger|nourishment|1200|0", "eggplant_cheeseburger_lettuce_tomato|nourishment|6000|0", "eggplant_cheeseburger_lettuce|nourishment|6000|0", "eggplant_cheeseburger_tomato|nourishment|6000|0", "eggplant_cheeseburger|nourishment|3600|0", "endermite_meatball_sandwich|minecraft:regeneration|1200|0", "endermite_meatball_sandwich|nourishment|1200|0", "endermite_meatball_sandwich|rest|1200|0", "endermite_meatball_stick_1|minecraft:regeneration|1200|0", "endermite_meatball_stick_1|nourishment|600|0", "endermite_meatball_stick_1|rest|1200|0", "endermite_meatball_stick_2|minecraft:regeneration|3600|0", "endermite_meatball_stick_2|nourishment|1200|0", "endermite_meatball_stick_2|rest|1200|0", "endermite_meatball_stick_3|minecraft:regeneration|6000|0", "endermite_meatball_stick_3|nourishment|3600|0", "endermite_meatball_stick_3|rest|4800|0", "hamburger_peanut_butter_bacon|nourishment|600|0", "hamburger_peanut_butter|nourishment|600|0", "marshmallow_coffee_toffee_fudge|comfort|600|0", "marshmallow_coffee_toffee_fudge|minecraft:haste|600|0", "marshmallow_coffee_toffee_fudge|sugar_rush|1200|0", "pasta_plate_eggplant|nourishment|1200|0", "pasta_plate_eggplant|satiation|1200|0", "pasta_plate_endermite_meatballs_tomato_sauce|nourishment|3600|0", "pasta_plate_endermite_meatballs_tomato_sauce|rest|6000|0", "pasta_plate_endermite_meatballs_tomato_sauce|satiation|1200|0", "pasta_plate_endermite_meatballs|nourishment|1200|0", "pasta_plate_endermite_meatballs|rest|4800|0", "pasta_plate_endermite_meatballs|satiation|1200|0", "pasta_plate_strider_meatballs_tomato_sauce|nourishment|3600|0", "pasta_plate_strider_meatballs_tomato_sauce|satiation|1200|0", "pasta_plate_strider_meatballs|nourishment|1200|0", "pasta_plate_strider_meatballs|satiation|1200|0", "peanut_butter_apple_jam_sandwich|comfort|600|0", "peanut_butter_apple_jam_sandwich|nourishment|1200|0", "peanut_butter_chorus_fruit_jam_sandwich|comfort|600|0", "peanut_butter_chorus_fruit_jam_sandwich|nourishment|1200|0", "peanut_butter_melon_jam_sandwich|comfort|600|0", "peanut_butter_melon_jam_sandwich|nourishment|1200|0", "small_endermite_meatballs|minecraft:regeneration|600|0", "small_endermite_meatballs|nourishment|600|0", "small_endermite_meatballs|rest|600|0", "small_strider_meatballs|minecraft:fire_resistance|600|0", "small_strider_meatballs|nourishment|600|0", "strider_meatball_sandwich|minecraft:fire_resistance|1200|0", "strider_meatball_sandwich|nourishment|1200|0", "strider_meatball_stick_1|minecraft:fire_resistance|1200|0", "strider_meatball_stick_1|nourishment|600|0", "strider_meatball_stick_2|minecraft:fire_resistance|3600|0", "strider_meatball_stick_2|nourishment|1200|0", "strider_meatball_stick_3|minecraft:fire_resistance|6000|0", "strider_meatball_stick_3|nourishment|3600|0", "ube_cream_ube_cupcake|comfort|600|0", "white_chocolate_dried_coffee_beans|comfort|1200|0", "white_chocolate_dried_coffee_beans|minecraft:haste|600|0"]
+
+	[items.remainders]
+		enable_egg_impact_remainder = true
+		crafting_remainders = ["minecraft:egg|createfood:eggshell", "createfood:cake_batter_bucket|minecraft:bucket", "createfood:chocolate_cake_batter_bucket|minecraft:bucket", "createfood:ube_cake_batter_bucket|minecraft:bucket"]

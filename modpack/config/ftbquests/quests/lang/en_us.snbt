@@ -1,0 +1,842 @@
+{
+	chapter.193F91842D2ED7D9.title: "Industrial Foregoing"
+	chapter.1D61843D46563806.title: "Create"
+	chapter.33C9E52EF9326063.title: "Botania"
+	chapter.3456E0C530C0038E.title: "EvilCraft"
+	chapter.476DF733E6E2DA51.title: "Mastering the Occult"
+	chapter.6AEDA2F9BEB57759.title: "Ars Nouveau"
+	chapter.6D2593D46E6CA2C1.chapter_subtitle: ["Стартовая игра"]
+	chapter.6D2593D46E6CA2C1.title: "Minecraft"
+	chapter.6EC81C36E73D454F.title: "Farmer's Delight"
+	image.66FADA63E47372A2.title: "What are you doing with my Blood?"
+	quest.00000000000000CD.quest_desc: ["Should be able to nab some of these to get you started from a village."]
+	quest.00000000000000CD.title: "Potato, Potatoe"
+	quest.000000000000072E.quest_desc: ["Let those stalks reach for the sky!"]
+	quest.000000000000072E.title: "Sugar or Paper?"
+	quest.0000000000000FC0.quest_desc: [
+		"The following are your basic crops that will always be handy when you are hungry."
+		""
+		"The quests following the initial crops give a basic recipe to help keep you fed but look to JEI for more complex and fullfilling recipes."
+	]
+	quest.0000000000000FC0.title: "Фермер"
+	quest.0000000000000FC2.quest_desc: ["Desert adventure time."]
+	quest.0000000000000FC2.title: "Cacti"
+	quest.0000000000000FC4.title: "Sugar"
+	quest.0000000000000FC6.quest_desc: ["I am supposed to beat a root?"]
+	quest.0000000000000FCE.quest_desc: ["Man I will be able to write so much stuff on this."]
+	quest.0000000000000FD0.quest_desc: ["Should be able to find a few of these in villages as well."]
+	quest.0000000000000FD0.title: "Морковь"
+	quest.0000000000000FD2.quest_desc: ["Have to eat some melons to make some melons."]
+	quest.0000000000000FD4.quest_desc: ["You don't have jack on me Mr. Pumpkin!"]
+	quest.0000000000000FD6.quest_desc: ["Nether fortress mold."]
+	quest.0000000000000FD6.title: "Hell Wart"
+	quest.0000000000000FD8.quest_desc: ["You are going to have to travel to the great white north to find some of these delicous berries."]
+	quest.0000000000000FD8.title: "Sweet Berries"
+	quest.0000000000000FE2.quest_desc: ["The skin of the innocent..... oh boy that sounds bad....."]
+	quest.000000000000132B.quest_desc: ["Eggs o'plenty!"]
+	quest.00993B7037D1CC04.quest_desc: [
+		"Now that we've reached this far, up to spawning a bound Foliot, it's best that you continue by following the &bDictionary of Spirits&r."
+		""
+		"That thing is basically a quest book all onto its own, it really doesn't need any more guidance out here."
+	]
+	quest.00993B7037D1CC04.quest_subtitle: "They took our job!"
+	quest.00993B7037D1CC04.title: "Ok Seriously, This Thing's Pretty Good"
+	quest.0104C2E2E30B966B.quest_desc: [
+		"Is the &cBlood Chest&r not working fast enough? Do you have too many items that need to be repaired? You can make a &cColossal Blood Chest&r to solve these problems."
+		""
+		"To build one, you need to make 25 &9Reinforced Undead Planks&r. Using these, you want to make a 3x3x3 hollow cube, then place a &cColossal Blood Chest&r block to close off the multiblock structure. If done right, you'll have a massive &cBlood Chest&r you can now use. Some might call is colossal."
+		""
+		"This also allows you to upgrade it using &6Promises&r."
+		""
+		""
+		"{image:atm:textures/questpics/evilcraft/bloodchest.png width:250 height:200 align:1}"
+	]
+	quest.0104C2E2E30B966B.quest_subtitle: "Papa Blood Chest"
+	quest.0104C2E2E30B966B.title: "&aColossal Repairs&r"
+	quest.026A71F98A52E3A5.quest_desc: [
+		"Within villages, there are &ointeresting&r villagers that just so happen to be &dWerewolves&r."
+		""
+		"Slaying these beasts will give you &dWerewolf Flesh&r."
+	]
+	quest.03F27F1547C475A3.quest_desc: [
+		"With your newly aquired crushed endstone and obsidian dust you can craft purple chalk for upgraded rituals."
+		""
+		"Toss in spirit fire to finish the conversion."
+	]
+	quest.03F27F1547C475A3.quest_subtitle: "Get Purple Chalk"
+	quest.04D9F6587EF8D9B7.quest_desc: [
+		"The &9Potion Jar&r stores up to 100 potions. You can remove them by using an empty bottle or a potion flask on the jar."
+		""
+		"Wixies will use these jars during Potion Autocrafting."
+	]
+	quest.04D9F6587EF8D9B7.quest_subtitle: "Storing Potions"
+	quest.0518BBF4C16E24F6.quest_desc: [
+		"> Has 2 modes, bind and function"
+		"> Sneak right click air to switch between modes"
+		"> Blocks with orientation like chests can be rotated"
+		"> Dispenser can use the wand while triggering with redstone"
+	]
+	quest.0518BBF4C16E24F6.quest_subtitle: "A botanist's most important tool"
+	quest.059E5A9B039D5A75.quest_subtitle: "The Force Lens acts as a Piston. When a Mana Burst fired through it hits a block that a piston can move, it'll do just that."
+	quest.06094615950AC062.title: "Other Conveyor Upgrades"
+	quest.066438B01655D866.quest_desc: [
+		"While their &dEssence&r is useful, we can also capture these Spirits for later use. That sounds evil, doesn't it?"
+		""
+		"To become a Spirit Hunter, you'll need to create the &dVengeance Focus&r first. This is used to &aFreeze Spirits&r in place, then you place a &9Box of Eternal Closure&r near the Spirit. This will then suck the Spirit in for later use."
+	]
+	quest.066438B01655D866.title: "Capturing &dSpirits&r"
+	quest.06FCFD49B9DC5C59.quest_desc: [
+		""
+		"- Any animals you slay using a Knife are guaranteed to drop secondary items, such as Leather and Feathers;"
+		""
+		"- Grassy plants (grass, wheat, rice etc) cut with a Knife will occasionally yield Straw, a firm and useful fiber;"
+		""
+		"- They act as a modest melee weapon: swings faster than a sword for lesser damage;"
+		""
+		"- Later on, they are also useful for cutting and portioning ingredients when preparing meals."
+	]
+	quest.06FCFD49B9DC5C59.quest_subtitle: "Knives are scavenging tools: they allow you to obtain a few more resources from both fauna and flora."
+	quest.081EE3168F8B1FC7.quest_desc: [
+		"> The most basic Mana Lens does absolutely nothing."
+		"> A Lens can be dyed by crafting it with any color of dye to give it that color"
+		"> Rainbow lens can be crafted with Mana Pearl"
+		"> Coloured lenses change the colour  of the fired burst."
+		"> They can be upgraded with all sorts of materials to create all sorts of effects with their Mana Bursts"
+		"> Combining two lenses with a Slimeball in a crafting table will unite them into one lens with the effects of both"
+	]
+	quest.081EE3168F8B1FC7.quest_subtitle: "A Mana Spreader can be upgraded with Mana Lenses"
+	quest.081EE3168F8B1FC7.title: "Mana Lenses"
+	quest.088FCB5267CB7A89.quest_desc: ["This belt will give random positive potion effects for a short duration. These will vary in strength. "]
+	quest.0A1ABE9CF7740AAA.quest_desc: ["The Ring of Discount provides a small bonus to max mana and mana regen. It also reduces the total cost to cast a spell."]
+	quest.0AB4D36C889FBDC6.quest_desc: [
+		"RU - Если житель заразился от зомби, кинь на него это зелье"
+		""
+		"EN - If a resident is infected by a zombie, throw this potion on him"
+	]
+	quest.0B7E3FD8B8CB04A2.title: "Simple Black Hole Storage"
+	quest.0B9F2B443813F43C.quest_desc: [
+		"Have you ever wanted to be able to attack things with a Shovel, and it hurt? I would ask why, but this is EvilCraft."
+		""
+		"Well look no further! This serves as both a weapon, and a tool for breaking soft things!"
+	]
+	quest.0BB0DF36B079558F.quest_desc: [
+		"The &6Entangled Chalice&r is just like an Ender Tank."
+		""
+		"When placed in the world, it can pump in Blood. When activated in your inventory, it will try to fill up your items that use &cBlood&r as a resource."
+		""
+		"If you want to make more Chalices using the same network, just use the crafting recipe that uses a Chalice instead of a gold ingot."
+	]
+	quest.0BB0DF36B079558F.title: "&dEntangled Chalice&r"
+	quest.0D330FAD6C993DBC.quest_desc: [
+		"This is the next upgrade to your Spellbook!"
+		""
+		"This will increase your overall mana and mana regen, as well as unlocking the ability to create and use Tier 2 Glyphs."
+	]
+	quest.0D898BB7E8857A14.quest_subtitle: "Великий шахёр"
+	quest.0E2AD156E5EF263A.quest_desc: ["Used to inscribe spells on with the Scribe's Table."]
+	quest.0E8647B8EB4AAC41.title: "Pink Slime \\& Liquid Meat"
+	quest.0EAF01037BB20BCB.quest_subtitle: "Summons Zombies"
+	quest.0EC2053B191C55C6.quest_desc: [
+		"Extracts latex from logs."
+		""
+		"Check JEI for acceptable logs and latex amounts."
+	]
+	quest.1080D58DE23C93FD.quest_desc: ["> A burst under its effects that collides with a Force Relay will teleport to the target of said Force Relay, maintaining its momentum, but making its Mana irrecoverable.Furthermore, when it's combined with a Bore Lens (the Bore Lens must be first), it'll prevent bursts from breaking Force Relays or Pistons, and teleport any blocks broken by the Bore Lens to the burst's origin."]
+	quest.1080D58DE23C93FD.quest_subtitle: "The Warp Lens is an interesting one. "
+	quest.10DED086BDEF9EFF.quest_desc: [
+		"EN - You can also raise other animals"
+		""
+		"RU - Вы также можете разводить других животных"
+	]
+	quest.10EF30B919EBA5C6.quest_desc: [
+		"It's a pickaxe with Fortune V on it. That's all."
+		""
+		"Definitely won't summon spirits when you are mining. &oDefinitely won't.&r"
+	]
+	quest.111649D7E16D869F.quest_desc: [
+		"The &9Caster's Wand&r only accepts a single spell, and is inscribed using the Scribe's Table."
+		""
+		"Wand spells always start with Projectile > Accelerate, and MUST be inscribed with a spell that does not have another method (like touch, self, etc)."
+		""
+		"This allows you to cast spells beyond the 10 spell cap. If you want to use Break, just inscribe the wand with Break by itself."
+	]
+	quest.12F3A604329EC604.quest_subtitle: "Increases the Efficiency of EvilCraft Machines"
+	quest.14DB8A515CA50932.quest_desc: [
+		"The &9Enchanter's Sword&r allows you to attach a Touch Spell to the sword. "
+		""
+		"All spells on the Sword gain 1 additional Amplify augment to the last effect on the spell."
+		""
+		"To apply a spell to the sword, use a Scribe's Table. Create the spell without using a form."
+	]
+	quest.151648179684B088.quest_desc: [
+		"Runic Chalk is used to draw permanent Runes on that ground. These runes will cast spells on entities that walk over them."
+		""
+		"To attach a spell to a rune, inscribe a &eSpell Parchment&r using a Scribe's Table."
+		""
+		"Note: The Rune will need Source to operate."
+	]
+	quest.151648179684B088.quest_subtitle: "Placeable Spells"
+	quest.16D8482E3EA78235.quest_desc: [
+		"The &bStable Wormhole&r lets you &6access the linked Dimensional storage&r from other places."
+		""
+		"Sneak right-click the Actuator with the Wormhole to bind it, then place it anywhere. Opening the Wormhole will show the Actuator's contents!"
+	]
+	quest.16D8482E3EA78235.quest_subtitle: "Make a Stable Wormhole"
+	quest.1729A82B2351DE53.quest_desc: [
+		"When any growable plant is placed on Rich Soil, its growth will be randomly boosted, similar to the usage of Bone Meal."
+		"Rich Soil can be tilled into Rich Farmland through the use of hoes. Rich Farmland is immune to mob trampling and won't unravel to Melons or Pumpkins, but requires hydration in order to boost crops."
+		""
+		"Mushrooms planted on Rich Soil under sufficient darkness will eventually form a Mushroom Colony. Such colonies will grow from 2 to 5 mushroom caps over time, dropping them when harvested."
+	]
+	quest.17D7D34F519F7E5F.quest_desc: [
+		"To create the final tier of your Spellbook, you'll need to have killed the &6Wilden Chimera&r."
+		""
+		"This is a Ritual that you'll need to complete using a &9Ritual Brazier&r."
+	]
+	quest.18A2FBE2D4133FA2.quest_desc: [
+		"Arcane Pedestals are needed for the Ritual Brazier and crafting items with an Enchanting Apparatus."
+		""
+		"Go ahead and make yourself 8 of them!"
+	]
+	quest.18A2FBE2D4133FA2.quest_subtitle: "Fancy Tables"
+	quest.18A2FBE2D4133FA2.title: "Arcane Pedestals"
+	quest.18F8DADD01FEC9C2.quest_desc: [
+		"The Cooking Pot is a workstation where you can both prepare and store a large amount of meals. When placed above any suitable heat source (campfire, open flames, lava, a stove etc.), it will start bubbling, indicating it's ready to cook."
+		""
+		"You can put up to six ingredients inside a pot. If they match, the pot will start cooking them up into a meal. Most meals need a container to be served on, such as Bowls; the result slot will tell you which one to use. Simply add the container on the corresponding slot, or right-click the pot with it, to take a serving!"
+		""
+		"Meals tend to be quite large, so they don't stack up as high in your inventory. If you're not going to eat them all right away, you can just mine the whole pot and take it with you! Cooking Pots can hold 64 servings of any meal with a container, regardless of their maximum stack limit."
+	]
+	quest.18F91887274390F1.quest_desc: [
+		"The &bStorage Accessor&r allows me to &6access my dimensional storage from anywhere&r!"
+		""
+		"Sneak right-click the Actuator with the Accessor to bind it, and then use the Accessor anywhere to access the contents."
+	]
+	quest.18F91887274390F1.quest_subtitle: "Make a Storage Actuator"
+	quest.199E7C89584C3DB1.quest_subtitle: "Removes Bad Potion Effects"
+	quest.19D02325579F2AA8.quest_desc: [
+		"The Volcanic Sourcelink generates Source by consuming burnable items. Archwood logs will generate bonus Source."
+		""
+		"As it burns items, it will convert nearby stone into lava."
+		""
+		"This also generates Lava Lilys."
+	]
+	quest.1AD44B9DE65C4DB9.quest_desc: [
+		"By &6throwing Demon Dream Fruit&r on the ground, and &6lighting it on fire&r, it will create &bSpirit Fire&r."
+		""
+		"Spirit Fire has magical properties that can &6convert items thrown in&r into other items."
+	]
+	quest.1AD44B9DE65C4DB9.quest_subtitle: "This seems familiar..."
+	quest.1B3F5E8FB78901BF.quest_subtitle: "The Messenger Lens greatly decreases the amount of Mana a Mana Burst carries and dramatically increases the burst's speed and maximum distance.This can be very useful for interactions with blocks such as the Mana Detector, Drum of the Wild, or Animated Torch."
+	quest.1CE263AEA234D241.quest_desc: [
+		"> This type of lens is called a Control Lens."
+		"> The effect of this particular Control Lens is to make the spreader fire a continuous particle burst of the color the lens is dyed, in the direction the spreader is aimed. No mana is consumed; there're surely plenty of decorative uses for this."
+	]
+	quest.1CE263AEA234D241.quest_subtitle: "The Flare Lens takes over a Mana Spreader's functionality, preventing it from firing any bursts"
+	quest.1D794DE95C9FF6C7.quest_subtitle: "Increase the Speed of EvilCraft Machines"
+	quest.1D86B2E553503E53.quest_desc: ["The Dominion Wand is used for controlling the creatures you might encounter in the world! Each being responds differently to the wand, so make sure to read up in the Worn Notebook!"]
+	quest.1D86B2E553503E53.title: "Summoning Help!"
+	quest.1DA0A87C471A38AC.quest_desc: [
+		"&cEvilCraft&r has its own Mob Farm!"
+		""
+		"To start this, you'll need to craft at least 33 &cDark Blood Bricks&r. With these, we'll build a structure that is strong enough to contain the summoned spirits."
+		""
+		"You'll also need a spirit trapped in a &9Box of Eternal Closure&r. This will determine the drops you'll get."
+		""
+		"To build this, you need to build a cuboid structure with enough room for the mob to spawn. The minimum size is 3x4x3, which has enough room to spawn mobs like zombies. Make sure to place a &9Spirit Furnace&r on one of the faces so you can interact with the structure."
+		""
+		"If you want to spawn bigger mobs, you'll need to make a bigger structure."
+		""
+		"{image:atm:textures/questpics/evilcraft/evilcraft_spiritfurnace.png width:125 height:150 align:1}"
+	]
+	quest.1DA0A87C471A38AC.title: "&aMob Farms using&r &cBlood&r!"
+	quest.1DCA13B8B677B0CC.quest_subtitle: "There are 16 different mystical flowers, this pouch can hold them all!"
+	quest.1DCA13B8B677B0CC.title: "Where do i store all this flowers?"
+	quest.1DF75AD90E44CA46.quest_subtitle: "Natural magic, revolving around flora."
+	quest.1DF75AD90E44CA46.title: "This is Botania"
+	quest.1E3471513C75CC54.quest_desc: [
+		"If you leave a bucket of blood on the ground long enough, it will dry into &cHardened Blood&r."
+		""
+		"Aside from being incredibly unsanitary, we need all kinds of blood for us to progress. Even dried blood."
+		""
+		"This will turn back into blood in the rain, or by breaking it with regular tools. If you break it with &9Flint and Steel&r, you'll get &dBlood Shards&r instead."
+	]
+	quest.1E3471513C75CC54.title: "Drying... &cBlood?&r"
+	quest.1EA89DD440FBA503.quest_subtitle: "Breed all the animals!(26)"
+	quest.1F8BC2A4CF055038.quest_subtitle: "A Reusable Ender Pearl"
+	quest.20C15F0705ED9770.quest_desc: [
+		"&bDimensional Stabilizers&r allow you to &6increase the max capacity of your Dimensional Storage&r."
+		""
+		"They have to be placed 2-5 blocks away, and have to aim at the floating Matrix above the base. More than one can be installed."
+		""
+		"Tier 1 adds 256 slots."
+	]
+	quest.223D65A0541CA61C.quest_desc: [
+		"RU - Зажги обсидиановый портал"
+		""
+		"EN - Light the Obsidian Portal"
+	]
+	quest.227DBA8836021B0B.quest_desc: [
+		"In Ars Nouveau, the power system for machines is called &9Source&r."
+		""
+		"To start collecting some Source, we'll need a Source Jar."
+		""
+		"Source can also be moved with buckets, or by breaking and picking up Source Jars."
+	]
+	quest.227DBA8836021B0B.quest_subtitle: "Storing Source"
+	quest.22E1A465FAF7EAA2.quest_desc: ["Fully absorbs your fall without dealing damage."]
+	quest.23167E1F1A445D85.quest_desc: [
+		"RU - Размести в небольшом доме где будет стоять кровать, призови жителя которого ты получил! (старайся его охранять) "
+		""
+		"EN - Place it in a small house where there will be a bed, call the inhabitant of which you have received! (try to guard him)"
+	]
+	quest.2459749B47E708FA.quest_subtitle: "The Potency Lens will double the amount of Mana a Mana Burst can carry; however, the beam travels slower, and after it starts to lose mana, does so at a much faster rate."
+	quest.25BA70F5523994D6.quest_desc: [
+		"Much of &eOccultism&r revolves around &6summoning Demons&r and ordering them to do things. The most simple demon is the &bFoliot&r."
+		""
+		"Craft a &bBook of Binding: Foliot&r, and then craft it together with your &6Book of Spirits&r. This will &6bind a specific Foliot to the book&r."
+	]
+	quest.25BA70F5523994D6.quest_subtitle: "Little buddy!"
+	quest.25D128009CF159B3.quest_subtitle: "The Velocity Lens will dramatically increase the speed at which a Mana Burst travels, but at the expense of initial capacity and faster Mana Loss."
+	quest.27E4CBB51DBD27CD.quest_desc: [
+		"Ropes are essentially reverse scaffolding: the can be continuously deployed downward from the same spot, and can be climbed without collision. This allows players to safely descend or ascend high altitudes, such as ravines or mountains."
+		""
+		"When placing Rope, you can use more ropes against the first one to deploy them downward. This will continuously extend a column of rope down to the bottom-most Y-level possible, allowing for easy and controllable descents into chasms, ravines or from high locations."
+		""
+		"To suppress rope deployment, simply sneak while placing it. If there's no space underneath to deploy, it will also place normally."
+	]
+	quest.2857140F38349D53.quest_subtitle: "The Efficiency Lens will decrease the amount of time it takes for a Mana Burst to start losing its Mana, but will also decrease its rate of loss."
+	quest.28BF66D1B8CD4D44.quest_desc: [
+		"&dBrooms&r can be made using Broom Parts. Every Broom is made up of 3 parts: a Rod, a Cap, and a Brush."
+		""
+		"Each part can be crafted by combing the bare part with certain items to give them specific modifiers. As there are too many modifiers to type out, make sure to check the guide book for more info!"
+		""
+		"To craft your Broom, simply place each part into the crafting table. The Broom will require Blood to function properly. "
+	]
+	quest.28BF66D1B8CD4D44.quest_subtitle: "Broom Broom"
+	quest.28BF66D1B8CD4D44.title: "&cBlood&r &dBrooms&r"
+	quest.290FAB3DE8FD04E7.quest_desc: ["Works like the &aMace of Distortion&r, except it causes an AoE explosion instead."]
+	quest.295C77EEC89000FC.quest_subtitle: "Generates Source from Mob Deaths and Animal Breeding"
+	quest.2A50FF9D44A31F35.quest_subtitle: "The Magnetizing Lens (as its name states) allows a Mana Burst to home in (or \"magnetize\") on any nearby blocks that can receive Mana. Doing so slightly decreases the speed of the burst."
+	quest.2CB69634F6A6E53E.quest_desc: [
+		"These are hard to miss, considering they have a massive beam coming from the center."
+		""
+		"In the center of the &9Dark Temple&r is a &aEnvironmental Accumulator&r. "
+		""
+		"We can use this to empower and create several items that we'll need along the way, including &dLightning Bombs&r!"
+	]
+	quest.2CB69634F6A6E53E.title: "&9Dark Temples&r"
+	quest.2CCFEE98FE3B2E97.title: "Blocks"
+	quest.2D0CF18C8B2ABB7D.quest_desc: [
+		"Placing this near growing plants or saplings will provide Source. Archwood trees provide more Source!"
+		""
+		"Note: Bonemealing does not produce Source."
+	]
+	quest.2D0CF18C8B2ABB7D.quest_subtitle: "Creates Source using the growth of Plants"
+	quest.2F3CD36216139F03.quest_desc: [
+		"The next tier of circle magics will require a more potent chalk. The Gold Chalk allows energy to move more freely through it. You'll need to obtain some gold dust and glow stone either by having a crusher spirit crush it or some other mechanism. "
+		""
+		"Once You've made impure gold chalk, throw it into the spirit fire to finish converting it."
+	]
+	quest.2F3CD36216139F03.quest_subtitle: "Get Golden Chalk"
+	quest.2FEC85DD348C7C1C.quest_desc: [
+		"Items can be placed on the Cutting Board by using them on it. It always prefers receiving items from the off-hand, allowing players to hold their ingredients there while holding the tool in their main hand, processing the stack simply by holding the use button."
+		""
+		"When the correct tool is used on a valid item, it will be broken down into 1-4 different outputs, which are swiped sideways. Outputs always fly to the direction opposite to the Cutting Board's handle, allowing them to be collected by an item-capturing block, such as a Hopper or Basket. The tool receives 1 point of damage for each processed item."
+	]
+	quest.2FEC85DD348C7C1C.quest_subtitle: "The Cutting Board is a workstation where players can break down one item into many outputs, by using a valid tool on it."
+	quest.3027584AA6138E6D.title: "Conveyor Insertion \\& Extraction"
+	quest.3142A40E1EAEBAA3.quest_desc: [
+		"The &6Dowsing Rod&r gives you Magic Find and Scrying when used."
+		""
+		"This allows you to see nearby magic creatures as well as helping you find amethyst!"
+	]
+	quest.3142A40E1EAEBAA3.quest_subtitle: "Magic Finder"
+	quest.3182E8AF755104E4.quest_desc: [
+		"When blocking damage, the &9Enchanter's Shield&r will give the user Mana Regen and Spell Damage for a short amount of time."
+		""
+		"Additionally, the shield will repair itself over time using the wearer's mana."
+	]
+	quest.31E7C56ABBA6A7B2.quest_desc: ["This combination allows your mount to be a lot more agile during travels. Since mounts eat a large volume of feed, the item does not need to be contained in a Bowl, saving some inventory space."]
+	quest.31FD9EA513E0D010.quest_desc: [
+		"&cEvilCraft&r is a magic mod based on somewhat evil things. Collect the blood of your enemies and harness the power of an ancient source of evil!"
+		""
+		"Everything in this mod can be found in the guidebook, the &aOrigins of Darkness&r. "
+		""
+		"To get started, find yourself some &9Dark Gems&r. "
+	]
+	quest.31FD9EA513E0D010.title: "&aWelcome to &r&cEvilCraft&r!"
+	quest.3290DBA5115E93A8.quest_subtitle: "Крепче, лучше"
+	quest.332432CB9EC79CF5.quest_desc: [
+		"Following the &6Book of Spirits&r, make the Pentacle &6Aviar's Circle&r."
+		""
+		"With it, you can &6summon a bound Foliot&r, and assign it to a job."
+	]
+	quest.332432CB9EC79CF5.quest_subtitle: "Get to work!"
+	quest.33682F4B44950123.quest_desc: [
+		"To gain further knowledge of spells, we'll need a specific type of magical wood!"
+		""
+		"Archwood Trees can be found in the overworld."
+	]
+	quest.33682F4B44950123.title: "Archwood logs"
+	quest.339DF320DDCAD98B.title: "Item \\& Fluid Transport"
+	quest.339E1EF288DFD99F.quest_desc: [
+		"RU - Бросьте вверх и направляйтесь туда куда полетело око эндера. Возможно придется копать вниз!"
+		""
+		"EN - Throw it up to see the way, it is located underground"
+	]
+	quest.35FA55BE8DF49EE8.quest_desc: [
+		"Using the power of a slain &9Vengeance Spirit&r, we can use the Blood Infuser to create &dGarmonbozia&r."
+		""
+		"This is &dPain&r and &dSorrow&r materialized. It's also the high-end crafting material for powerful tools and items in EvilCraft."
+	]
+	quest.35FA55BE8DF49EE8.title: "&dGarmonbozia&r"
+	quest.36183375DAA54408.quest_desc: [""]
+	quest.3693C3F67BD59401.quest_desc: ["This combination allows wolves to catch up a lot more easily with you or nimble opponents, as well as last longer in battle."]
+	quest.38428BE09619A2C4.quest_desc: [
+		"The &bDimensional Storage Actuator&r allows you to to &6store a massive amount of items&r."
+		""
+		"Freshly crafted, it has &6128 slots&r, and holds &6up to 1000 items per slot&r. It has a search bar, several sorting options, and a 3x3 crafting grid."
+		""
+		"The anvil slot in the top left, and the furnace menu in the bottom left, both are only used by Djinni Machine Operator."
+		""
+		"The Actuator &6keeps its contents when mined&r."
+		""
+		"Pipes and the like can access the Actuator's inventory."
+	]
+	quest.38428BE09619A2C4.quest_subtitle: "Magical Mass Storage"
+	quest.39287CC17A70C0CB.quest_desc: ["Tier 3 adds 1024 slots."]
+	quest.39355B0F51A95127.quest_desc: [
+		" ##"
+		"#  #"
+		"#  #"
+		"#  #"
+		" ##"
+		""
+		"RU - Вместо значков используй Обсидиан (Вертикально)"
+		""
+		"EN - Use Obsidian instead of icons (Vertically)"
+	]
+	quest.39355B0F51A95127.title: "Nether"
+	quest.3A5C65B6AB3273B1.quest_desc: ["Killing animals with the &bButcher Knife&r will occasionally drop &6Tallow&r, a necessary ingredient for magical candles."]
+	quest.3A5C65B6AB3273B1.quest_subtitle: "Chop Chop"
+	quest.3D4D88B8BE881351.quest_desc: [
+		"If you want to cast better spells, you'll need a &6Scribe's Table&r to unlock new glyphs for your spellbook."
+		""
+		"There are 3 tiers of glyphs to unlock, and each one requires some experience and items."
+		""
+		"The Scribe's Table is also used to attach spells to Spell Parchments. To do this, place a Spell Parchment on the table, select the spell in your Spellbook, then sneak right-click the book on the table."
+		""
+		"To create a Glyph, right-click on the Scribe's Table with your spellbook. Search for the glyph you want to make, then click Select at the bottom. Right-click the table with the items required, and the glyph will be created. Use the glyph to learn it."
+		""
+		"Note: The table can pull items from nearby inventories."
+	]
+	quest.3D4D88B8BE881351.quest_subtitle: "Upgrading Spells"
+	quest.3D862A3D3F83CA26.quest_desc: [
+		"The &9Enchanting Apparatus&r is used to craft various items within the mod. It requires Source to work."
+		""
+		"It is also a multiblock structure that utilizes Arcane Pedestals to craft."
+		""
+		"Start by placing an Arcane Core in the ground, then place the Enchanting Apparatus on top of it. Surround the Apparatus with Arcane Pedestals."
+		""
+		"{image:atm:textures/questpics/ars/enchanting_app.png width:200 height:175 align:1}"
+	]
+	quest.3D862A3D3F83CA26.title: "Enchanting Apparatus"
+	quest.3E6706BC4C318A40.title: "Other Machines"
+	quest.3F3428CDFD3A959D.quest_subtitle: "Властелин щелей"
+	quest.3FD702B5AB006402.quest_desc: [
+		"Have you ever wanted to just hover everywhere you go?"
+		""
+		"This belt allows you to levitate. To activate, just sneak while in the air, either while falling or from jumping."
+	]
+	quest.40888A2C17D8FFF6.quest_desc: [
+		"Using the Blood Infuser, you can create &cUndead Saplings&r that grow into &dUndead Trees&r."
+		""
+		"The logs and planks are useful for creating several tools and items within EvilCraft."
+	]
+	quest.40888A2C17D8FFF6.title: "Undead Trees"
+	quest.40BC67BDEE15D1DE.quest_desc: ["To create Source Gems, we'll need to put either Lapis or Amethyst Shards into the Imbuement Chamber. Over time, these will convert to Source Gems!"]
+	quest.40BC67BDEE15D1DE.title: "&5Source Gems"
+	quest.41A0BE357C8A74E1.quest_desc: [
+		"The &9Alchemical Sourcelink&r produces Source from adjacent potion jars."
+		""
+		"The amount of source varies per potion and complexity."
+	]
+	quest.41A0BE357C8A74E1.quest_subtitle: "Power through Potions"
+	quest.41DBCA2E9CF6C49E.quest_desc: [""]
+	quest.41DBCA2E9CF6C49E.quest_subtitle: "Создай свою первую кирку"
+	quest.427C3AFC0FF131CD.title: "Fluids"
+	quest.42E7541B87963785.quest_desc: ["Tier 2 adds 512 slots."]
+	quest.441C0659ED28D935.quest_desc: ["Tier 1 Glyphs require 3 levels of experience to be made."]
+	quest.441C0659ED28D935.title: "Tier 1 Glyphs"
+	quest.447D1005B0881D70.quest_desc: [
+		"Using a Knife on grassy plants will yield Straw, a useful building and composting material. Early on, it's best used to craft some Ropes."
+		""
+	]
+	quest.44A4C4070357D2BA.quest_desc: ["You get &bSoul Sand&r by throwing Sand into the &6Spiritfire&r!"]
+	quest.44A4C4070357D2BA.quest_subtitle: "Get Soul Sand"
+	quest.45421DF9BD942C62.quest_subtitle: "The Entropic Lens imbues a Mana Burst with entropic forces, causing it to release its energy in the form of an explosion when it collides against something that can't receive Mana."
+	quest.457DE8C154641437.quest_desc: [
+		"The &9Ritual Brazier&r is used to cast rituals. It can also be used for decoration. If you want to light the Brazier, use a Light spell on it."
+		""
+		"To perform rituals, you'll need Arcane Pedestals as well. As there are so many rituals to cast, make sure to check out each of them using the &6Worn Notebook&r!"
+		""
+		"This can be done by holding Ctrl on the Ritual Table while the book is in your inventory."
+	]
+	quest.46D4E5DB8C7C388D.quest_desc: ["> Any burst under its effects that collides with a Mana Spreader will (apart from transferring Mana like normal) make the receiving spreader point towards the one that fired the burst."]
+	quest.46D4E5DB8C7C388D.quest_subtitle: "The Redirective Lens will only take effect when fired from a Mana Spreader. "
+	quest.46E386050F3DA112.quest_subtitle: "Разлей воду что бы заработало!"
+	quest.4780D2B6E5831DBB.quest_subtitle: "The knowledge of Alfheim's Mana-handling methods comes, of course, with an array of new and useful Mana Lenses."
+	quest.4780D2B6E5831DBB.title: "Open the Portal to Alfheim"
+	quest.485AFAE5BBEF2FC7.title: "Animals"
+	quest.4978A9B616362CCE.title: "&aRank 2&r: More &cBlood&r"
+	quest.4D7B6842B9F53459.quest_desc: ["Gives you a speed boost + step height!"]
+	quest.4DF7E2149F4BD8CC.quest_desc: ["To insert the desired potion, just right click with the &2Primed Pendant&r in hand to open its inventory."]
+	quest.4DF7E2149F4BD8CC.quest_subtitle: "Applies Potion Effects"
+	quest.4EBED8ABC8C863A4.title: "&aRank 3&r: Even More &cBlood&r"
+	quest.5081102A7CED9AA5.quest_subtitle: "The Weight Lens places a strong downward force within a Mana Burst, making any block hit by it (as long as it has space below) fall like Sand and Gravel do."
+	quest.51162B9185A45BB1.quest_desc: [
+		"This bow can be inscribed with a spell using a Scribe's Table."
+		""
+		"At the cost of mana, arrows will become Spell Arrows and will apply the spell on their target."
+		""
+		"If you have no arrows, a spell arrow that deals 0 damage will be cast. If there is not enough mana, regular arrows will be fired instead."
+		""
+		"The &9Enchanter's Bow&r can also use special Augment Arrows that empower the inscribed spell."
+	]
+	quest.51B24CC5E9332C1E.quest_desc: [
+		"Sometimes when you kill a mob, a &dVengeance Spirit&r will spawn."
+		""
+		"Their &dEssence&r seems to be useful in crafting more advanced items within EvilCraft."
+		""
+		"Not finding many Spirits? Make a &9Vengeance Ring&r and toggle it on to attract more Spirits during your battles."
+	]
+	quest.51B24CC5E9332C1E.title: "Revenge of the &dSpirit&r"
+	quest.525517F1625A9BCB.quest_desc: [
+		"Did a mob hit the floor too hard and get its &cBlood&r everywhere? Oh no!"
+		""
+		"Anyway."
+		""
+		"You can use a &cSanguinary Pedestal&r to absorb that precious &cBlood&r for later use!"
+		""
+		"Want to automate collecting blood? Place a &9Spiked Plate&r on top of the Pedestal, then have a mob stand on it."
+	]
+	quest.525517F1625A9BCB.title: "&aCollecting&r &cBlood Stains&r"
+	quest.53448330FDCF11DA.quest_desc: ["Tier 4 adds 2048 slots."]
+	quest.53863C6AA180513F.quest_desc: [
+		"By using &6Bone Meal&r and breaking the Tall Grass, you might get &6Demon Dream Seeds&r."
+		""
+		"Plant and harvest these for &bDemon Dream Fruit&r, which allows you to begin &eOccultism&r."
+	]
+	quest.53863C6AA180513F.quest_subtitle: "Hades hallucinations"
+	quest.53AD87221951C4FB.quest_desc: ["> Instead of an explosion, it creates a festive firework dyed the color of the burst."]
+	quest.53AD87221951C4FB.quest_subtitle: "The Celebratory Lens functions much like the common Entropic Lens"
+	quest.540B857F043C24D5.title: "Bio Power"
+	quest.542C6D76B579886C.quest_desc: [
+		"When your Magebloom seeds.... bloom, you can use the Magebloom to create Fibers."
+		""
+		"These are used to craft several items, including your first set of magical armor!"
+	]
+	quest.55820773BDD5319D.quest_desc: ["Welcome to &aIndustrial Foregoing&f!"]
+	quest.55820773BDD5319D.title: "Industrial Foregoing"
+	quest.55AF1779E7AE28A7.quest_desc: ["When consumed, it will remove a single random negative effect from the player, keeping positive ones untouched. This provides a simple use for Cocoa Beans in difficult, risky trips."]
+	quest.56D3BC7D09F900CA.quest_desc: [
+		"Rich Soil is an enhanced type of dirt, more fertile and durable to the elements."
+		""
+		"Rich Soil cannot be directly crafted. To make it, you must craft Organic Compost and place it into the world, letting it decompose over time."
+		""
+		"Organic Compost will decompose more easily under sunlight and moisture from nearby water, but doesn't actually hydrate like farmland. It can also be gently accelerated by placing activators next to it, in a 3x3x3 area centered on itself."
+		""
+		"Currently, the following blocks behave as activators for Organic Compost:"
+		"- Brown and Red Mushrooms, and their Colonies;"
+		"- Podzol and Mycelium;"
+		"- Other blocks of Organic Compost;"
+		"- Rich Soil, normal or tilled."
+	]
+	quest.56FB82DEB944F758.quest_desc: ["Holding right click will charge up the Mace to do an AoE attack using &cBlood&r. Sneak-right clicking will change the power level. The higher the power level, the more damage it will do at a higher cost of Blood."]
+	quest.56FE803D8ECA0B77.quest_subtitle: "The Damaging Lens allows a Mana Burst to use its own mana to damage any living beings it hits."
+	quest.5766C8B9E850C186.quest_desc: [
+		"To create one of the main crafting items in Ars, the &9Source Gem&r, we'll need to make an &6Imbuement Chamber&r."
+		""
+		"The Imbuement Chamber requires Source to imbue items. It produces a small amount of Source by itself, but can also use Source Jars as a power source."
+		""
+		"Several recipes also require Arcane Pedestals to be placed around it as well."
+		""
+		""
+		"{image:atm:textures/questpics/ars/imbuement.png width:200 height:150 align:1}"
+	]
+	quest.5766C8B9E850C186.quest_subtitle: "Creating Source Gems"
+	quest.58EC47584C773B82.quest_desc: [
+		"Using our Enchanting Apparatus structure, we'll want to craft our first seed, the &5Magebloom Seed&r."
+		""
+		"This will be used to create us some magical clothing!"
+	]
+	quest.58EC47584C773B82.quest_subtitle: "Growing Magic"
+	quest.58EC47584C773B82.title: "Magebloom Seed"
+	quest.59036A2741E7A8AA.quest_desc: [
+		"Want to create a mob egg from the spirit you have trapped in that box?"
+		""
+		"The &9Spirit Reanimator&r does exactly that. Give it a lot of &cBlood&r and an egg, and of course a &9Box of Eternal Closure&r with the Spirit you want to create the mob egg from, and it will attempt to create the mob egg!"
+		""
+		"Note: Some mobs cannot be used to create eggs."
+	]
+	quest.59036A2741E7A8AA.title: "&aCreating&r &9Mob Eggs&r"
+	quest.5A8F4CA0F09F4842.quest_desc: [
+		"Need to remove &dEnchantments&r from an item you've found? Maybe you want to remove a Curse? This can be done using the &cPurifier&r."
+		""
+		"To do this, first place at least 3 buckets worth of blood into the Purifier, then throw in the item you want to remove an enchantment from."
+		""
+		"Next, add in the &cBlook&r. The Blook will absorb one of the enchants from the item, and convert it into a book of the enchant."
+	]
+	quest.5A8F4CA0F09F4842.title: "Removing &dEnchantments&r and &dCurses&r"
+	quest.5C3FF43CF16BCF30.quest_desc: ["With Source Gems, you can get started crafting the various machines by creating &5Sourcestones&r."]
+	quest.5C3FF43CF16BCF30.quest_subtitle: "Formerly known as \"Arcane Stones\""
+	quest.5C3FF43CF16BCF30.title: "Sourcestones"
+	quest.5CF7175F3F5F64F6.quest_desc: ["Craft an Endoflame or Hydroageas using the Petal Apothecary."]
+	quest.5CFBA24B3E0CDEDD.quest_desc: [
+		"While holding your Spellbook, you can press C to open up the spell creation page."
+		""
+		"Each spell must have a form. You start off with 3 basic forms: Projectile, Self-cast, and Touch."
+		""
+		"For the Effect, this determines what happens when you cast the spell. You can have up to 9 effects per spell."
+		""
+		"For starters, you have Harm and Break."
+		""
+		"Select one Form and one Effect, name your spell, and click create!"
+		""
+		"{image:atm:textures/questpics/ars/spellbook.png width:200 height:150 align:1}"
+	]
+	quest.5DD7363C76855F9D.quest_subtitle: "Trinkets are accessories that offer all sorts of different effects when worn. Unlock Manasteel Ingot quest to gain access."
+	quest.600F66B13B29708B.quest_desc: ["Either with the flesh of &aPlayers&r or &dWerewolves&r, you can create an &aInfinite Food Source&r using the power of Garmonbozia!"]
+	quest.619A52669514E850.quest_desc: [
+		"Feasts are not edible directly as an item; they must be placed down as a block first. When placed, players can use (right-click) them with Bowls to serve themselves with a consumable portion."
+		""
+		"The existing feasts in Farmer's Delight provide 4 servings in total. Plated feasts will also leave behind leftovers in the form of a dirty plate; right-clicking or mining it will retrieve the original Bowl, and any bones or food scraps left behind."
+	]
+	quest.619A52669514E850.quest_subtitle: "Feasts are very large meals, which can be placed as a block to provide multiple servings to players."
+	quest.6280D759A26A0268.quest_subtitle: "The Flash Lens creates a flame on a block, of the same color as the burst that caused it. The flame provides light and is purely decorative.If a burst hits one of these flames, it puts the flame out instead."
+	quest.62A262A706CFCAF0.quest_desc: [
+		"We won't be creating Dark Power Gems using pools of blood anymore."
+		""
+		"Instead, we can make the &9Blood Infuser&r to do all of the messy work for us. This allows you to directly infuse items with blood!"
+		""
+		"These can be upgraded using &6Promises&r as well. This is one of the main machines used for progression!"
+	]
+	quest.62A262A706CFCAF0.title: "&aThe&r &cBlood Infuser&r"
+	quest.62CE0FFAF6352287.quest_desc: [
+		"EvilCraft machines can be upgraded using &6Promises&r. Each Promise will have different effects, but first, we'll want to upgrade our Blood Infuser to unlock more recipes."
+		""
+		"To do this, we need to create a &6Promise of Tenacity: Tier 1&r. Generally, this just increases the storage capacity of a machine. For the Blood Infuser, this will unlock more recipes!"
+	]
+	quest.62CE0FFAF6352287.title: "&aUpgrading Our Machines&r"
+	quest.632BC46928CC9A8C.quest_desc: [
+		"The &9Enchanter's Mirror&r will apply a self spell when used."
+		""
+		"Spells cast with this mirror are discounted and gain additional bonus duration."
+		""
+		"To apply a spell, use a Scribe's table. Create a spell without using a form."
+	]
+	quest.63AE4568375DD1BF.quest_desc: ["With &dGarmonbozia&r, we can now create our own &aEnvironmental Accumulator&r. That's a lot to type out, I'm gonna be honest."]
+	quest.63AE4568375DD1BF.title: "Our Own Weather Accumulator"
+	quest.63DD7F5A4441ACE7.quest_desc: [
+		"Tier 2 Glyphs require 5 levels of experience to be made."
+		""
+		"They also require a &9Mage's Spell Book&r to create."
+	]
+	quest.63DD7F5A4441ACE7.title: "Tier 2 Glyphs"
+	quest.64D0E66CB4FBEC82.quest_desc: [
+		"To get started, you'll need to craft yourself a &6Novice Spellbook&r."
+		""
+		"This is where you create and store your spells."
+		""
+		"Hitting the &9C&r key will open up the \"Create a Spell\" page. On the left, there are several tabs, but the main 3 are: Spell Creation, Color Picker, and Familiars."
+		""
+		"This spellbook will only allow you to create and use Tier 1 Glyphs. To create better spells, you'll need to upgrade your Spellbook!"
+	]
+	quest.64D0E66CB4FBEC82.quest_subtitle: "Our First Spellbook"
+	quest.64EC182B81BD8B86.quest_desc: [
+		"To progress, we'll need to create our first &5Dark Power Gem&r."
+		""
+		"To do this, you'll need to collect at least 5 buckets worth of blood in your &aBlood Extractor&r. Once collected, make a hole with at least 5 blocks of space, and then fill it with the blood."
+		""
+		"Once you've created your pool of blood, toss in a &9Dark Gem&r to infuse it."
+	]
+	quest.64EC182B81BD8B86.title: "&dInfusing Gems with&r &cBlood&r"
+	quest.66F353DAEF962091.quest_subtitle: "The Resistance Lens will significantly increase the amount of time a Mana Burst can go without starting to lose Mana, but slows it as well."
+	quest.66FB1ED1E2A9A7F8.quest_subtitle: "The Bore Lens charges a Mana Burst with the ability to use its own Mana to break any blocks it hits."
+	quest.674E2690D66ECD6E.quest_desc: [
+		"When it's a thunderstorm, throwing in a &aWeather Container&r into the &aEnvironmental Accumulator&r will harness the power of the storm."
+		""
+		"Using this, we can create items that allow us to control Lightning at will."
+	]
+	quest.674E2690D66ECD6E.title: "&aYou've Been&r &9Thunderstruck&r"
+	quest.68318811CCC28320.quest_desc: [
+		"Combining &aHardened Blood Shards&r with &9Dark Power Gems&r will make Blood Infusion Cores."
+		""
+		"&9Blood Infusion Cores&r are the main crafting components of several machines in EvilCraft."
+	]
+	quest.68318811CCC28320.title: "&aInfusion Cores&r"
+	quest.68A22C4F676669BF.quest_desc: [
+		"In order to make crushed end stone you will need a crusher spirit foliot. The foliot can take endstone and crush it to allow you to make purple chalk for the penultimate tier circle magic."
+		""
+		"If you have no yet obtained end stone now would be a good time to summon a possessed endermite. They drop endstone when killed which you can convert to endstone brick and place under a material generator pedestal for more end stone."
+	]
+	quest.68A22C4F676669BF.quest_subtitle: "Get Crushed End Stone"
+	quest.68E6F02353701423.quest_subtitle: "The Gravity Lens makes gravity affect a Mana Burst, making the burst move in an arc. As compensation, it also slightly increases the time before Mana Loss sets in."
+	quest.6A1C0B17B22CE50F.quest_desc: [
+		"The &9Amulet of Mana Boost&r gives a boost to max mana."
+		""
+		"The &6Amulet of Mana Regen&r gives a boost to your mana regen."
+	]
+	quest.6A1C0B17B22CE50F.title: "The Amulets"
+	quest.6B511C8B572E8940.quest_desc: [
+		"In the bottom left of your screen, you'll see a bar. This bar is your mana pool!"
+		""
+		"There are several ways to increase your mana pool, or increase the efficiency of your spells as you progress through the mod. Upgrading your spellbook can also increase your mana!"
+	]
+	quest.6B511C8B572E8940.quest_subtitle: "Mage Power"
+	quest.6C001E18093FC037.title: "Plants"
+	quest.6CA1D90CCE17097D.quest_subtitle: "A One-Time Use Lightning Scepter"
+	quest.6DAA82B5F94AF9F8.quest_desc: [
+		"The &9Jar of Light&r summons a floating light source that follows you."
+		""
+		"The &6Jar of Voiding&r destroys items you pick up in exchange for mana. This can be filtered."
+		""
+		"To add or remove an item to be detroyed by the jar, use the jar with the item in your off hand, or use an item on the Scribe's Table with the jar placed on it."
+		""
+		"The jar must be on your hotbar to function."
+	]
+	quest.6E0E13806F388D7E.quest_desc: [
+		"Welcome to &aArs Nouveau&f!"
+		""
+		"Ars Nouveau is a magic mod that allows you to create custom spells with the different Glyphs made within the mod!"
+	]
+	quest.6EA1683223AEAEBE.quest_subtitle: "The Influence Lens allows a Mana Burst to have influence over any nearby dropped items, experience orbs and even falling blocks, having them move in the exact same vector of motion as the burst itself."
+	quest.6F17CD0750FBF250.quest_desc: ["EN Place it in a circle near the magic table (Not in the butt)"]
+	quest.6F17CD0750FBF250.quest_subtitle: "Размести по кругу возле чародейского стола (Не в притык)"
+	quest.6F3602F5600A6221.quest_desc: [
+		"Tier 3 Glyphs require 10 levels of experience to be made."
+		""
+		"They also require an &6Archmage's Spell Book&r."
+	]
+	quest.6F3602F5600A6221.title: "Tier 3 Glyphs"
+	quest.6F4FE2BA11D1CB0B.quest_subtitle: "The Phantom Lens is an interesting one. By leveraging the Abstruse Platform's properties, the lens allows a Mana Burst to pass through blocks. In doing so, the time it can survive without losing mana is decreased."
+	quest.706B8B666B50215F.quest_desc: [
+		"EN - We strongly recommend installing mod Jei"
+		""
+		"RU - Настоятельно рекомендуем установить мод Jei"
+		""
+		"JEI"
+		""
+		"EN - Hover over the item and press R to view its crafting"
+		"Jei (Left Click) - How to make an item"
+		"Jei (Right Click) - See what you can do with this item"
+		""
+		"RU - Наведитесь на предмет и нажмите R чтобы посмотреть его крафт"
+		"Jei (Left Click) - Как сделать предмет"
+		"Jei (Right Click) - Посмотреть что можно сделать из этого предмета"
+	]
+	quest.71ED2850DB4D0528.quest_subtitle: "Наведитесь на предмет и удерживайте кнопку W чтобы посмотреть как он работает."
+	quest.7236D801CE365132.quest_desc: ["> When a burst that's passed through it hits a colorable block (Wool, Stained Clay or Glass...), it'll turn that block (and any connected blocks of the same type and color) into the color of the Mana Burst. It seems to work on Sheep too."]
+	quest.7236D801CE365132.quest_subtitle: "The Paintslinger lens needs to be dyed one of the 16 colors of the spectrum to function. "
+	quest.7311FD45F0BCB4B7.quest_subtitle: "У нас тут всё серьёзно!"
+	quest.74B0308336F5E017.quest_desc: [
+		"The &cBlood Chest&r can be used to repair items using &cBlood&r."
+		""
+		"However, items repaired might become &dCursed&r...."
+	]
+	quest.74B0308336F5E017.title: "Repairing Tools with &cBlood&r"
+	quest.74F0CD823C4EABF0.quest_subtitle: "The Kindle Lens is infused with a burning spark. When a Mana Burst fired through it hits a block, the block will catch fire. It doesn't seem to ignite living beings, though.It has the ability to both ignite and close Nether Portals, but to close them it needs to be aimed at the frame, lest the burst it carries end up going through the portal."
+	quest.753B3EF7CC94A6DD.quest_desc: [
+		"This is a unique drop from &aPlayers&r, including when you die!"
+		""
+		"You &ocould&r get this by dying over and over, or by participating in PvP. Same thing!"
+	]
+	quest.75CF9EAB75C3907E.quest_desc: [
+		"Using the power of &9Dark Gems&r, we can create &aDark Tanks&r."
+		""
+		"These can store 16 buckets of any liquid you want, but you'll probably need this for all of the &cBlood&r you'll be collecting."
+		""
+		"Need it to hold more? Just combine it in a crafting grid with another Dark Tank."
+	]
+	quest.75CF9EAB75C3907E.title: "&aStoring&r &cFluids&r"
+	quest.77145113CD5B26FB.quest_desc: [
+		"Source Berries produce more Source than other sources."
+		""
+		"This will also convert grass or dirt into Mycelium in a 3x3 area around it. It will also grow mushrooms around it if the space is empty."
+	]
+	quest.77145113CD5B26FB.quest_subtitle: "Generates Source from Nearby Food"
+	quest.77B5B23A2C01ED7E.quest_desc: [
+		"The &9Kineticator&r works like a magnet for items and experience."
+		""
+		"The &eReverse Kineticator&r will instead repel items and experience."
+	]
+	quest.77B5B23A2C01ED7E.quest_subtitle: "Magnets"
+	quest.78B424948B4C7F02.quest_subtitle: "The Bounce Lens will allow a Mana Burst to bounce off walls, rather than dissipating on collision."
+	quest.790EDD8B0E8BF4CA.quest_desc: [
+		"RU - После зелья покорми его этим яблоком! Не теряй время, зелье не будет действовать вечно!"
+		""
+		"EN - After the potion, feed him with this apple! Don't waste your time, the potion won't last forever!"
+	]
+	quest.7A93F07BE2E6EC97.quest_desc: [
+		"When it's raining, throwing in a &aWeather Container&r will harness the power of the rain."
+		""
+		"With this, you can create an &9Infinite Water Bucket&r, or an &9Infinite Water Source Block&r. These are both incredibly useful items to have!"
+	]
+	quest.7A93F07BE2E6EC97.title: "&aLet it&r &9Rain&r"
+	quest.7B524DAD8A33BF85.quest_desc: [
+		"Need more blood from your enemies? Of course you do!"
+		""
+		"The &dVein Sword&r allows you to collect more blood, as well as more drops with Looting attached to it!"
+	]
+	quest.7C0ACFE540BFAB6F.quest_desc: ["> The Tripwire Lens is another Control Lens."]
+	quest.7C0ACFE540BFAB6F.quest_subtitle: "The Tripwire Lens is another Control Lens."
+	quest.7C855A617FBCF1DE.quest_desc: [
+		"Most magic in &eOccultism&r uses &6rituals&r."
+		""
+		"A major part of rituals involves drawing circles using &bChalk&r. This circle is called a &6Pentacle&r."
+		""
+		"Different rituals have different patterns that must be drawn; I can consult the &6Dictionary of Spirits&r for information on each."
+		""
+		"Chalk takes a long time to break, unless you use a &bChalk Brush&r."
+	]
+	quest.7C855A617FBCF1DE.quest_subtitle: "ChalkZone!"
+	quest.7E39FB9F3E973009.quest_desc: [
+		"Suggestion:"
+		"Use some sort of wither-proof glass."
+	]
+	quest.7E79F52147B606F9.quest_desc: [
+		"To start collecting blood, we need to craft the &cBlood Extractor&r. "
+		""
+		"As long as you have this in your inventory, killing mobs will collect blood into the extractor. &cBlood&r is an important resouce in EvilCraft."
+		""
+		"Need to increase the storage of the Extractor? Simply make another, and then combine them in a crafting grid!"
+		""
+		"These can also be used to extract blood from &cBlood Stains&r you find (or create) on the ground."
+		""
+		"Lastly, with enough blood stored, you can sneak-right click on the ground to place a bucket of blood down."
+	]
+	quest.7E79F52147B606F9.title: "&aCollecting&r &cBlood&r"
+	quest.7F78862744F14920.title: "End"
+	task.01FD75641E5EA5E4.title: "Mana"
+	task.03EB390E79866058.title: "Sourcestone"
+	task.0F5083339210953C.title: "Any #minecraft:logs"
+	task.163A6E303D6F419D.title: "Archwood Logs"
+	task.1B916AE67F84E6D7.title: "Creating Your First Spell"
+	task.251874AE085FBC47.title: "Feasts"
+	task.33CEC23CAF6DA6A6.title: "Ars Nouveau"
+	task.3F74C5C7D558F6DC.title: "Обучение"
+	task.4C569B32E08A8574.title: "Find Mystical Flowers"
+	task.529AF6004FE7819C.title: "Sanguinary Pedestal"
+	task.52D6F14FEB974305.title: "Visit a Dark Temple"
+	task.541FBBE921B69F32.title: "Any #create:toolboxes"
+	task.546D0F20A5F024DA.title: "Watching the world burn"
+	task.567B754D8FE1DD06.title: "Pet Foods"
+	task.58CBEE0C60B24303.title: "Open the Portal to Alfheim"
+	task.59D341F0EA08CE87.title: "Guide"
+	task.69BC192449AC85EF.title: "Пора в ад"
+	task.6C865A610203A065.title: "Any #minecraft:planks"
+	task.71F3655544000C93.title: "Any #minecraft:trapdoors"
+	task.7508E906C021AB6B.title: "Archwood Planks"
+	task.78363F629FB16ABD.title: "Any #create:seats"
+}
