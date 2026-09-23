@@ -1,0 +1,19 @@
+{
+  "streamers": [
+    {
+      "name": "TryFound",
+      "desc": "Основатель проекта",
+      "url": "https://www.twitch.tv/tryfound_",
+      "avatar": null,
+      "platform": "twitch"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Обзор сервера SwagaMC",
+      "channel": "ChuraAnd",
+      "url": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+      "thumbnail": null
+    }
+  ]
+}

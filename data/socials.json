@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Discord",
+    "desc": "Общение и поддержка",
+    "url": "https://discord.gg/8zkWErEP5y",
+    "icon": "fab fa-discord",
+    "color": "discord"
+  },
+  {
+    "name": "Telegram",
+    "desc": "Новости и обновления",
+    "url": "https://t.me/SWAGA_MC",
+    "icon": "fab fa-telegram",
+    "color": "telegram"
+  },
+  {
+    "name": "YouTube",
+    "desc": "Гайды и летсплеи",
+    "url": "https://youtube.com/@yourlink",
+    "icon": "fab fa-youtube",
+    "color": "youtube"
+  }
+]
