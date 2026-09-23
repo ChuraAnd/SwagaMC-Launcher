@@ -35,3 +35,38 @@ git clone https://github.com/ChuraAnd/SwagaMC-Launcher.git
 cd SwagaMC-Launcher
 npm install
 npm start
+Команда полного обновления manifest.json
+node generate-manifest.js
+Команда сборки .exe файла
+npm run dist
+
+структура
+
+SwagaMC-Launcher/
+├── .gitignore
+├── package.json
+├── main.js
+├── index.html
+├── style.css
+├── renderer.js
+├── generate-manifest.js
+├── update-toml-only.js
+├── build/
+│   ── icon.ico
+├── screenshots/
+│   ├── bg1.jpg
+│   ├── bg2.jpg
+│   └── bg3.jpg
+── data/                          ← НОВЫЕ ФАЙЛЫ ДЛЯ ИНТЕРФЕЙСА
+│   ├── news.json                  ← Новости
+│   ├── socials.json               ← Соцсети
+│   ├── media.json                 ← Стримеры и видео
+│   └── server.json                ← IP сервера
+└── modpack/                       ← КЛИЕНТСКАЯ СБОРКА
+    ├── manifest.json              ← Список всех модов и конфигов
+    ├── mods/                      ← .jar файлы модов
+    │   ├── mod1.jar
+    │   └── mod2.jar
+    ── config/                    ← Файлы настроек
+        ├── config1.toml
+        └── config2.json
