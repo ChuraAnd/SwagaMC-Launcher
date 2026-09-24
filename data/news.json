@@ -26,7 +26,7 @@
     "category": "Главное",
     "date": "23 Сентября 2026",
     "icon": "fa-rocket",
-    "image": "data/images/news1.jpg",
+    "image": "https://github.com/ChuraAnd/SwagaMC-Launcher/blob/2b3ef18ab98abb71d5d5e748cbb7fa06c8cd5f8b/data/images/news1.jpg",
     "author": "TryFound"
   }
 ]
